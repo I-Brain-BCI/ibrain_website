@@ -111,8 +111,8 @@ sections:
         country: China
         country_code: CN
       coordinates:
-        latitude: '22.80443'
-        longitude: '113.97199'
+        latitude: '22.80'
+        longitude: '113.96047'
       directions: Enter Weiguang Life Science Park and follow the signs to our office
       office_hours:
         - 'Monday 10:00 to 13:00'
