@@ -12,7 +12,7 @@ sections:
       text: |
         Ready to join our team? Get in touch with us for more information about current opportunities or to discuss potential collaborations.
         
-        For career opportunities, please visit our [Careers page](/careers/).
+        For career opportunities, please visit our [Careers page](ibrain_website/careers/).
       # Contact (add or remove contact options as necessary)
       email: ibrain@smart.org.cn
       phone: 888 888 88 88
