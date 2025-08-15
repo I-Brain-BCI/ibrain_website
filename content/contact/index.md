@@ -111,7 +111,7 @@ sections:
         country: China
         country_code: CN
       coordinates:
-        latitude: '22.8005'
+        latitude: '22.8015'
         longitude: '113.96047'
 
     
