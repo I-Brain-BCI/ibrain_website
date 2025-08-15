@@ -10,4 +10,5 @@ banner:
   image: ''
 ---
 
-We are always looking for talented individuals to join our research team. Explore our current openings below.
+We are always looking for talented individuals to join our research team. 
+Explore our current openings below.
