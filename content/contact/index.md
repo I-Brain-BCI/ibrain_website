@@ -113,20 +113,7 @@ sections:
       coordinates:
         latitude: '22.8005'
         longitude: '113.96047'
-      directions: Enter Weiguang Life Science Park and follow the signs to our office
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      appointment_url: 'https://calendly.com'
-      contact_links:
-        - icon: envelope
-          icon_pack: fas
-          name: Send Application
-          link: 'mailto:recruitment@ibrain-lab.com'
-        - icon: calendar-check
-          icon_pack: fas
-          name: Schedule Meeting
-          link: 'https://calendly.com'
+
     
       # Automatically link email and phone or display as text?
       autolink: true
