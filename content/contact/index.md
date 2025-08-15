@@ -101,19 +101,19 @@ sections:
       title: Contact Information
       text: |-
         Ready to join our team? Get in touch with us for more information about current opportunities or to discuss potential collaborations.
-      email: recruitment@ibrain-lab.com
+      email: ibrain@smart.org.cn
       phone: 888 888 88 88
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
+        street: Weiguang Life Science Park
+        city: Shenzhen
+        region: Guangdong Province
+        postcode: '518000'
+        country: China
+        country_code: CN
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        latitude: '22.79851'
+        longitude: '113.96547'
+      directions: Enter Weiguang Life Science Park and follow the signs to our office
       office_hours:
         - 'Monday 10:00 to 13:00'
         - 'Wednesday 09:00 to 10:00'
