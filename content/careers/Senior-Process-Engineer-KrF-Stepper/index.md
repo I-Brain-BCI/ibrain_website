@@ -2,11 +2,10 @@
 title: Senior Process Engineer (KrF Stepper)
 date: 2025-07-25
 ---
+<!--more-->
 
 ## Position Overview
 This role is responsible for the operation, maintenance, and process development of the KrF Stepper and the integrated photoresist coating and development track. Responsibilities span process tuning, stepper calibration, reticle handling, and system troubleshooting.Process Engineers will play a key role in developing robust fabrication processes, maintaining tool performance, ensuring high uptime, writing and updating Standard Operating Procedures (SOPs), and supporting users across a broad range of research and prototyping activities.
-
-<!--more-->
 
 ## Key Responsibilities
 - Operate and maintain EBL systems to ensure optimal performance and reliability
