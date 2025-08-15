@@ -25,4 +25,7 @@ main:
   - name: Contact
     url: contact
     weight: 60
+  - name: Careers
+    url: '/careers/'
+    weight: 70
 
