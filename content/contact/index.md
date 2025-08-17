@@ -15,10 +15,8 @@ sections:
         For career opportunities, please visit our [Careers page](ibrain_website/careers/).
       # Contact (add or remove contact options as necessary)
       email: ibrain@smart.org.cn
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
       address:
-        street: Weiguang Life Science Park
+        street: Weiguang Life Science Park Building A1, 12th Floor
         city: Shenzhen
         region: Guangdong
         postcode: '518000'
@@ -27,7 +25,6 @@ sections:
       coordinates:
         latitude: '22.8015'
         longitude: '113.96547'
-      directions: Enter Weiguang Life Science Park and take the elevator to our floor.
     
       # Automatically link email and phone or display as text?
       autolink: true

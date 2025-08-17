@@ -38,8 +38,8 @@ sections:
         link:
           icon: microscope
           icon_pack: fas
-          text: Take a Tour
-          url: ./facilities/
+          text: Explore Research
+          url: ./publication/
       - title: Brain Science Excellence
         content: Focusing on novel approaches for integrating electronics within the brain and nervous system, involving non-invasive syringe delivery of neural network-like mesh electronics into targeted brain regions
         align: left
@@ -53,8 +53,8 @@ sections:
         link:
           icon: users
           icon_pack: fas
-          text: Meet the Team
-          url: ./people/
+          text: Explore Research
+          url: ./publication/
     design:
       slide_height: '600px'
       is_fullscreen: false
