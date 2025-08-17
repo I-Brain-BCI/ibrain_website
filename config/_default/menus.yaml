@@ -16,9 +16,6 @@ main:
   - name: Facilities
     url: facilities
     weight: 37
-  - name: Events
-    url: event
-    weight: 40
   - name: Publications
     url: publication
     weight: 50
