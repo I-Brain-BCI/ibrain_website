@@ -30,7 +30,7 @@ sections:
         align: left
         background:
           image:
-            filename: Bioelectonics.jpg
+            filename: Bioelectonics.png
             filters:
               brightness: 0.7
           position: right
@@ -45,7 +45,7 @@ sections:
         align: right
         background:
           image:
-            filename: Brain Science.jpg
+            filename: Brain Science.png
             filters:
               brightness: 0.5
           position: center
