@@ -12,7 +12,7 @@ sections:
       slides:
       - title: Nanomaterials Innovation
         content: Pushing the boundaries in design, synthesis, and characterization of nanoscale materials with emphasis on novel nanostructures and device arrays for biological interface applications
-        align: center
+        align: left
         background:
           image:
             filename: meshe.png
@@ -42,7 +42,7 @@ sections:
           url: ./facilities/
       - title: Brain Science Excellence
         content: Focusing on novel approaches for integrating electronics within the brain and nervous system, involving non-invasive syringe delivery of neural network-like mesh electronics into targeted brain regions
-        align: right
+        align: left
         background:
           image:
             filename: Brain Science.png
