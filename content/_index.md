@@ -10,8 +10,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Cutting-Edge Brain-Computer Interface Research
-        content: Exploring the intersection of neuroscience and artificial intelligence to develop next-generation brain-computer interface technologies
+      - title: Nanomaterials Innovation
+        content: Pushing the boundaries in design, synthesis, and characterization of nanoscale materials with emphasis on novel nanostructures and device arrays for biological interface applications
         align: center
         background:
           image:
@@ -25,12 +25,12 @@ sections:
           icon_pack: fas
           text: Explore Research
           url: ./publication/
-      - title: State-of-the-Art Laboratory
-        content: World-class laboratory equipped with advanced facilities to support groundbreaking research initiatives
+      - title: Bioelectronics Frontier
+        content: Pioneering the interface between nanoelectronics and life sciences, from sensors for real-time disease detection to development of novel cyborg cells and hybrid nanoelectronics-innervated tissues
         align: left
         background:
           image:
-            filename: coders.jpg
+            filename: Bioelectonics.jpg
             filters:
               brightness: 0.7
           position: right
@@ -40,12 +40,12 @@ sections:
           icon_pack: fas
           text: Take a Tour
           url: ./facilities/
-      - title: Excellence in Team
-        content: Bringing together top talents dedicated to advancing neural engineering and biomedical engineering
+      - title: Brain Science Excellence
+        content: Focusing on novel approaches for integrating electronics within the brain and nervous system, involving non-invasive syringe delivery of neural network-like mesh electronics into targeted brain regions
         align: right
         background:
           image:
-            filename: contact.jpg
+            filename: Brain Science.jpg
             filters:
               brightness: 0.5
           position: center
