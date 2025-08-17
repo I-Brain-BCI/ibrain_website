@@ -130,7 +130,6 @@ sections:
       text: |
         <div style="text-align: center; padding: 40px; background: linear-gradient(135deg, #4bb6ff 0%, #2563eb 100%); border-radius: 10px; color: white; margin: 20px 0;">
           <h3 style="color: white; margin-bottom: 20px;">Ready to Make an Impact?</h3>
-          <p style="font-size: 18px; margin-bottom: 30px;">Explore exciting career opportunities and join our innovative research team.</p>
           <a href="./careers/" style="background: white; color: #2563eb; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">Join Us</a>
         </div>
     design:
