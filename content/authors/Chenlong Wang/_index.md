@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student in Brain-Computer Interface
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
