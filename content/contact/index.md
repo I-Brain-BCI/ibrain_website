@@ -24,7 +24,7 @@ sections:
         country_code: CN
       coordinates:
         latitude: '22.8015'
-        longitude: '113.96247'
+        longitude: '113.96047'
     
       # Automatically link email and phone or display as text?
       autolink: true
