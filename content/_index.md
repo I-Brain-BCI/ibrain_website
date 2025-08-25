@@ -68,7 +68,7 @@ sections:
       image:
         filename: ibrainlogo2.png
       text: |
-        <br>
+        
         
         i-BRAIN aims to develop transformative brain-computer interfaces that seamlessly and stably integrate electronics with brain tissue, enabling advanced brain research and new treatments for neurological diseases, while laying the foundation for future breakthroughs.
   
