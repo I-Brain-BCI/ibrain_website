@@ -115,7 +115,7 @@ sections:
     content:
       title: Latest Papers
       text: ""
-      count: 5
+      count: 7
       filters:
         folders:
           - publication
