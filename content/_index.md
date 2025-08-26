@@ -7,6 +7,27 @@ date: 2022-10-24
 type: landing
 
 sections:
+
+  - block: markdown
+    content:
+      text: |
+
+        {{< figure src="ibrainlogo4.png" 
+           alt="i-BRAIN" 
+           class="text-center" 
+           width="1300px" 
+           height="600px" 
+           caption="i-BRAIN Logo" 
+           title="Institute Logo" >}}
+
+        **Mission.** *i-BRAIN* is developing transformative brain-computer interfaces (BCIs) that blur the distinction between electronics and living tissue to produce seamless, noninvasive and fully-stable integration of electronics with the brain to enable groundbreaking research understanding the brain and brain diseases as well as breakthrough technologies for treatment of neurological and neurodegenerative diseases. *i-BRAIN* will create solutions for the near-term but also enable future advances and treatments that today may be considered the realm of science fiction.  
+
+        **Benefits to Society:** The research carried out at *i-BRAIN* will create world-leading advances in brain science and neural engineering that enable transformative treatments of some of the most pressing human diseases facing society today, including Alzheimer's disease, stroke, depression and aging. *i-BRAIN* will also instill a highly interdisciplinary culture in the training of young scientists, engineers and doctors such that they are prepared to lead the development and translation of science and engineering ideas for the benefit of present and future generations.
+    design:
+      columns: '1'
+      background:
+        color: 'white'
+
   - block: slider
     content:
       slides:
@@ -60,53 +81,6 @@ sections:
       is_fullscreen: false
       loop: true
       interval: 4000
-
-  - block: markdown
-    content:
-      title: ''
-      subtitle: ''
-      text: ""   # 不需要文字就留空
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: ibrainlogo3.png   # 这里就是你的 logo 图片
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: contain               # 这里用 contain 保证 logo 不会被裁剪
-          text_color_light: true
-      spacing:
-        padding: ['100px', '0', '100px', '0']  # 上下留白，让 logo 居中
-      css_class: fullscreen
-
-  - block: markdown
-    content:
-      text: |
-        <div style="text-align: center;">
-          ![i-BRAIN](ibrainlogo3.png)
-        </div>
-
-        ![i-BRAIN](ibrainlogo3.png){.center-image}
-
-        {{< figure src="ibrainlogo4.png" 
-           alt="i-BRAIN" 
-           class="text-center" 
-           width="1300px" 
-           height="600px" 
-           caption="i-BRAIN Logo" 
-           title="Institute Logo" >}}
-
-        {{< figure src="ibrainlogo3.png" alt="i-BRAIN" class="text-center" >}}
-
-        **Mission.** *i-BRAIN* is developing transformative brain-computer interfaces (BCIs) that blur the distinction between electronics and living tissue to produce seamless, noninvasive and fully-stable integration of electronics with the brain to enable groundbreaking research understanding the brain and brain diseases as well as breakthrough technologies for treatment of neurological and neurodegenerative diseases. *i-BRAIN* will create solutions for the near-term but also enable future advances and treatments that today may be considered the realm of science fiction.  
-
-        **Benefits to Society:** The research carried out at *i-BRAIN* will create world-leading advances in brain science and neural engineering that enable transformative treatments of some of the most pressing human diseases facing society today, including Alzheimer's disease, stroke, depression and aging. *i-BRAIN* will also instill a highly interdisciplinary culture in the training of young scientists, engineers and doctors such that they are prepared to lead the development and translation of science and engineering ideas for the benefit of present and future generations.
-    design:
-      columns: '1'
-      background:
-        color: 'white'
 
 
   
