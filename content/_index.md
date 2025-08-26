@@ -29,12 +29,12 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Nanomaterials Innovation
-        content: Pushing the boundaries in design, synthesis, and characterization of nanoscale materials with emphasis on novel nanostructures and device arrays for biological interface applications
+      - title: Disruptive BCI Technology
+        content: "Merging the power and scalability of silicon integrated circuits and ultra-flexible minimally-invasive polymer-based electronics for chronic cognitive and motor studies in rodents and nonhuman primates. A central focus is to monitoring and modulate neural activity on a scale heretofore not possible in animal disease models and to translate these advanced neuro-technologies to humans."
         align: left
         background:
           image:
-            filename: meshe.png
+            filename: researcharea_1.png
             filters:
               brightness: 0.6
           position: center
@@ -44,12 +44,12 @@ sections:
           icon_pack: fas
           text: Explore Research
           url: ./publication/
-      - title: Bioelectronics Frontier
-        content: Pioneering the interface between nanoelectronics and life sciences, from sensors for real-time disease detection to development of novel cyborg cells and hybrid nanoelectronics-innervated tissues
+      - title: Ideal Brain/Electronics Interfaces
+        content: "Develop *ideal* flexible probes that solve key issues facing all technologies today. In simple terms, we are developing BCIs that are stable in recording and stimulation at the level of individual neurons for the life-span of an adult human. The work involves basic research across sciences and engineering, studies in rodents and NHPs and ultimately translation to humans."
         align: left
         background:
           image:
-            filename: Bioelectonics.png
+            filename: researcharea_2.png
             filters:
               brightness: 0.7
           position: right
@@ -59,12 +59,12 @@ sections:
           icon_pack: fas
           text: Explore Research
           url: ./publication/
-      - title: Brain Science Excellence
-        content: Focusing on novel approaches for integrating electronics within the brain and nervous system, involving non-invasive syringe delivery of neural network-like mesh electronics into targeted brain regions
+      - title: BCIs for Regenerative Medicine
+        content: "We are developing 'pro-regenerative' BCIs that not only monitor and/or stimulate neural activity but also promote and control the growth of new neural tissue to repair the brain. The work involves basic research across sciences, engineering and medicine with the goal of translation to human patients for personalized treatment of a range of brain diseases in a way simply not possible today."
         align: left
         background:
           image:
-            filename: Brain Science.png
+            filename: researcharea_3.png
             filters:
               brightness: 0.5
           position: center
@@ -74,6 +74,21 @@ sections:
           icon_pack: fas
           text: Explore Research
           url: ./publication/
+      - title: i-BRAIN* Nanofab Facility
+        content: "Central to the work at *i-BRAIN* is a dedicated state-of-the art nanofabrication user facility adjacent to the main research labs. The facility allows research quickly explore and iterate new BCI ideas – from design through rigorous animal testing – as well provide capabilities necessary for translation and commercialization of validated designs."
+        align: left
+        background:
+          image:
+            filename: facility_overall.png
+            filters:
+              brightness: 0.6
+          position: center
+          color: '#444'
+        link:
+          icon: cogs
+          icon_pack: fas
+          text: Explore Facilities
+          url: ./facilities/
     design:
       slide_height: '600px'
       is_fullscreen: false
@@ -100,26 +115,6 @@ sections:
     design:
       view: card
       columns: '1'
-
-  - block: features
-    content:
-      title: Research Areas
-      subtitle: Our cutting-edge research focuses on three main areas
-      items:
-        - name: Brain-Computer Interfaces
-          description: Developing next-generation neural interfaces for direct brain-computer communication
-          icon: brain
-          icon_pack: fas
-        - name: Nanoelectronics
-          description: Creating ultra-small electronic devices using semiconductor nanowires and advanced fabrication techniques
-          icon: microchip
-          icon_pack: fas
-        - name: Bioelectronics
-          description: Integrating electronics with biological systems for medical applications
-          icon: heartbeat
-          icon_pack: fas
-    design:
-      columns: '3'
 
   - block: collection
     content:
