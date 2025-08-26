@@ -79,16 +79,12 @@ sections:
         align: left
         background:
           image:
-            filename: facility_overall.png
+            filename: nhp_facility.png
             filters:
               brightness: 0.6
           position: center
           color: '#444'
-        link:
-          icon: cogs
-          icon_pack: fas
-          text: Explore Facilities
-          url: ./facilities/
+
     design:
       slide_height: '800px'
       is_fullscreen: false
