@@ -67,7 +67,7 @@ sections:
         <div style="text-align: center; background-color: #f8f9fa; padding: 40px 20px; max-width: 1200px; margin: 0 auto;">
           <!-- 图片区域 -->
           <div style="margin-bottom: 30px;">
-            <img src="media/ibrainlogo2.png" alt="i-BRAIN" style="max-width: 100%; height: auto;">
+            <img src="/media/ibrainlogo2.png" alt="i-BRAIN" style="max-width: 100%; height: auto;">
           </div>
         </div>
 
