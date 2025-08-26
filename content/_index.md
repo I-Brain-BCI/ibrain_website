@@ -63,11 +63,31 @@ sections:
 
   - block: markdown
     content:
+      title: ''
+      subtitle: ''
+      text: ""   # 不需要文字就留空
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: ibrainlogo2.png   # 这里就是你的 logo 图片
+          filters:
+            brightness: 1
+          parallax: false
+          position: center
+          size: contain               # 这里用 contain 保证 logo 不会被裁剪
+          text_color_light: true
+      spacing:
+        padding: ['100px', '0', '100px', '0']  # 上下留白，让 logo 居中
+      css_class: fullscreen
+
+  - block: markdown
+    content:
       text: |
         <div style="text-align: center; background-color: #f8f9fa; padding: 40px 20px; max-width: 1200px; margin: 0 auto;">
           <!-- 图片区域 -->
           <div style="margin-bottom: 30px;">
-            <img src="/media/ibrainlogo2.png" alt="i-BRAIN" style="max-width: 100%; height: auto;">
+            <img src="ibrainlogo2.png" alt="i-BRAIN" style="max-width: 100%; height: auto;">
           </div>
         </div>
 

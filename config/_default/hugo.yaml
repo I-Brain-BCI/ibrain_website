@@ -47,6 +47,9 @@ taxonomies:
   publication_type: publication_types
   author: authors
 markup:
+  goldmark:
+    renderer:
+      unsafe: true  # 允许HTML标签
   _merge: deep
 related:
   threshold: 80
