@@ -39,11 +39,6 @@ sections:
               brightness: 0.6
           position: center
           color: '#666'
-        link:
-          icon: brain
-          icon_pack: fas
-          text: Explore Research
-          url: ./publication/
       - title: Ideal Brain/Electronics Interfaces
         content: "Develop *ideal* flexible probes that solve key issues facing all technologies today. In simple terms, we are developing BCIs that are stable in recording and stimulation at the level of individual neurons for the life-span of an adult human. The work involves basic research across sciences and engineering, studies in rodents and NHPs and ultimately translation to humans."
         align: left
@@ -54,11 +49,6 @@ sections:
               brightness: 0.7
           position: right
           color: '#555'
-        link:
-          icon: microscope
-          icon_pack: fas
-          text: Explore Research
-          url: ./publication/
       - title: BCIs for Regenerative Medicine
         content: "We are developing 'pro-regenerative' BCIs that not only monitor and/or stimulate neural activity but also promote and control the growth of new neural tissue to repair the brain. The work involves basic research across sciences, engineering and medicine with the goal of translation to human patients for personalized treatment of a range of brain diseases in a way simply not possible today."
         align: left
@@ -69,11 +59,6 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-        link:
-          icon: users
-          icon_pack: fas
-          text: Explore Research
-          url: ./publication/
       - title: i-BRAIN* Nanofab Facility
         content: "Central to the work at *i-BRAIN* is a dedicated state-of-the art nanofabrication user facility adjacent to the main research labs. The facility allows research quickly explore and iterate new BCI ideas – from design through rigorous animal testing – as well provide capabilities necessary for translation and commercialization of validated designs."
         align: left
