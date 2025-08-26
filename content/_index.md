@@ -67,20 +67,19 @@ sections:
         <div style="text-align: center; background-color: #f8f9fa; padding: 40px 20px; max-width: 1200px; margin: 0 auto;">
           <!-- 图片区域 -->
           <div style="margin-bottom: 30px;">
-            <img src="assets/media/ibrainlogo2.png" alt="i-BRAIN" style="max-width: 100%; height: auto;">
-          </div>
-          
-          <!-- 文字区域 -->
-          <div style="color: #333; font-size: 14px; line-height: 1.6; text-align: justify; max-width: 800px; margin: 0 auto;">
-            <p><strong>Mission.</strong> <em>i-BRAIN</em> is developing transformative brain-computer interfaces (BCIs) that blur the distinction between electronics and living tissue to produce seamless, noninvasive and fully-stable integration of electronics with the brain to enable groundbreaking research understanding the brain and brain diseases as well as breakthrough technologies for treatment of neurological and neurodegenerative diseases. <em>i-BRAIN</em> will create solutions for the near-term but also enable future advances and treatments that today may be considered the realm of science fiction.</p>
-            
-            <p><strong>Benefits to Society:</strong> The research carried out at <em>i-BRAIN</em> will create world-leading advances in brain science and neural engineering that enable transformative treatments of some of the most pressing human diseases facing society today, including Alzheimer's disease, stroke, depression and aging. <em>i-BRAIN</em> will also instill a highly interdisciplinary culture in the training of young scientists, engineers and doctors such that they are prepared to lead the development and translation of science and engineering ideas for the benefit of present and future generations.</p>
+            <img src="media/ibrainlogo2.png" alt="i-BRAIN" style="max-width: 100%; height: auto;">
           </div>
         </div>
+
+        **Mission.** *i-BRAIN* is developing transformative brain-computer interfaces (BCIs) that blur the distinction between electronics and living tissue to produce seamless, noninvasive and fully-stable integration of electronics with the brain to enable groundbreaking research understanding the brain and brain diseases as well as breakthrough technologies for treatment of neurological and neurodegenerative diseases. *i-BRAIN* will create solutions for the near-term but also enable future advances and treatments that today may be considered the realm of science fiction.  
+
+        **Benefits to Society:** The research carried out at *i-BRAIN* will create world-leading advances in brain science and neural engineering that enable transformative treatments of some of the most pressing human diseases facing society today, including Alzheimer's disease, stroke, depression and aging. *i-BRAIN* will also instill a highly interdisciplinary culture in the training of young scientists, engineers and doctors such that they are prepared to lead the development and translation of science and engineering ideas for the benefit of present and future generations.
     design:
       columns: '1'
       background:
         color: 'white'
+
+
   
   - block: collection
     content:
@@ -144,22 +143,4 @@ sections:
         </div>
     design:
       columns: '1'
-
-sections:
-  - block: cta
-    content:
-      title: ""
-      text: |
-        **Mission.** i-BRAIN is developing transformative brain-computer interfaces (BCIs) that blur the distinction between electronics and living tissue to produce seamless, noninvasive and fully-stable integration of electronics with the brain to enable groundbreaking research understanding the brain and brain diseases as well as breakthrough technologies for treatment of neurological and neurodegenerative diseases. i-BRAIN will create solutions for the near-term but also enable future advances and treatments that today may be considered the realm of science fiction.
-        
-        **Benefits to Society:** The research carried out at i-BRAIN will create world-leading advances in brain science and neural engineering that enable transformative treatments of some of the most pressing human diseases facing society today, including Alzheimer's disease, stroke, depression and aging. i-BRAIN will also instill a highly interdisciplinary culture in the training of young scientists, engineers and doctors such that they are prepared to lead the development and translation of science and engineering ideas for the benefit of present and future generations.
-    design:
-      background:
-        image:
-          filename: ibrainlogo2.png
-          size: contain
-          position: center top
-        color: white
-      spacing:
-        padding: ["40px", "0", "40px", "0"]
 ---
