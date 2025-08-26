@@ -59,7 +59,7 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
-      - title: i-BRAIN* Nanofab Facility
+      - title: i-BRAIN Nanofab Facility
         content: "Central to the work at *i-BRAIN* is a dedicated state-of-the art nanofabrication user facility adjacent to the main research labs. The facility allows research quickly explore and iterate new BCI ideas – from design through rigorous animal testing – as well provide capabilities necessary for translation and commercialization of validated designs."
         align: left
         background:
