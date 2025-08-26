@@ -90,10 +90,10 @@ sections:
 
         ![i-BRAIN](ibrainlogo3.png){.center-image}
 
-        {{< figure src="ibrainlogo3.png" 
+        {{< figure src="ibrainlogo4.png" 
            alt="i-BRAIN" 
            class="text-center" 
-           width="1000px" 
+           width="1300px" 
            height="600px" 
            caption="i-BRAIN Logo" 
            title="Institute Logo" >}}
