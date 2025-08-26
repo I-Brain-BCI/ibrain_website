@@ -93,8 +93,8 @@ sections:
         {{< figure src="ibrainlogo3.png" 
            alt="i-BRAIN" 
            class="text-center" 
-           width="500px" 
-           height="300px" 
+           width="1000px" 
+           height="600px" 
            caption="i-BRAIN Logo" 
            title="Institute Logo" >}}
 
