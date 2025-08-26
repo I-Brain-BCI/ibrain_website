@@ -70,7 +70,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: ibrainlogo2.png   # 这里就是你的 logo 图片
+          filename: ibrainlogo3.png   # 这里就是你的 logo 图片
           filters:
             brightness: 1
           parallax: false
@@ -84,12 +84,9 @@ sections:
   - block: markdown
     content:
       text: |
-        <div style="text-align: center; background-color: #f8f9fa; padding: 40px 20px; max-width: 1200px; margin: 0 auto;">
-          <!-- 图片区域 -->
-          <div style="margin-bottom: 30px;">
-            <img src="ibrainlogo2.png" alt="i-BRAIN" style="max-width: 100%; height: auto;">
-          </div>
-        </div>
+        ![i-BRAIN](ibrainlogo3.png)
+
+        {{< figure src="ibrainlogo3.png" alt="i-BRAIN" class="text-center" >}}
 
         **Mission.** *i-BRAIN* is developing transformative brain-computer interfaces (BCIs) that blur the distinction between electronics and living tissue to produce seamless, noninvasive and fully-stable integration of electronics with the brain to enable groundbreaking research understanding the brain and brain diseases as well as breakthrough technologies for treatment of neurological and neurodegenerative diseases. *i-BRAIN* will create solutions for the near-term but also enable future advances and treatments that today may be considered the realm of science fiction.  
 
