@@ -84,7 +84,19 @@ sections:
   - block: markdown
     content:
       text: |
-        ![i-BRAIN](ibrainlogo3.png)
+        <div style="text-align: center;">
+          ![i-BRAIN](ibrainlogo3.png)
+        </div>
+
+        ![i-BRAIN](ibrainlogo3.png){.center-image}
+
+        {{< figure src="ibrainlogo3.png" 
+           alt="i-BRAIN" 
+           class="text-center" 
+           width="500px" 
+           height="300px" 
+           caption="i-BRAIN Logo" 
+           title="Institute Logo" >}}
 
         {{< figure src="ibrainlogo3.png" alt="i-BRAIN" class="text-center" >}}
 
