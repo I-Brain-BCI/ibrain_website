@@ -33,7 +33,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Nature Materials, 18*(5)"
-publication_short: "Nat. Mater."
+publication_short: "Nature Materials"
 
 abstract: This work presents bioinspired neuron-like electronics that mimic the structure and function of biological neurons. The research demonstrates novel approaches to creating electronic devices that can interface with biological systems, potentially revolutionizing brain-computer interfaces and neural prosthetics. The study explores the fundamental principles of neuron-like behavior in synthetic materials and their applications in bioelectronics.
 

@@ -21,7 +21,7 @@ publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Science Advances, 9*(48)"
-publication_short: "Sci. Adv."
+publication_short: "Science Advances"
 
 abstract: This research presents breakthrough biochemically functionalized probes designed for cell-type–specific targeting and recording in the brain. The work demonstrates novel approaches to creating highly selective neural interfaces that can target specific cell populations while maintaining biocompatibility and recording fidelity. The study explores advanced biochemical functionalization techniques and their applications in creating precise neural recording devices for neuroscience research and potential therapeutic applications.
 
