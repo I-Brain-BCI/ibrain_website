@@ -13,10 +13,7 @@ sections:
       text: |
 
         {{< figure src="ibrainlogo4.png" 
-           alt="i-BRAIN" 
-           class="text-center" 
-           width="1300px" 
-           height="315px">}}
+          style="max-width: 100%; height: auto;" >}}
 
         **Mission.** *i-BRAIN* is developing transformative brain-computer interfaces (BCIs) that blur the distinction between electronics and living tissue to produce seamless, noninvasive and fully-stable integration of electronics with the brain to enable groundbreaking research understanding the brain and brain diseases as well as breakthrough technologies for treatment of neurological and neurodegenerative diseases. *i-BRAIN* will create solutions for the near-term but also enable future advances and treatments that today may be considered the realm of science fiction.  
 
