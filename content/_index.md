@@ -90,7 +90,7 @@ sections:
           text: Explore Facilities
           url: ./facilities/
     design:
-      slide_height: '600px'
+      slide_height: '800px'
       is_fullscreen: false
       loop: true
       interval: 4000
