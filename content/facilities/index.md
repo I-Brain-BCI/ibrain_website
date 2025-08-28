@@ -50,7 +50,7 @@ sections:
             - **Maximum Sample Size:** 200 mm  
 
 
-        - ** Maskless Aligner **
+        - **Maskless Aligner**
             - **Maximum Sample Size:** 300 mm / 12 inch  
             - **Maximum Exposure Area:** 290 mm × 290 mm  
             - **Resolution:** ≤600 nm  
