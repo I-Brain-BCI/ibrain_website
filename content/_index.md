@@ -64,7 +64,7 @@ sections:
         align: left
         background:
           image:
-            filename: facility_overall.png
+            filename: facility_2.png
             filters:
               brightness: 0.6
           position: center
