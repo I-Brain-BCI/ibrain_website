@@ -50,7 +50,7 @@ sections:
             - **Maximum Sample Size:** 200 mm  
 
 
-        - **= Maskless Aligner =**
+        - ** Maskless Aligner **
             - **Maximum Sample Size:** 300 mm / 12 inch  
             - **Maximum Exposure Area:** 290 mm × 290 mm  
             - **Resolution:** ≤600 nm  
@@ -67,21 +67,21 @@ sections:
         - **UV Central Wavelengths:** 365 / 405 / 435 nm  
         - **Gap Adjustment:** 0 – ≥ 1000 µm, adjustable  
         - **Alignment Accuracy:**  
-        - Front-side alignment: ≤ ±1 µm  
-        - Backside alignment: ≤ ±2 µm (with infrared alignment capability)  
+          - Front-side alignment: ≤ ±1 µm  
+          - Backside alignment: ≤ ±2 µm (with infrared alignment capability)  
         - **Exposure Modes:**  
-        - Contact/vacuum exposure: ≤ 1 µm  
-        - Proximity exposure gap: 10 µm ± 3 µm  
-        - Modes: Hard contact (vacuum), soft contact, proximity exposure  
+          - Contact/vacuum exposure: ≤ 1 µm  
+          - Proximity exposure gap: 10 µm ± 3 µm  
+          - Modes: Hard contact (vacuum), soft contact, proximity exposure  
         - **Pre-Alignment System:**  
-        - Image recognition and automatic rotation system with pre-alignment stage  
-        - Rotation angle range: ≥ ±180°  
-        - Rotation accuracy: ≤ 0.01°  
+          - Image recognition and automatic rotation system with pre-alignment stage  
+          - Rotation angle range: ≥ ±180°  
+          - Rotation accuracy: ≤ 0.01°  
         - **Automatic Alignment System:**  
-        - Includes UVW alignment stage and air-bearing auto-leveling system  
-        - Alignment range (X, Y): ≥ ±5 mm  
-        - Rotation angle adjustment: ≥ ±3°  
-        - Microscopes (top and bottom) with two sets of lenses each, controlled by XYZ motorized stages  
+          - Includes UVW alignment stage and air-bearing auto-leveling system  
+          - Alignment range (X, Y): ≥ ±5 mm  
+          - Rotation angle adjustment: ≥ ±3°  
+          - Microscopes (top and bottom) with two sets of lenses each, controlled by XYZ motorized stages  
         - **Mask Sizes Supported:** 9" × 9", 7" × 7", 6" × 6", 5" × 5"  
         - **Substrate Sizes Supported:** 8", 6", 5", 4", 3"  
         - **Alignment Stage Z-axis Movement:** ≥ ±25 mm, with three-point air-bearing leveling  
@@ -95,9 +95,9 @@ sections:
         - **Power Supply:** 10 kW  
         - **Electron Beam High Voltage:** 10 kV  
         - **Maximum Beam Current:** 1000 mA  
-                - **Photolithography** -  Maskless Aligner
-                - UV exposure system with contact and proximity modes
-                - Minimum feature size: 1 μm
+        - **Photolithography** - Maskless Aligner
+          - UV exposure system with contact and proximity modes
+          - Minimum feature size: 1 μm
 
         ### **Etching & Deposition**
         - **Reactive Ion Etching (RIE)** - Oxford Plasmalab 80 Plus
