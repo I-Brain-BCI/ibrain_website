@@ -21,7 +21,9 @@ sections:
       title: Equipment Inventory
       subtitle: 
       text: |
-        ## 🏭 Nanofabrication & Cleanroom
+        ## Nanofabrication & Cleanroom
+        
+        {{< figure src="nanofab_layout.png" alt="Nanofabrication Layout" class="text-center" >}}
         
         ### Mission
         Our mission is to establish a world-class nanofabrication platform that empowers researchers to design, prototype, and realize micro- and nano-scale devices at the frontiers of brain science and neurotechnology.
@@ -50,7 +52,7 @@ sections:
             - **Maximum Sample Size:** 200 mm  
 
 
-        - **Maskless Aligner**
+        - **Maskless Aligner:**
             - **Maximum Sample Size:** 300 mm / 12 inch  
             - **Maximum Exposure Area:** 290 mm × 290 mm  
             - **Resolution:** ≤600 nm  
