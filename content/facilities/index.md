@@ -120,19 +120,19 @@ sections:
 
   
 
-  - block: markdown
-    content:
-      title: Visit Our Facilities
-      subtitle: Schedule a tour or discuss collaboration opportunities
-      text: |
-        <div style="text-align: center; padding: 40px; background: linear-gradient(135deg, #28a745 0%, #20c997 100%); border-radius: 10px; color: white; margin: 20px 0;">
-          <h3 style="color: white; margin-bottom: 20px;">Interested in Our Facilities?</h3>
-          <p style="font-size: 18px; margin-bottom: 30px;">Schedule a facility tour or discuss potential collaborations with our team.</p>
-          <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-            <a href="../contact/" style="background: white; color: #28a745; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">Contact Us</a>
-            <a href="mailto:facilities@ibrain-lab.com" style="background: rgba(255,255,255,0.2); color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block; border: 2px solid white;">Schedule Tour</a>
-          </div>
-        </div>
-    design:
-      columns: '1'
+  # - block: markdown
+  #   content:
+  #     title: Visit Our Facilities
+  #     subtitle: Schedule a tour or discuss collaboration opportunities
+  #     text: |
+  #       <div style="text-align: center; padding: 40px; background: linear-gradient(135deg, #28a745 0%, #20c997 100%); border-radius: 10px; color: white; margin: 20px 0;">
+  #         <h3 style="color: white; margin-bottom: 20px;">Interested in Our Facilities?</h3>
+  #         <p style="font-size: 18px; margin-bottom: 30px;">Schedule a facility tour or discuss potential collaborations with our team.</p>
+  #         <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  #           <a href="../contact/" style="background: white; color: #28a745; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">Contact Us</a>
+  #           <a href="mailto:facilities@ibrain-lab.com" style="background: rgba(255,255,255,0.2); color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block; border: 2px solid white;">Schedule Tour</a>
+  #         </div>
+  #       </div>
+  #   design:
+  #     columns: '1'
 ---
