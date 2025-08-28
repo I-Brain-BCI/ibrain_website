@@ -23,36 +23,24 @@ sections:
       text: |
         ## 🏭 Nanofabrication & Cleanroom
         
-        ### **Mission**
-        - **Our mission is to establish a world-class nanofabrication platform that empowers researchers to design, prototype, and realize micro- and nano-scale devices at the frontiers of brain science and neurotechnology. The facility provides advanced tools, materials, and expertise for state-of-the-art processing, enabling breakthroughs in neural interfaces, sensors, and next-generation biomedical technologies. By fostering collaboration across disciplines, the Nanofab supports both fundamental discoveries and translational research, while also training the next generation of scientists and engineers in cutting-edge fabrication techniques.
-         
-        ### **SUMMARY**
-        - **The i-BRAIN Nanofabrication Facility includes 550 m² of Class 100 cleanroom space and 400 m² of Class 1000 service and equipment space
-
-        ### **Lithography Systems**
-        - **= DUV Scanner =** （2026Q）
-          - **Resolution (Critical Dimension):** ≤110 nm  
-          - **CD Variation at 0.11 μm Resolution:**  
-            - Dense lines: ≤10 nm at ±0.2 μm defocus; ≤8 nm at best focus  
-            - Isolated lines: ≤14 nm at ±0.15 μm defocus; ≤8 nm at best focus  
-          - **Exposure Field Uniformity:** ≤0.7%  
-          - **Overlay Accuracy:**  
-            - Single-machine overlay: ≤15 nm  
-            - Matched-machine overlay: ≤25 nm  
-          - **Stage Motion Repeatability:** ≤8 nm  
-          - **Exposure Dose Repeatability:** ≤0.5% (for dose ≥10 mJ/cm²)  
-          - **Exposure Dose Accuracy:** ≤1% (for dose ≥10 mJ/cm²)  
-          - **Focus Measurement Repeatability (3-sigma):** ≤50 nm  
-          - **Mask Exchange Time:** ≤25 s  
-          - **Particle Addition:** ≤5  
-          - **Job Waiting Time Between Exposures:** ≤20 s  
-          - **Throughput:** ≥135 wafers per hour at an exposure dose of 50 mJ/cm²  
-         
-
-        - **= Electron Beam Lithography (EBL) =**
-            - **eGun Type:** Schottky Field Emission, Gaussian beam shape  
-            - **Acceleration Voltage:** 50 kV  
-            - **Beam Current Range:** 100 pA – 100 nA  
+        ### Mission
+        Our mission is to establish a world-class nanofabrication platform that empowers researchers to design, prototype, and realize micro- and nano-scale devices at the frontiers of brain science and neurotechnology.
+        
+        ### Summary
+        The i-BRAIN Nanofabrication Facility includes 550 m² of Class 100 cleanroom space and 400 m² of Class 1000 service and equipment space.
+        
+        ### Lithography Systems
+        
+        #### DUV Scanner (2026Q)
+        - **Resolution (Critical Dimension):** ≤110 nm
+        - **CD Variation at 0.11 μm Resolution:**
+          - Dense lines: ≤10 nm at ±0.2 μm defocus; ≤8 nm at best focus
+          - Isolated lines: ≤14 nm at ±0.15 μm defocus; ≤8 nm at best focus
+        
+        #### Electron Beam Lithography (EBL)
+        - **eGun Type:** Schottky Field Emission, Gaussian beam shape
+        - **Acceleration Voltage:** 50 kV
+        - **Beam Current Range:** 100 pA – 100 nA
             - **Resolution:** 8 nm  
             - **Overlay Accuracy:** ±10 nm  
             - **Stitching Accuracy:** ±10 nm  
