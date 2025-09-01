@@ -92,6 +92,7 @@ sections:
       is_fullscreen: false
       loop: true
       interval: 4000
+      show_slide_info: true
 
   - block: markdown
     content:
