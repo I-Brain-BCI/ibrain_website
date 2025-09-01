@@ -32,6 +32,8 @@ sections:
       subtitle: Pioneering the future of brain-computer interfaces through interdisciplinary innovation, from fundamental research to clinical translation. Our mission is to develop stable, minimally-invasive neural technologies that advance both scientific understanding and therapeutic applications for neurological disorders.
     design:
       columns: '1'
+      spacing:
+        padding: ['20px', '0', '10px', '0']  # 上、右、下、左的padding
 
   - block: slider
     content:
