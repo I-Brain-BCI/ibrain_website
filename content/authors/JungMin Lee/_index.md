@@ -28,7 +28,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Co-Principal Investigators
+  - Senior Investigators
 ---
 
 Dr. Jung Min Lee is the Co-Principal Investigator of the i-Brain group and an Associate Research Professor at Tsinghua Shenzhen International Graduate School. He specializes in nano-bioelectronics, brain–machine interfaces, and advanced neural interfacing technologies. He earned his B.S., M.S., and Ph.D. in Materials Science and Engineering from Hanyang University, South Korea. His professional experience includes postdoctoral research at Seoul National University, Korea University, and Harvard University, where he worked extensively on developing novel nanoelectronic devices for in-vivo sensing, stimulation, and diagnostic applications.

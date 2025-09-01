@@ -1,5 +1,6 @@
 ---
-title: Associate/Assistant Investigators
+title: Associate/Assistant Professor
+
 date: 2025-07-25
 share: false
 categories: ["Research Lab"]
