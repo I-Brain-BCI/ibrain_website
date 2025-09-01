@@ -2,6 +2,7 @@
 title: PI Assistant
 date: 2025-07-25
 share: false
+categories: ["Research Lab"]
 ---
 <!--more-->
 
