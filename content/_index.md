@@ -142,7 +142,7 @@ sections:
 
   - block: collection
     content:
-      title: Important Papers
+      title: Latest Papers
       text: ""
       count: 7
       filters:
