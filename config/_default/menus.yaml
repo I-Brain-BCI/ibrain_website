@@ -19,7 +19,7 @@ main:
   - name: Join Us
     url: join-us
     weight: 60
-  - name: Careers
-    url: '/careers/'
+  - name: Contact
+    url: '/contact/'
     weight: 70
 
