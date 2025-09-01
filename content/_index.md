@@ -103,7 +103,7 @@ sections:
 
   - block: markdown
     content:
-      title: Join us
+      title: 
       subtitle: 
       text: |
         <div style="display: flex; align-items: center; justify-content: space-between; padding: 30px; margin: 20px 0; background-color: #f8f9fa; border-radius: 10px;">
@@ -112,7 +112,7 @@ sections:
             <p style="font-size: 22px; margin-bottom: 0; color: #666;">📍 Weiguang Life Science Park Building A1, 12th Floor, Shenzhen, Guangdong 518000</p>
           </div>
           <div style="margin-left: 40px;">
-            <a href="./careers/" style="background: #2563eb; color: white; padding: 18px 35px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 16px; display: inline-block; transition: background-color 0.3s;">Join Us</a>
+            <a href="./careers/" style="background: #2563eb; color: white; padding: 25px 45px; border-radius: 8px; text-decoration: none; font-weight: bold; font-size: 24px; display: inline-block; transition: background-color 0.3s;">Join Us</a>
           </div>
         </div>
     design:
