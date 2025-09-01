@@ -2,26 +2,20 @@
 title: Join Us
 type: landing
 
+
+
 sections:
   - block: markdown
     content:
-      title: ""
-      text: |
-        We are always looking for talented individuals to join our research team. 
-        Explore our current openings below.
-    design:
-      columns: '1'
-      
-  - block: markdown
-    content:
-      title: "Research Lab Positions"
-      text: ""
+      title: "Join Us"
+      text: "We are always looking for talented individuals to join our research team. 
+        Explore our current openings below."
     design:
       columns: '1'
       
   - block: collection
     content:
-      title: ""
+      title: "Research Lab Positions"
       count: 10
       filters:
         folders:
@@ -33,21 +27,14 @@ sections:
       view: card
       columns: '2'
       
-  - block: markdown
-    content:
-      title: "i-BRAIN Nano Fab Positions"
-      text: ""
-    design:
-      columns: '1'
-      
   - block: collection
     content:
-      title: ""
+      title: "i-BRAIN Nanofab Positions"
       count: 10
       filters:
         folders:
           - join-us
-        category: "i-BRAIN Nano Fab"
+        category: "i-BRAIN Nanofab"
       offset: 0
       order: asc
     design:
