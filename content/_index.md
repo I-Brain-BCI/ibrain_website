@@ -29,7 +29,7 @@ sections:
   - block: markdown
     content:
       title: Research Areas & Key Facilities
-      subtitle: Pioneering the future of brain-computer interfaces through interdisciplinary innovation, from fundamental research to clinical translation. Our mission is to develop stable, minimally-invasive neural technologies that advance both scientific understanding and therapeutic applications for neurological disorders.
+      subtitle: Pioneering interdisciplinary neurotechnology research from fundamental science to clinical translation. i-BRAIN embodies precision, minimally-invasive, and intelligent principles to revolutionize brain-computer interfaces and deliver personalized treatments for neurological disorders.
     design:
       columns: '1'
       spacing:
@@ -142,7 +142,7 @@ sections:
 
   - block: collection
     content:
-      title: Key Publications
+      title: Important Papers
       text: ""
       count: 7
       filters:
