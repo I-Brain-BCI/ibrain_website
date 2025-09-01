@@ -12,6 +12,7 @@ sections:
         Explore our current openings below."
     design:
       columns: '1'
+      css_style: 'text-align: center;'
       
   - block: collection
     content:
