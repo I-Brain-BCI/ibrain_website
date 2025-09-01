@@ -2,7 +2,7 @@
 title: Co-Principal Investigators
 date: 2025-07-25
 share: false
-categories: ["Research Lab"]
+categories: ["Group Research Position"]
 ---
 <!--more-->
 

@@ -2,8 +2,6 @@
 title: Join Us
 type: landing
 
-
-
 sections:
   - block: markdown
     content:
@@ -16,12 +14,40 @@ sections:
       
   - block: collection
     content:
-      title: "Research Lab Positions"
+      title: "Academic Training Positions"
       count: 10
       filters:
         folders:
           - join-us
-        category: "Research Lab"
+        category: "Academic Training Positions"
+      offset: 0
+      order: asc
+    design:
+      view: card
+      columns: '2'
+      
+  - block: collection
+    content:
+      title: "Group Research Position"
+      count: 10
+      filters:
+        folders:
+          - join-us
+        category: "Group Research Position"
+      offset: 0
+      order: asc
+    design:
+      view: card
+      columns: '2'
+      
+  - block: collection
+    content:
+      title: "i-BRAIN Office Position"
+      count: 10
+      filters:
+        folders:
+          - join-us
+        category: "i-BRAIN Office Position"
       offset: 0
       order: asc
     design:

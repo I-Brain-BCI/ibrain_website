@@ -2,7 +2,7 @@
 title: Lab Manager (PhD + Postdoc Experience)
 date: 2025-07-25
 share: false
-categories: ["Research Lab"]
+categories: ["i-BRAIN Office Position"]
 ---
 <!--more-->
 
