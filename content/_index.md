@@ -28,6 +28,8 @@ sections:
 
   - block: slider
     content:
+      title: Research Areas & Key Facilities
+      subtitle: Pioneering the future of brain-computer interfaces through interdisciplinary innovation, from fundamental research to clinical translation. Our mission is to develop stable, minimally-invasive neural technologies that advance both scientific understanding and therapeutic applications for neurological disorders.
       slides:
       - title: Disruptive BCI Technology
         content: "Merging the power and scalability of silicon integrated circuits and ultra-flexible minimally-invasive polymer-based electronics for chronic cognitive and motor studies in rodents and nonhuman primates. A central focus is to monitoring and modulate neural activity on a scale heretofore not possible in animal disease models and to translate these advanced neuro-technologies to humans."
@@ -131,7 +133,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Papers
+      title: Key Publications
       text: ""
       count: 7
       filters:

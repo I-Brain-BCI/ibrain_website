@@ -10,9 +10,6 @@ main:
   - name: People
     url: people
     weight: 30
-  - name: Research
-    url: research
-    weight: 35
   - name: Facilities
     url: facilities
     weight: 37
