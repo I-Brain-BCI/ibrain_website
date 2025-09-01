@@ -129,11 +129,10 @@ sections:
       title: Join us
       subtitle: 
       text: |
-        <div style="text-align: center; padding: 40px; background: linear-gradient(135deg, #4bb6ff 0%, #2563eb 100%); border-radius: 10px; color: white; margin: 20px 0;">
-          <h3 style="color: white; margin-bottom: 20px;">Ready to Make an Impact?</h3>
-          <p style="color: white; margin-bottom: 10px;">📧 ibrain@smart.org.cn</p>
-          <p style="color: white; margin-bottom: 20px;">📍 Weiguang Life Science Park Building A1, 12th Floor, Shenzhen, Guangdong 518000</p>
-          <a href="./careers/" style="background: white; color: #2563eb; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">Join Us</a>
+        <div style="text-align: center; padding: 20px; margin: 20px 0;">
+          <p style="margin-bottom: 10px;">📧 ibrain@smart.org.cn</p>
+          <p style="margin-bottom: 20px;">📍 Weiguang Life Science Park Building A1, 12th Floor, Shenzhen, Guangdong 518000</p>
+          <a href="./careers/" style="background: #2563eb; color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">Join Us</a>
         </div>
     design:
       columns: '1'
