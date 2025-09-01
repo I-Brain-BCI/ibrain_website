@@ -13,8 +13,8 @@ sections:
       user_groups:
           - Principal Investigator
           - Senior Investigators
-          - Postdoc
-          - PHD Students
+          - Postdoctoral Fellows
+          - PHD＆MS Students
           - Researchers
           - Grad Students
           - Administration
