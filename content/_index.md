@@ -26,6 +26,13 @@ sections:
       background:
         color: 'white'
 
+  - block: markdown
+    content:
+      title: Research Areas & Key Facilities
+      subtitle: Pioneering the future of brain-computer interfaces through interdisciplinary innovation, from fundamental research to clinical translation. Our mission is to develop stable, minimally-invasive neural technologies that advance both scientific understanding and therapeutic applications for neurological disorders.
+    design:
+      columns: '1'
+
   - block: slider
     content:
       title: Research Areas & Key Facilities
