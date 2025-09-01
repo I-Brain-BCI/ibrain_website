@@ -15,7 +15,8 @@ authors:
 superuser: false
 
 # Role/position
-role: Co-Principal Investigators
+role: Research associate Professor
+
 
 
 
