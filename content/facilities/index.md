@@ -12,7 +12,6 @@ sections:
         Our laboratory is equipped with cutting-edge instruments and facilities to support world-class research in brain-computer interfaces, nanoelectronics, and bioelectronics.
       image:
         filename: facility_overall.png
-        align: center
     design:
       spacing:
         padding: ['40px', '0', '40px', '0']
@@ -24,7 +23,9 @@ sections:
       text: |
         ## Nanofabrication & Cleanroom
         
-        {{< figure src="nanofab_layout.png" alt="Nanofabrication Layout" class="text-center" >}}
+        <div class="text-center">
+          {{< figure src="nanofab_layout.png" alt="Nanofabrication Layout" >}}
+        </div>
         
         ### Mission
         Our mission is to establish a world-class nanofabrication platform that empowers researchers to design, prototype, and realize micro- and nano-scale devices at the frontiers of brain science and neurotechnology.
