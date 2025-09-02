@@ -19,7 +19,7 @@ main:
   - name: Join Us
     url: join-us
     weight: 60
-  - name: Contact
+  - name: Contact Us
     url: '/contact/'
     weight: 70
 

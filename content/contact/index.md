@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Contact Us
 date: 2022-10-24
 type: landing
 
@@ -7,7 +7,7 @@ sections:
   - block: contact
     id: contact
     content:
-      title: Contact Information
+      title: Contact Us
       subtitle:
       text: |
         Ready to join our team? Get in touch with us for more information about current opportunities or to discuss potential collaborations.

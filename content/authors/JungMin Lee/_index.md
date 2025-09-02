@@ -15,7 +15,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research associate Professor
+role: Research Associate Professor
 
 
 

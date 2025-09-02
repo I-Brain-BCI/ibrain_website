@@ -76,7 +76,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - PHD＆MS Students
+  - PH.D.＆M.S. Students
 ---
 
 Chenlong Wang is a PhD student at Tsinghua University, specializing in brain-computer interface research. He received his bachelor's degree from Beijing University of Posts and Telecommunications and his master's degree from Tsinghua University.
