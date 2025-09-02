@@ -28,6 +28,7 @@ sections:
       show_role: true
       show_social: true
       columns: '1'
+      view: showcase  # 添加showcase视图，更适合显示详细信息
 
   - block: markdown
     content:
