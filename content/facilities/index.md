@@ -23,7 +23,7 @@ sections:
       text: |
         ## Nanofabrication & Cleanroom
         
-        <div class="text-center">
+        <div style="text-align: center; margin: 20px 0;">
           {{< figure src="nanofab_layout.png" alt="Nanofabrication Layout" >}}
         </div>
         
