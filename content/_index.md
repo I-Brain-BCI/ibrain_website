@@ -108,7 +108,7 @@ sections:
       text: |
         <div style="display: flex; align-items: center; justify-content: space-between; padding: 30px; margin: 20px 0; background-color: #f8f9fa; border-radius: 10px;">
           <div style="flex: 1;">
-            <p style="font-size: 24px; margin-bottom: 15px; color: #888; font-style: italic;">Contact Person: Tania</p>
+            <p style="font-size: 24px; margin-bottom: 15px; color: #888; font-style: italic;">Contact Person: Tania Xiang</p>
             <p style="font-size: 24px; margin-bottom: 8px; color: #333;">📧 <strong>ibrain@smart.org.cn</strong></p>
             <p style="font-size: 22px; margin-bottom: 0; color: #666;">📍 Weiguang Life Science Park Building A1, 12th Floor, Shenzhen, Guangdong 518000</p>
           </div>
