@@ -142,7 +142,7 @@ sections:
 
   - block: collection
     content:
-      title: Latest Papers
+      title: Key Publications
       text: ""
       count: 7
       filters:
