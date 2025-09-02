@@ -7,3 +7,20 @@
 .cta-group {
   justify-content: center;
 }
+
+// 增加people页面的宽度设置
+.people-widget {
+  max-width: 100% !important;
+  width: 100% !important;
+}
+
+// 或者更具体地针对people块
+.blox-people {
+  max-width: 1200px !important;
+  margin: 0 auto;
+}
+
+// 调整个人资料卡片的宽度
+.people-widget .card {
+  max-width: 100% !important;
+}
