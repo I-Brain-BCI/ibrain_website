@@ -11,7 +11,7 @@ sections:
       text: |
         Our laboratory is equipped with cutting-edge instruments and facilities to support world-class research in brain-computer interfaces, nanoelectronics, and bioelectronics.
       image:
-        filename: welcome.jpg
+        filename: facility_overall.png
     design:
       spacing:
         padding: ['40px', '0', '40px', '0']
