@@ -15,7 +15,7 @@ sections:
   - block: collection
     content:
       title: "Academic Training Positions"
-      subtitle: "**International Applicants Welcome！！**"
+      subtitle: "🌍 **International Applicants Welcome！！"
       count: 10
       filters:
         folders:
@@ -29,7 +29,7 @@ sections:
       
   - block: collection
     content:
-      title: "Group Research Position"
+      title: "Group Research Positions"
       count: 10
       filters:
         folders:
@@ -43,7 +43,7 @@ sections:
       
   - block: collection
     content:
-      title: "i-BRAIN Office Position"
+      title: "i-BRAIN Office Positions"
       count: 10
       filters:
         folders:

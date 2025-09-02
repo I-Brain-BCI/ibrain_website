@@ -9,6 +9,11 @@ categories: ["Academic Training Positions"]
 ## Position Summary
 We welcome applications from outstanding PhD and Master students to join our research team. These positions offer comprehensive training opportunities in neuroscience, bioengineering, and related interdisciplinary fields within a supportive academic environment.
 
+**How to Join Our Research Group:**
+Students can join our research team through the following pathways:
+- **Tsinghua Shenzhen International Graduate School (SIGS)**: Apply for graduate programs at Tsinghua SIGS
+- **Shenzhen Medical Academy of Research and Translation (SMART)**: Apply through SMART graduate programs
+
 ## Core Responsibilities
 1. Conduct thesis research under faculty supervision.
 2. Participate in laboratory research activities and projects.
