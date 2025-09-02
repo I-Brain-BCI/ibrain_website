@@ -1,5 +1,5 @@
 ---
-title: PI Assistant
+title: Faculty Assistant
 date: 2025-07-25
 share: false
 categories: ["i-BRAIN Office Position"]
