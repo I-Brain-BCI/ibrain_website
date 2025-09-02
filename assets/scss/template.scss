@@ -40,3 +40,20 @@
   
 }
 
+.people-widget .role {
+  white-space: pre-line !important;
+  max-width: none !important;
+  
+  // 将 | 符号替换为换行
+  &::before {
+    content: attr(data-role);
+    white-space: pre-line;
+  }
+}
+
+// 使用JavaScript替换 | 为换行符
+.people-widget .role {
+  white-space: pre-line !important;
+  max-width: none !important;
+}
+
