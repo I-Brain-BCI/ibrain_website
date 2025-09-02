@@ -23,7 +23,7 @@
   
   // 修复角色描述的显示问题
   .role {
-    white-space: normal !important;
+    white-space: pre-line !important;
     line-height: 1.4 !important;
     font-size: 0.65rem !important;
     max-width: none !important;
