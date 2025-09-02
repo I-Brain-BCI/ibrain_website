@@ -7,35 +7,38 @@ categories: ["Group Research Position"]
 <!--more-->
 
 ## Position Summary
-We are seeking highly motivated Associate/Assistant Investigators to join our research team and contribute to cutting-edge neuroscience research. This position offers the opportunity to conduct independent research under the supervision of the Principal Investigator while leading innovative electrophysiological probe technology implementations in both nonhuman primate and rodent models.
+We are seeking a distinguished Research Professor to join our team as a senior research leader. This position is designed for an established researcher with extensive experience in neuroscience or bioengineering who will drive innovative research programs, mentor the next generation of scientists, and contribute to the lab's scientific excellence and international recognition.
 
 ## Core Responsibilities
-1. Conduct independent research under the supervision of the Principal Investigator (PI) of the research group.
-2. Lead nonhuman primate (NHP) research efforts focused on implementation of novel electrophysiological probe technologies within the context of cognitive and motor disease models.
-3. Assist with rodent research efforts focused on implementation of novel electrophysiological probe technologies for model studies and treatments of neurodegenerative disease and stroke.
-4. Assist in academic manuscript preparation.
-5. Mentor postdoctoral researchers, students, and research assistants.
-6. Independently or collaboratively assist the PI in applying for research grants.
-7. Support lab management tasks.
+1. Lead independent research programs in neurotechnology, brain-computer interfaces, or related fields.
+2. Develop and execute long-term research strategies aligned with lab objectives.
+3. Secure major research grants and funding from national and international agencies.
+4. Publish high-impact research in top-tier journals and present at premier conferences.
+5. Mentor and supervise postdoctoral researchers, graduate students, and junior faculty.
+6. Establish and maintain collaborations with leading research institutions worldwide.
+7. Contribute to the lab's intellectual property development and technology transfer.
+8. Participate in peer review activities and serve on scientific advisory boards.
 
 ## Qualifications & Requirements
-1. Ph.D. and/or postdoctoral research experience from a leading research institution or university.
-2. Strong background in neuroscience or related field with demonstrated independent research capabilities and extensive experimental experience.
-3. Experience with NHP surgery, neural probe implantation, as well as cognitive and related studies.
-4. Experience with rodent disease models, electrophysiology and histology.
-5. Proven track record of high-quality publications as the first or corresponding author.
-6. Proficient in English for academic communication.
-7. Strong passion for exploring new research directions.
-8. Excellent communication, teamwork skills, and academic integrity.
+1. Ph.D. with extensive research experience and established reputation in neuroscience, bioengineering, or related fields.
+2. Proven track record of groundbreaking research with significant impact in the field.
+3. Outstanding publication record in high-impact journals with substantial citations.
+4. Demonstrated success in securing major research grants (>$1M total funding preferred).
+5. Experience in technology development, particularly in neural interfaces or medical devices.
+6. Strong mentoring record with successful placement of trainees in academic or industry positions.
+7. International recognition through awards, invited lectures, or editorial positions.
+8. Expertise in translational research from basic science to clinical applications.
 
 ## Required Materials
-1. Curriculum Vitae, including full publication list and technical expertise.
-2. Research statement (max. 3 pages), outlining current research summary and future plans, and personal strengths relevant to the research.
-3. 2-3 recommendation letters (for Associate/Assistant Investigator applications), sent directly to ibrain@smart.org.cn.
-4. Any other relevant supporting documents.
+1. Detailed Curriculum Vitae, including complete publication list, patents, and honors.
+2. Research statement (max. 5 pages), describing research achievements, current projects, and future vision.
+3. 4-5 recommendation letters from distinguished researchers, sent directly to ibrain@smart.org.cn.
+4. Selected publications (up to 10 most significant papers).
+5. Grant funding portfolio and technology transfer achievements.
+6. Teaching and mentoring philosophy statement (max. 2 pages).
 
 Please send the above materials in PDF format and the applicant's self-introduction to ibrain@smart.org.cn.
-( The subject of the email: Name + Position applied )
+( The subject of the email: Name + Research Professor )
 
 ## Others
 1. We will arrange an interview as soon as possible after the materials are reviewed. And, application materials will be kept confidential.

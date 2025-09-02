@@ -7,35 +7,37 @@ categories: ["Group Research Position"]
 <!--more-->
 
 ## Position Summary
-We are seeking highly motivated Associate/Assistant Investigators to join our research team and contribute to cutting-edge neuroscience research. This position offers the opportunity to conduct independent research under the supervision of the Principal Investigator while leading innovative electrophysiological probe technology implementations in both nonhuman primate and rodent models.
+We are seeking exceptional Co-Principal Investigators to join our research team as senior research leaders. This position offers the opportunity to co-lead major research initiatives, develop independent research programs, and collaborate closely with the Principal Investigator in advancing cutting-edge neurotechnology and brain-computer interface research.
 
 ## Core Responsibilities
-1. Conduct independent research under the supervision of the Principal Investigator (PI) of the research group.
-2. Lead nonhuman primate (NHP) research efforts focused on implementation of novel electrophysiological probe technologies within the context of cognitive and motor disease models.
-3. Assist with rodent research efforts focused on implementation of novel electrophysiological probe technologies for model studies and treatments of neurodegenerative disease and stroke.
-4. Assist in academic manuscript preparation.
-5. Mentor postdoctoral researchers, students, and research assistants.
-6. Independently or collaboratively assist the PI in applying for research grants.
-7. Support lab management tasks.
+1. Co-lead major research projects and initiatives alongside the Principal Investigator.
+2. Develop and execute independent research programs within the lab's strategic directions.
+3. Lead grant writing efforts and secure independent research funding.
+4. Supervise and mentor postdoctoral researchers, graduate students, and research staff.
+5. Lead manuscript preparation and serve as corresponding author on high-impact publications.
+6. Represent the lab at international conferences and establish external collaborations.
+7. Participate in strategic planning and decision-making for lab direction and growth.
+8. Contribute to lab management and administrative responsibilities.
 
 ## Qualifications & Requirements
-1. Ph.D. and/or postdoctoral research experience from a leading research institution or university.
-2. Strong background in neuroscience or related field with demonstrated independent research capabilities and extensive experimental experience.
-3. Experience with NHP surgery, neural probe implantation, as well as cognitive and related studies.
-4. Experience with rodent disease models, electrophysiology and histology.
-5. Proven track record of high-quality publications as the first or corresponding author.
-6. Proficient in English for academic communication.
-7. Strong passion for exploring new research directions.
-8. Excellent communication, teamwork skills, and academic integrity.
+1. Ph.D. with substantial postdoctoral experience and proven track record of independent research leadership.
+2. Demonstrated expertise in neuroscience, bioengineering, or related fields with focus on neural interfaces or brain-computer interfaces.
+3. Strong publication record as first/corresponding author in high-impact journals (Nature, Science, Cell, etc.).
+4. Proven experience in securing competitive research grants as PI or Co-PI.
+5. Experience in leading research teams and mentoring junior researchers.
+6. Expertise in advanced electrophysiology, neural probe technologies, or computational neuroscience.
+7. Excellent communication skills and ability to present research at international venues.
+8. Strong collaborative mindset and leadership capabilities.
 
 ## Required Materials
-1. Curriculum Vitae, including full publication list and technical expertise.
-2. Research statement (max. 3 pages), outlining current research summary and future plans, and personal strengths relevant to the research.
-3. 2-3 recommendation letters (for Associate/Assistant Investigator applications), sent directly to ibrain@smart.org.cn.
-4. Any other relevant supporting documents.
+1. Comprehensive Curriculum Vitae, including complete publication list, grants, and awards.
+2. Research statement (max. 5 pages), outlining research vision, leadership experience, and strategic plans.
+3. 3-4 recommendation letters from senior researchers, sent directly to ibrain@smart.org.cn.
+4. Representative publications (up to 5 key papers).
+5. Grant funding history and future funding plans.
 
 Please send the above materials in PDF format and the applicant's self-introduction to ibrain@smart.org.cn.
-( The subject of the email: Name + Position applied )
+( The subject of the email: Name + Co-Principal Investigator )
 
 ## Others
 1. We will arrange an interview as soon as possible after the materials are reviewed. And, application materials will be kept confidential.

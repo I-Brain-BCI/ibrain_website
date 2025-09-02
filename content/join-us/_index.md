@@ -15,6 +15,7 @@ sections:
   - block: collection
     content:
       title: "Academic Training Positions"
+      subtitle: "**International Applicants Welcome！！**"
       count: 10
       filters:
         folders:
