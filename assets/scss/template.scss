@@ -33,6 +33,14 @@
     margin-bottom: 5px;
   }
   
+  // 确保整个人员卡片有足够的空间
+  .col-12.col-sm-auto {
+    flex: 1;
+    min-width: 0;
+  }
+  
+
+  
   // 整个媒体容器的布局
   .media {
     display: flex;
