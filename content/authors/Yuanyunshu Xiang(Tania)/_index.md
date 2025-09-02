@@ -1,11 +1,11 @@
 ---
 # Display name
-title: Yuanyunshu Xiang
+title: Tania Xiang
 
 # Full name (for SEO)
 first_name: Yuanyunshu 
 last_name: Xiang
-sequence_weight: 100
+sequence_weight: 70
 
 # Username (this should match the folder name)
 authors:
