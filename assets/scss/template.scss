@@ -39,12 +39,5 @@
     min-width: 0;
   }
   
-  // 整个媒体容器的布局
-  .media {
-    display: flex;
-    align-items: center;  // 改为 center 让头像垂直居中
-    width: 100%;
-    justify-content: center;  // 添加水平居中
-  }
 }
 
