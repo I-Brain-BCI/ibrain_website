@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Prof Charles.m.Lieber
+title: Charles.m.Lieber
 
 # Full name (for SEO)
 first_name: Charles
@@ -46,22 +46,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:clieber@harvard.edu'
-  - icon: google-scholar
-    icon_pack: ai
-    link: 'https://scholar.google.com/citations?user=0YQkAUkAAAAJ'
-  - icon: orcid
-    icon_pack: ai
-    link: 'https://orcid.org/0000-0001-1234-5678'
-  - icon: researchgate
-    icon_pack: ai
-    link: 'https://www.researchgate.net/profile/Charles-Lieber'
+    link: 'mailto:liebercharlesm@gmail.com'
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'liebercharlesm@gmail.com'
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 user_groups:
