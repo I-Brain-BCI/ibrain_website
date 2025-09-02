@@ -14,7 +14,7 @@ sections:
         
         For career opportunities, please visit our [Join Us page](../join-us/).
       # Contact (add or remove contact options as necessary)
-      email: "ibrain@smart.org.cn (Contact: Tania Xiang)"
+      email: ibrain@smart.org.cn
       address:
         street: Weiguang Life Science Park Building A1, 12th Floor
         city: Shenzhen
