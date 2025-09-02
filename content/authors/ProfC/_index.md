@@ -15,7 +15,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor of Chemistry and Chemical Biology
+role: |
+  Chair Professor of Tsinghua University
+  Tsinghua Shenzhen International Graduate School
+  SMART Investigator, Shenzhen Medical Academy of Research and Translation
+  Director, i-BRAIN, Shenzhen Medical Academy of Research and Translation
 
 # Organizations/Affiliations
 organizations:
