@@ -8,19 +8,26 @@
   justify-content: center;
 }
 
-// 增加people页面的宽度设置
-.people-widget {
-  max-width: 100% !important;
-  width: 100% !important;
+// Fix people page role description width issue
+.people-widget .portrait-title h3 {
+  line-height: 1.4;
+  word-wrap: break-word;
 }
 
-// 或者更具体地针对people块
-.blox-people {
-  max-width: 1200px !important;
-  margin: 0 auto;
+.people-widget .portrait-title .article-metadata {
+  max-width: none;
+  width: 100%;
 }
 
-// 调整个人资料卡片的宽度
-.people-widget .card {
-  max-width: 100% !important;
+.people-widget .col-12.col-lg-auto {
+  flex: 1;
+  min-width: 0;
 }
+
+// Improve role text display
+.people-widget .role {
+  white-space: normal;
+  line-height: 1.3;
+  font-size: 0.9rem;
+}
+
