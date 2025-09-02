@@ -12,10 +12,10 @@ sections:
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
           - Principal Investigator
-          - i-Brain Office
           - Senior Investigators
           - Postdoctoral Fellows
           - PH.D.＆M.S. Students
+          - i-Brain Office
           - Researchers
           - Grad Students
           - Administration
