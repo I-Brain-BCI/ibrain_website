@@ -23,14 +23,35 @@ sections:
       text: |
         ## Nanofabrication & Cleanroom
         
-        <div class="d-flex justify-content-center">
+        <div class="d-flex justify-content-center" style="position: relative; display: inline-block;">
           {{< figure src="nanofab_layout.png" alt="Nanofabrication Layout" id="nanofab-image" >}}
+          
+          <!-- 透明覆盖层用于点击检测 -->
+          <div class="click-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; pointer-events: none;">
+            <div class="ebl-area" onclick="showEBLInfo()" style="position: absolute; left: 194px; top: 289px; width: 575px; height: 162px; cursor: pointer; pointer-events: all; background: rgba(255,0,0,0.1); border: 2px solid rgba(255,0,0,0.3);" title="点击查看 Electron Beam Lithography 详情"></div>
+          </div>
         </div>
         
-        <!-- 添加image map -->
-        <map name="nanofab-map" id="nanofab-map">
-          <area shape="rect" coords="194,289,769,451" onclick="showEBLInfo()" alt="Electron Beam Lithography" style="cursor: pointer;">
-        </map>
+        <!-- 模态框和JavaScript代码保持不变 -->
+        <div id="ebl-modal" class="modal fade" tabindex="-1" role="dialog" style="display: none;">
+          <!-- 模态框内容保持不变 -->
+        </div>
+        
+        <script>
+        function showEBLInfo() {
+            const modal = document.getElementById('ebl-modal');
+            modal.style.display = 'block';
+            modal.classList.add('show');
+            document.body.style.overflow = 'hidden';
+        }
+        
+        function closeEBLModal() {
+            const modal = document.getElementById('ebl-modal');
+            modal.style.display = 'none';
+            modal.classList.remove('show');
+            document.body.style.overflow = 'auto';
+        }
+        </script>
         
         <!-- EBL设备信息的模态框 -->
         <div id="ebl-modal" class="modal fade" tabindex="-1" role="dialog" style="display: none;">
