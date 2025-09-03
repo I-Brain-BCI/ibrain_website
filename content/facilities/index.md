@@ -27,9 +27,34 @@ sections:
           {{< figure src="nanofab_layout.png" alt="Nanofabrication Layout" id="nanofab-image" >}}
           
           <!-- 透明覆盖层用于点击检测 -->
+          <!-- 将原来的点击链接替换为 -->
           <div class="click-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; pointer-events: none;">
-            <a href="./ebl/" class="ebl-area" style="position: absolute; left: 194px; top: 289px; width: 575px; height: 162px; cursor: pointer; pointer-events: all; background: rgba(255,0,0,0.1); border: 2px solid rgba(255,0,0,0.3); display: block; text-decoration: none;" title="点击查看 Electron Beam Lithography 详情"></a>
+            <!-- 移除原来的 <a> 标签，不再需要跳转链接 -->
           </div>
+          
+          <!-- 在图片下方添加可折叠的详细信息 -->
+          {{< details summary="🔬 点击查看 Electron Beam Lithography (EBL) 详细规格" >}}
+          
+          #### Electron Beam Lithography (EBL)
+          - **eGun Type:** Schottky Field Emission, Gaussian beam shape
+          - **Acceleration Voltage:** 50 kV
+          - **Beam Current Range:** 100 pA – 100 nA
+              - **Resolution:** 8 nm  
+              - **Overlay Accuracy:** ±10 nm  
+              - **Stitching Accuracy:** ±10 nm  
+              - **Maximum Field Size:**  
+                  - 2000 μm @ 25 kV  
+                  - 1000 μm @ 50 kV  
+              - **Maximum Sample Size:** 200 mm  
+          
+          #### Maskless Aligner:
+          - **Maximum Sample Size:** 300 mm / 12 inch  
+          - **Maximum Exposure Area:** 290 mm × 290 mm  
+          - **Resolution:** ≤600 nm  
+          - **Overlay Accuracy:** 500 nm @ 200 mm  
+          - **Light Source:** 375 nm / 405 nm 
+          
+          {{< /details >}}
         </div>
         
         ### Mission
