@@ -26,36 +26,32 @@ sections:
         <div class="d-flex justify-content-center" style="position: relative; display: inline-block;">
           {{< figure src="nanofab_layout.png" alt="Nanofabrication Layout" id="nanofab-image" >}}
           
-          <!-- 透明覆盖层用于点击检测 -->
-          <!-- 将原来的点击链接替换为 -->
-          <div class="click-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; pointer-events: none;">
-            <!-- 移除原来的 <a> 标签，不再需要跳转链接 -->
-          </div>
-          
-          <!-- 在图片下方添加可折叠的详细信息 -->
-          {{< details summary="🔬 点击查看 Electron Beam Lithography (EBL) 详细规格" >}}
-          
-          #### Electron Beam Lithography (EBL)
-          - **eGun Type:** Schottky Field Emission, Gaussian beam shape
-          - **Acceleration Voltage:** 50 kV
-          - **Beam Current Range:** 100 pA – 100 nA
-              - **Resolution:** 8 nm  
-              - **Overlay Accuracy:** ±10 nm  
-              - **Stitching Accuracy:** ±10 nm  
-              - **Maximum Field Size:**  
-                  - 2000 μm @ 25 kV  
-                  - 1000 μm @ 50 kV  
-              - **Maximum Sample Size:** 200 mm  
-          
-          #### Maskless Aligner:
-          - **Maximum Sample Size:** 300 mm / 12 inch  
-          - **Maximum Exposure Area:** 290 mm × 290 mm  
-          - **Resolution:** ≤600 nm  
-          - **Overlay Accuracy:** 500 nm @ 200 mm  
-          - **Light Source:** 375 nm / 405 nm 
-          
-          {{< /details >}}
+          <!-- 移除原来的点击覆盖层和跳转链接 -->
         </div>
+        
+        <!-- 添加可折叠的详细信息区域 -->
+        {{< details summary="🔬 点击查看电子束光刻 (EBL) 详细规格" class="ebl-details" >}}
+        
+        #### 电子束光刻 (EBL)
+        - **电子枪类型：** Schottky Field Emission, Gaussian beam shape
+        - **加速电压：** 50 kV
+        - **束流范围：** 100 pA – 100 nA
+            - **分辨率：** 8 nm  
+            - **套刻精度：** ±10 nm  
+            - **拼接精度：** ±10 nm  
+            - **最大曝光场：**  
+                - 2000 μm @ 25 kV  
+                - 1000 μm @ 50 kV  
+            - **最大样品尺寸：** 200 mm  
+        
+        #### 无掩模对准机：
+        - **最大样品尺寸：** 300 mm / 12 inch  
+        - **最大曝光面积：** 290 mm × 290 mm  
+        - **分辨率：** ≤600 nm  
+        - **套刻精度：** 500 nm @ 200 mm  
+        - **光源：** 375 nm / 405 nm 
+        
+        {{< /details >}}
         
         ### Mission
         Our mission is to establish a world-class nanofabrication platform that empowers researchers to design, prototype, and realize micro- and nano-scale devices at the frontiers of brain science and neurotechnology.

@@ -1,0 +1,6 @@
+<details{{ with .Get "class" }} class="{{ . }}"{{ end }}{{ with .Get "id" }} id="{{ . }}"{{ end }}>
+  <summary>{{ .Get "summary" | default "详情" | markdownify }}</summary>
+  <div class="details-content">
+    {{ .Inner | markdownify }}
+  </div>
+</details>
