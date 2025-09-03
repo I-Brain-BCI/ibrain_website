@@ -24,8 +24,54 @@ sections:
         ## Nanofabrication & Cleanroom
         
         <div class="d-flex justify-content-center">
-          {{< figure src="nanofab_layout.png" alt="Nanofabrication Layout" >}}
+          <img src="nanofab_layout.png" alt="Nanofabrication Layout" usemap="#lab-map" style="max-width: 100%; height: auto;">
+          <map name="lab-map">
+            <area shape="rect" coords="194,289,769,451" onclick="showEBLInfo()" alt="Electron Beam Lithography" style="cursor: pointer;">
+          </map>
         </div>
+
+        <!-- EBL设备信息显示区域 -->
+        <div id="ebl-info" class="equipment-info mt-4" style="display: none; border: 2px solid #007bff; padding: 20px; border-radius: 8px; background-color: #f8f9fa;">
+          <h4>Electron Beam Lithography (EBL)</h4>
+          <ul>
+            <li><strong>eGun Type:</strong> Schottky Field Emission, Gaussian beam shape</li>
+            <li><strong>Acceleration Voltage:</strong> 50 kV</li>
+            <li><strong>Beam Current Range:</strong> 100 pA – 100 nA</li>
+            <ul>
+              <li><strong>Resolution:</strong> 8 nm</li>
+              <li><strong>Overlay Accuracy:</strong> ±10 nm</li>
+              <li><strong>Stitching Accuracy:</strong> ±10 nm</li>
+              <li><strong>Maximum Field Size:</strong></li>
+              <ul>
+                <li>2000 μm @ 25 kV</li>
+                <li>1000 μm @ 50 kV</li>
+              </ul>
+              <li><strong>Maximum Sample Size:</strong> 200 mm</li>
+            </ul>
+          </ul>
+          <button onclick="hideEBLInfo()" class="btn btn-secondary mt-2">关闭</button>
+        </div>
+
+        <script>
+        function showEBLInfo() {
+          // 隐藏其他可能的设备信息
+          const allInfos = document.querySelectorAll('.equipment-info');
+          allInfos.forEach(info => info.style.display = 'none');
+          
+          // 显示EBL信息
+          document.getElementById('ebl-info').style.display = 'block';
+          
+          // 滚动到信息区域
+          document.getElementById('ebl-info').scrollIntoView({ 
+            behavior: 'smooth',
+            block: 'center'
+          });
+        }
+        
+        function hideEBLInfo() {
+          document.getElementById('ebl-info').style.display = 'none';
+        }
+        </script>
         
         ### Mission
         Our mission is to establish a world-class nanofabrication platform that empowers researchers to design, prototype, and realize micro- and nano-scale devices at the frontiers of brain science and neurotechnology.
