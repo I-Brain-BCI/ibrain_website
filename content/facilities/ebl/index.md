@@ -6,17 +6,11 @@ type: "page"
 layout: "single"
 ---
 
-{{< blocks/section color="white" >}}
-{{< blocks/feature icon="fas fa-microscope" title="Electron Beam Lithography (EBL)" >}}
+# Electron Beam Lithography (EBL)
 
 ## 设备概述
 
 电子束光刻（EBL）是一种高精度的纳米加工技术，能够实现纳米级别的图案制作。我们的EBL系统配备了先进的电子枪和精密的控制系统。
-
-{{< /blocks/feature >}}
-{{< /blocks/section >}}
-
-{{< blocks/section color="light" >}}
 
 ## 技术规格
 
@@ -36,10 +30,6 @@ layout: "single"
   - 1000 μm @ 50 kV
 - **Maximum Sample Size:** 200 mm
 
-{{< /blocks/section >}}
-
-{{< blocks/section color="white" >}}
-
 ## 应用领域
 
 - 纳米器件制造
@@ -54,10 +44,6 @@ layout: "single"
 - 精确的图案定位
 - 灵活的曝光策略
 - 自动化操作流程
-
-{{< /blocks/section >}}
-
-{{< blocks/section color="primary" >}}
 
 ## 使用申请
 
@@ -74,15 +60,9 @@ layout: "single"
 - **联系邮箱**：[email@example.com]
 - **预约电话**：[电话号码]
 
-{{< /blocks/section >}}
-
-{{< blocks/section color="light" >}}
-
 ## 相关资源
 
 - [设备操作手册下载](/downloads/ebl-manual.pdf)
 - [样品制备指南](/downloads/sample-prep-guide.pdf)
 - [预约系统入口](/booking/ebl/)
 - [培训课程安排](/training/ebl/)
-
-{{< /blocks/section >}}
