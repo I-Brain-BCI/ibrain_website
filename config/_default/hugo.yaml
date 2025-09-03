@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: "<em>i-BRAIN</em> Research Group" # Website name
+title: "i-BRAIN Research Group" # Website name
 baseURL: 'https://i-brain-bci.github.io/ibrain_website/' # Website URL
 
 ############################

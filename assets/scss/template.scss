@@ -42,8 +42,19 @@
 
 // 确保网站标题中的HTML标签正确渲染
 .navbar-brand {
-  em {
-    font-style: italic !important;
+  // 隐藏原始文本
+  font-size: 0;
+  
+  &::before {
+    content: "i-BRAIN";
+    font-style: italic;
+    font-size: 1.25rem; // 恢复字体大小
+  }
+  
+  &::after {
+    content: " Research Group";
+    font-style: normal;
+    font-size: 1.25rem; // 恢复字体大小
   }
 }
 
