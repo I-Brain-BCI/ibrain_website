@@ -41,7 +41,7 @@ header:
     show_search: true
     highlight_active_link: false
   logo:
-    text: "i-Brain"  # 可选：logo旁边的文字
+    text: "<em>i-BRAIN</em> Research Group"  # 使用HTML标签设置斜体
     filename: "icon.png"  # logo文件名
 
 # Site footer
