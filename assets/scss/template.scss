@@ -40,3 +40,16 @@
   
 }
 
+// 确保网站标题中的HTML标签正确渲染
+.navbar-brand {
+  em {
+    font-style: italic !important;
+  }
+}
+
+// 如果上述方法不生效，可以尝试更具体的选择器
+.site-title em,
+.navbar-title em {
+  font-style: italic !important;
+}
+
