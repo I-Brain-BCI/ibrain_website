@@ -112,7 +112,7 @@ sections:
           text: Explore Facilities
           url: ./facilities/
       - title: Other Key Facilities
-        content: '<span style="font-size: 80%;">The integration i-BRAIN within [**Shenzhen Medical Academy for Research and Translation (SMART)**](https://smart.org.cn/en/) in Guangming provides a vibrant research environment with virtually all critical facilities within walking distance thereby reducing barriers to transformative research. Additional key facilities available at SMART include (i) state-of-the art optical imaging facility and (ii) fully-staffed 12000 cage  rodent facility. In addition, the nearby [**Brain Science Infrastructure ShenZhen**](https://www.bsisz.cn/h-col-128.html#/share) has full-time staff monitoring 2000 NHP cages, state of the art surgical facilities, and dedicated space for our NHP BCI studies.</span>'
+        content: '<span style="font-size: 85%;">The integration i-BRAIN within [**Shenzhen Medical Academy for Research and Translation (SMART)**](https://smart.org.cn/en/) in Guangming provides a vibrant research environment with virtually all critical facilities within walking distance thereby reducing barriers to transformative research. Additional key facilities available at SMART include (i) state-of-the art optical imaging facility and (ii) fully-staffed 12000 cage  rodent facility. In addition, the nearby [**Brain Science Infrastructure ShenZhen**](https://www.bsisz.cn/h-col-128.html#/share) has full-time staff monitoring 2000 NHP cages, state of the art surgical facilities, and dedicated space for our NHP BCI studies.</span>'
         align: left
         background:
           image:
@@ -123,7 +123,7 @@ sections:
           color: '#444'
 
     design:
-      slide_height: '600px'
+      slide_height: '680px'
       columns: '1'
       is_fullscreen: false
       loop: true
