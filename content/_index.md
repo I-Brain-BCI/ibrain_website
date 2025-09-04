@@ -6,7 +6,38 @@ date: 2022-10-24
 
 type: landing
 
+banner:
+  caption: 'Advanced Research Facilities - World-Class Nanofabrication & Bioelectronics Research Platform'
+  image: 'facility_2.png'
+
 sections:
+
+  - block: slider
+    content:
+      slides:
+      - title: Advanced Research Facilities
+        content: |
+          **World-Class Nanofabrication & Bioelectronics Research Platform**
+          
+          *Equipped with state-of-the-art instrumentation for cutting-edge research*
+          
+          Brain-Computer Interfaces • Nanoelectronics • Bioelectronics
+        align: center
+        background:
+          image:
+            filename: facility_2.png
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '500px'
+      is_fullscreen: false
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
 
   - block: markdown
     content:
