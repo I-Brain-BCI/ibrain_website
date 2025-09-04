@@ -10,12 +10,13 @@ sections:
     content:
       slides:
       - title: Advanced Research Facilities
-        content: |
-          **World-Class Nanofabrication & Bioelectronics Research Platform**
+        content: 
+          '<span style="color: #000;">**World-Class Nanofabrication & Bioelectronics Research Platform**
           
           *Equipped with state-of-the-art instrumentation for cutting-edge research*
           
-          Brain-Computer Interfaces • Nanoelectronics • Bioelectronics
+          Brain-Computer Interfaces • Nanoelectronics • Bioelectronics</span>'
+
         align: left
         background:
           image:
