@@ -43,7 +43,7 @@ sections:
 
   - block: markdown
     content:
-      title: Research Areas & Key Facilities
+      title: Research & Key Facilities
       text: |
         <div style="text-align: left;">
           The main <em>i-BRAIN</em> research facilities and offices are located in 900 square meter of newly renovated space on the 19th floor of SMART building A. The state-of-the-art space includes research facilities and areas for (i) design, software development and data analysis, (ii) characterization of BCIs and integrated circuits, (iii) prototyping and in-vitro measurements, (ii) wet chemistry and biology, (iii) cell and tissue culture, (iv) tissue clearing and histology, (v) isolated clean rodent area for long-term care, surgery and cognitive/behavioral electrophysiology studies, and (vi) high-performance computing. Integral open office spaces provide students through senior researchers with a comfortable working environment and beautiful views of the local Guangming community.
@@ -71,7 +71,7 @@ sections:
           position: center
           color: '#666'
       - title: Ideal Brain/Electronics Interfaces
-        content: "Develop *ideal* flexible probes that solve key issues facing all technologies today. In simple terms, we are developing BCIs that are stable in recording and stimulation at the level of individual neurons for the life-span of an adult human. The work involves basic research across sciences and engineering, studies in rodents and NHPs and ultimately translation to humans."
+        content: "Develop ideal flexible probes that solve key issues facing all technologies today. In simple terms, we are developing BCIs that are stable in recording and stimulation at the level of individual neurons for the life-span of an adult human. The work involves basic research across sciences and engineering, studies in rodents and NHPs and ultimately translation to humans."
         align: left
         background:
           image:
@@ -106,7 +106,7 @@ sections:
           text: Explore Facilities
           url: ./facilities/
       - title: Other Key Facilities
-        content: "The integration i-BRAIN within [**Shenzhen Medical Academy for Research and Translation (SMART)**](https://smart.org.cn/) in Guangming provides a vibrant research environment with virtually all critical facilities within walking distance thereby reducing barriers to transformative research. Additional key facilities available at SMART include (i) state-of-the art optical imaging facility and (ii) fully-staffed 12000 cage  rodent facility. In addition, the nearby [**Brain Science Infrastructure ShenZhen**](https://www.bsisz.cn/h-col-128.html#/home) has full-time staff monitoring 2000 NHP cages, state of the art surgical facilities, and dedicated space for our NHP BCI studies."
+        content: "The integration i-BRAIN within [**Shenzhen Medical Academy for Research and Translation (SMART)**](https://smart.org.cn/en/) in Guangming provides a vibrant research environment with virtually all critical facilities within walking distance thereby reducing barriers to transformative research. Additional key facilities available at SMART include (i) state-of-the art optical imaging facility and (ii) fully-staffed 12000 cage  rodent facility. In addition, the nearby [**Brain Science Infrastructure ShenZhen**](https://www.bsisz.cn/h-col-128.html#/share) has full-time staff monitoring 2000 NHP cages, state of the art surgical facilities, and dedicated space for our NHP BCI studies."
         align: left
         background:
           image:
