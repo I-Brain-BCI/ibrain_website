@@ -22,7 +22,7 @@ sections:
           image:
             filename: facility_2_sub.png
             filters:
-              brightness: 0.4
+              brightness: 1.0
           position: center
           color: '#fff'
     design:
