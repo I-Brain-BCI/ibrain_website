@@ -9,9 +9,9 @@ sections:
   - block: slider
     content:
       slides:
-      - title: '<span style="color: #000;"><em>i-BRAIN</em> Nanofab Facilities</span>'
+      - title: '<span style="color: #000; font-weight: bold;"><em>i-BRAIN</em> Nanofab Facilities</span>'
         content: 
-          '<span style="color: #000; font-size: 15px;">i-BRAIN encompasses advanced research laboratories, unique nanofabrication facilities and a positive, interdisciplinary culture designed to create a globally influential innovation hub that leverages resources across science, engineering and medicine to create disruptive BCI technologies and the uniquely trained young talent that drive translation and commercialization to treat human brain diseases.</span>'
+          '<span style="color: #000; font-size: 20px;">i-BRAIN encompasses advanced research laboratories, unique nanofabrication facilities and a positive, interdisciplinary culture designed to create a globally influential innovation hub that leverages resources across science, engineering and medicine to create disruptive BCI technologies and the uniquely trained young talent that drive translation and commercialization to treat human brain diseases.</span>'
 
         align: left
         background:
