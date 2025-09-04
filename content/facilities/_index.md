@@ -5,6 +5,39 @@ date: 2022-10-24
 type: landing
 
 sections:
+
+  - block: slider
+    content:
+      slides:
+      - title: Advanced Research Facilities
+        content: |
+          **World-Class Nanofabrication & Bioelectronics Research Platform**
+          
+          *Equipped with state-of-the-art instrumentation for cutting-edge research*
+          
+          Brain-Computer Interfaces • Nanoelectronics • Bioelectronics
+        align: left
+        background:
+          image:
+            filename: facility_2_sub.png
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#000'
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: '500px'
+      is_fullscreen: false
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
+      # Custom CSS for text color
+      css_style: |
+        .hero-title, .hero-lead {
+          color: #000 !important;
+        }
+
   - block: hero
     content:
       title: State-of-the-Art Research Facilities
