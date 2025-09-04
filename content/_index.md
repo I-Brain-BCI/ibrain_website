@@ -51,9 +51,9 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['10px', '0', '10px', '0']  # 上、右、下、左的padding
+        padding: ['5px', '0', '10px', '0']  # 上、右、下、左的padding
       background:
-        color: '#dedede'
+        color: 'white'
 
 
 
