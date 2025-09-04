@@ -36,6 +36,8 @@ sections:
         </div>
     design:
       columns: '1'
+      spacing:
+        padding: ['0', '0', '0', '0']  # 上、右、下、左的padding，将下边距设为0
       background:
         color: 'white'
 
