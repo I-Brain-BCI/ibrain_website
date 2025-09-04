@@ -97,7 +97,7 @@ sections:
           position: center
           color: '#333'
       - title: i-BRAIN Nanofab Facility
-        content: "A world-class nanofabrication platform that empowers researchers to design, prototype, and realize micro- and nano-scale devices at the frontiers of brain science and neurotechnology. The facility provides advanced tools, materials, and expertise for state-of-the-art processing, enabling breakthroughs in neural interfaces, sensors, and next-generation biomedical technologies. By fostering collaboration across disciplines, the Nanofab supports both fundamental discoveries and translational research, while also training the next generation of scientists and engineers in cutting-edge fabrication techniques."
+        content: "i-BRAIN encompasses advanced research laboratories, unique nanofabrication facilities and a positive, interdisciplinary culture designed to create a globally influential innovation hub that leverages resources across science, engineering and medicine to create disruptive BCI technologies and the uniquely trained young talent that drive translation and commercialization to treat human brain diseases."
         align: left
         background:
           image:
