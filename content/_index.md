@@ -71,7 +71,7 @@ sections:
         align: left
         background:
           image:
-            filename: researcharea_1.png
+            filename: researcharea_1_1.png
             filters:
               brightness: 0.6
           position: center
