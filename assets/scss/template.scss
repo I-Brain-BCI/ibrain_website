@@ -64,24 +64,13 @@
   font-style: italic !important;
 }
 
-// 确保markdown block的文本对齐样式生效
-.block-markdown {
-  .article-subtitle {
-    text-align: left !important;
-  }
-  
-  // 如果上面不生效，使用更通用的选择器
-  p, div {
-    text-align: left !important;
-  }
-}
-
-// 或者使用更具体的选择器针对你的特定block
-[style*="text-align: left"] {
+.text-left-custom {
   text-align: left !important;
   
   * {
     text-align: left !important;
   }
 }
+
+
 
