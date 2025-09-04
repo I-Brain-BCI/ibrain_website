@@ -118,10 +118,13 @@ sections:
 
     design:
       slide_height: '800px'
+      columns: '1'
       is_fullscreen: false
       loop: true
       interval: 4000
       show_slide_info: true
+      spacing:
+        padding: ['0', '10%', '0', '10%']  # 左右各留10%的空白
 
   - block: markdown
     content:
