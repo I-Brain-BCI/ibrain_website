@@ -35,16 +35,16 @@ sections:
           color: #000 !important;
         }
 
-  - block: hero
-    content:
-      title: State-of-the-Art Research Facilities
-      text: |
-        Our laboratory is equipped with cutting-edge instruments and facilities to support world-class research in brain-computer interfaces, nanoelectronics, and bioelectronics.
-      image:
-        filename: facility_overall.png
-    design:
-      spacing:
-        padding: ['40px', '0', '40px', '0']
+  # - block: hero
+  #   content:
+  #     title: State-of-the-Art Research Facilities
+  #     text: |
+  #       Our laboratory is equipped with cutting-edge instruments and facilities to support world-class research in brain-computer interfaces, nanoelectronics, and bioelectronics.
+  #     image:
+  #       filename: facility_overall.png
+  #   design:
+  #     spacing:
+  #       padding: ['40px', '0', '40px', '0']
 
   - block: markdown
     content:
@@ -52,16 +52,15 @@ sections:
       subtitle: 
       text: |
         ## Nanofabrication & Cleanroom
-        
+        <!--         
         <div class="d-flex justify-content-center" style="position: relative; display: inline-block;">
           {{< figure src="nanofab_layout.png" alt="Nanofabrication Layout" id="nanofab-image" >}}
           
-          <!-- 透明覆盖层用于点击检测 -->
           <div class="click-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; pointer-events: none;">
             <a href="./ebl/" class="ebl-area" style="position: absolute; left: 184px; top: 273px; width: 545px; height: 152px; cursor: pointer; pointer-events: all; background: rgba(255,0,0,0.1); border: 2px solid rgba(255,0,0,0.3); display: block; text-decoration: none;" title="点击查看 Electron Beam Lithography 详情"></a>
           </div>
         </div>
-        
+         -->
         <!-- 设施导航栏 -->
         <div class="facility-navbar" style="background: linear-gradient(135deg, #8B1538, #A91B47); margin-top: 20px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
           <div class="d-flex justify-content-center flex-wrap">
