@@ -29,7 +29,7 @@ sections:
   - block: markdown
     content:
       title: Research Areas & Key Facilities
-      subtitle: Pioneering interdisciplinary neurotechnology research from fundamental science to clinical translation. i-BRAIN embodies precision, minimally-invasive, and intelligent principles to revolutionize brain-computer interfaces and deliver personalized treatments for neurological disorders.
+      subtitle: The main *i-BRAIN* research facilities and offices are located in 900 square meter of newly renovated space on the 19th floor of SMART building A. The state-of-the-art space includes research facilities and areas for (i) design, software development and data analysis, (ii) characterization of BCIs and integrated circuits, (iii) prototyping and in-vitro measurements, (ii) wet chemistry and biology, (iii) cell and tissue culture, (iv) tissue clearing and histology, (v) isolated clean rodent area for long-term care, surgery and cognitive/behavioral electrophysiology studies, and (vi) high-performance computing. Integral open office spaces provide students through senior researchers with a comfortable working environment and beautiful views of the local Guangming community.
     design:
       columns: '1'
       spacing:
