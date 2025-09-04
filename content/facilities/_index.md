@@ -9,7 +9,7 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Advanced Research Facilities
+      - title: '<span style="color: #000;">Research Facilities</span>'
         content: 
           '<span style="color: #000;">**World-Class Nanofabrication & Bioelectronics Research Platform**
           
