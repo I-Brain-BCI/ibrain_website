@@ -32,6 +32,7 @@ sections:
       subtitle: The main *i-BRAIN* research facilities and offices are located in 900 square meter of newly renovated space on the 19th floor of SMART building A. The state-of-the-art space includes research facilities and areas for (i) design, software development and data analysis, (ii) characterization of BCIs and integrated circuits, (iii) prototyping and in-vitro measurements, (ii) wet chemistry and biology, (iii) cell and tissue culture, (iv) tissue clearing and histology, (v) isolated clean rodent area for long-term care, surgery and cognitive/behavioral electrophysiology studies, and (vi) high-performance computing. Integral open office spaces provide students through senior researchers with a comfortable working environment and beautiful views of the local Guangming community.
     design:
       columns: '1'
+      css_style: 'text-align: left;'
       spacing:
         padding: ['20px', '0', '10px', '0']  # 上、右、下、左的padding
 
