@@ -141,7 +141,7 @@ sections:
       title: 
       subtitle: 
       text: |
-        <div style="display: flex; align-items: center; justify-content: space-between; padding: 30px; margin: 20px 0; background-color: #ffffff; border-radius: 10px;">
+        <div style="display: flex; align-items: center; justify-content: space-between; padding: 30px; margin: 5px 0; background-color: #ffffff; border-radius: 10px;">
           <div style="flex: 1;">
             <p style="font-size: 24px; margin-bottom: 15px; color: #888; font-style: italic;">Contact Person: Tania Xiang</p>
             <p style="font-size: 24px; margin-bottom: 8px; color: #333;">📧 <strong>ibrain@smart.org.cn</strong></p>
