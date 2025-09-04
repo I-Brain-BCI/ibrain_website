@@ -23,6 +23,8 @@ sections:
         **Benefits to Society:** The research carried out at *i-BRAIN* will create world-leading advances in brain science and neural engineering that enable transformative treatments of some of the most pressing human diseases facing society today, including Alzheimer's disease, stroke, depression and aging. *i-BRAIN* will also instill a highly interdisciplinary culture in the training of young scientists, engineers and doctors such that they are prepared to lead the development and translation of science and engineering ideas for the benefit of present and future generations.
     design:
       columns: '1'
+      spacing:
+        padding: ['20px', '0', '0', '0']  # 上、右、下、左的padding，将下边距设为0
       background:
         color: 'white'
 
