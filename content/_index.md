@@ -31,11 +31,13 @@ sections:
   - block: markdown
     content:
       text: |
-        <div style="text-align: center; margin: 40px 0;">
-          <hr style="width: 50%; border: none; height: 2px; background: linear-gradient(to right, transparent, #2563eb, transparent);">
+        <div style="text-align: center; margin: 3px 0;">
+          <hr style="width: 100%; border: none; height: 2px; background: linear-gradient(to right, transparent, #2563eb, transparent);">
         </div>
     design:
       columns: '1'
+      background:
+        color: 'white'
 
   - block: markdown
     content:
