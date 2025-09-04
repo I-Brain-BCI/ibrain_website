@@ -48,10 +48,9 @@ sections:
 
   - block: markdown
     content:
-      title: Equipment Inventory
+      title: 
       subtitle: 
       text: |
-        ## Nanofabrication & Cleanroom
         <!--         
         <div class="d-flex justify-content-center" style="position: relative; display: inline-block;">
           {{< figure src="nanofab_layout.png" alt="Nanofabrication Layout" id="nanofab-image" >}}
@@ -62,7 +61,7 @@ sections:
         </div>
          -->
         <!-- 设施导航栏 -->
-        <div class="facility-navbar" style="background: linear-gradient(135deg, #8B1538, #2f84d1); margin-top: 20px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+        <div class="facility-navbar" style="background: #2f84d1; margin-top: 20px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
           <div class="d-flex justify-content-center flex-wrap">
             <button class="nav-btn" data-target="overview" style="background: transparent; border: none; color: white; padding: 12px 20px; cursor: pointer; transition: all 0.3s; border-right: 1px solid rgba(255,255,255,0.2); font-weight: 500;" onmouseover="this.style.background='rgba(255,255,255,0.1)'" onmouseout="this.style.background='transparent'">Overview</button>
             <button class="nav-btn" data-target="lithography" style="background: transparent; border: none; color: white; padding: 12px 20px; cursor: pointer; transition: all 0.3s; border-right: 1px solid rgba(255,255,255,0.2); font-weight: 500;" onmouseover="this.style.background='rgba(255,255,255,0.1)'" onmouseout="this.style.background='transparent'">Lithography</button>
