@@ -32,7 +32,7 @@ sections:
     content:
       text: |
         <div style="text-align: center; margin: 3px 0;">
-          <hr style="width: 100%; border: none; height: 2px; background: linear-gradient(to right, transparent, #2563eb, transparent);">
+          <hr style="width: 100%; border: none; height: 2px; background: linear-gradient(to right, transparent,rgb(12, 32, 75), transparent);">
         </div>
     design:
       columns: '1'
@@ -51,7 +51,11 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['20px', '0', '10px', '0']  # 上、右、下、左的padding
+        padding: ['10px', '0', '10px', '0']  # 上、右、下、左的padding
+      background:
+        color: '#f7f7f7'
+
+
 
   - block: slider
     content:
