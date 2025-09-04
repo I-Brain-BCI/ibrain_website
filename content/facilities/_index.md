@@ -26,7 +26,10 @@ sections:
         <div class="d-flex justify-content-center" style="position: relative; display: inline-block;">
           {{< figure src="nanofab_layout.png" alt="Nanofabrication Layout" id="nanofab-image" >}}
           
-          <!-- 移除原来的点击覆盖层和跳转链接 -->
+          <!-- 透明覆盖层用于点击检测 -->
+          <div class="click-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; pointer-events: none;">
+            <a href="./ebl/" class="ebl-area" style="position: absolute; left: 194px; top: 289px; width: 575px; height: 162px; cursor: pointer; pointer-events: all; background: rgba(255,0,0,0.1); border: 2px solid rgba(255,0,0,0.3); display: block; text-decoration: none;" title="点击查看 Electron Beam Lithography 详情"></a>
+          </div>
         </div>
         
         <!-- 添加可折叠的详细信息区域 -->
