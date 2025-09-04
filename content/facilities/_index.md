@@ -26,144 +26,162 @@ sections:
         <div class="d-flex justify-content-center" style="position: relative; display: inline-block;">
           {{< figure src="nanofab_layout.png" alt="Nanofabrication Layout" id="nanofab-image" >}}
           
-          <!-- 透明覆盖层用于点击检测 -->
+          <!-- Transparent overlay for click detection -->
           <div class="click-overlay" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 10; pointer-events: none;">
-            <a href="./ebl/" class="ebl-area" style="position: absolute; left: 194px; top: 289px; width: 575px; height: 162px; cursor: pointer; pointer-events: all; background: rgba(255,0,0,0.1); border: 2px solid rgba(255,0,0,0.3); display: block; text-decoration: none;" title="点击查看 Electron Beam Lithography 详情"></a>
+            <a href="./ebl/" class="ebl-area" style="position: absolute; left: 184px; top: 273px; width: 545px; height: 152px; cursor: pointer; pointer-events: all; background: rgba(255,0,0,0.1); border: 2px solid rgba(255,0,0,0.3); display: block; text-decoration: none;" title="Click to view Electron Beam Lithography details"></a>
           </div>
         </div>
-        
-        <!-- 添加可折叠的详细信息区域 -->
-        {{< details summary="🔬 点击查看电子束光刻 (EBL) 详细规格" class="ebl-details" >}}
-        
-        #### 电子束光刻 (EBL)
-        - **电子枪类型：** Schottky Field Emission, Gaussian beam shape
-        - **加速电压：** 50 kV
-        - **束流范围：** 100 pA – 100 nA
-            - **分辨率：** 8 nm  
-            - **套刻精度：** ±10 nm  
-            - **拼接精度：** ±10 nm  
-            - **最大曝光场：**  
-                - 2000 μm @ 25 kV  
-                - 1000 μm @ 50 kV  
-            - **最大样品尺寸：** 200 mm  
-        
-        #### 无掩模对准机：
-        - **最大样品尺寸：** 300 mm / 12 inch  
-        - **最大曝光面积：** 290 mm × 290 mm  
-        - **分辨率：** ≤600 nm  
-        - **套刻精度：** 500 nm @ 200 mm  
-        - **光源：** 375 nm / 405 nm 
-        
-        {{< /details >}}
-        
-        ### Mission
-        Our mission is to establish a world-class nanofabrication platform that empowers researchers to design, prototype, and realize micro- and nano-scale devices at the frontiers of brain science and neurotechnology.
-        
-        ### Summary
-        The i-BRAIN Nanofabrication Facility includes 550 m² of Class 100 cleanroom space and 400 m² of Class 1000 service and equipment space.
-        
-        ### Lithography Systems
-        
-        #### DUV Scanner (2026Q)
-        - **Resolution (Critical Dimension):** ≤110 nm
-        - **CD Variation at 0.11 μm Resolution:**
-          - Dense lines: ≤10 nm at ±0.2 μm defocus; ≤8 nm at best focus
-          - Isolated lines: ≤14 nm at ±0.15 μm defocus; ≤8 nm at best focus
-        
-        #### Electron Beam Lithography (EBL)
-        - **eGun Type:** Schottky Field Emission, Gaussian beam shape
-        - **Acceleration Voltage:** 50 kV
-        - **Beam Current Range:** 100 pA – 100 nA
-            - **Resolution:** 8 nm  
-            - **Overlay Accuracy:** ±10 nm  
-            - **Stitching Accuracy:** ±10 nm  
-            - **Maximum Field Size:**  
-                - 2000 μm @ 25 kV  
-                - 1000 μm @ 50 kV  
-            - **Maximum Sample Size:** 200 mm  
-
-
-        - **Maskless Aligner:**
-            - **Maximum Sample Size:** 300 mm / 12 inch  
-            - **Maximum Exposure Area:** 290 mm × 290 mm  
-            - **Resolution:** ≤600 nm  
-            - **Overlay Accuracy:** 500 nm @ 200 mm  
-            - **Light Source:** 375 nm / 405 nm 
-
-        
-        ## Mask Aligner Specifications
-
-        - **Automation:** Mechanical semi-automatic transfer, automatic alignment, and automatic exposure  
-        - **Exposure Area:** 210 × 210 mm  
-        - **Illumination Uniformity:** ≤ 4%  
-        - **UV Beam Angle:** ≤ 2°  
-        - **UV Central Wavelengths:** 365 / 405 / 435 nm  
-        - **Gap Adjustment:** 0 – ≥ 1000 µm, adjustable  
-        - **Alignment Accuracy:**  
-          - Front-side alignment: ≤ ±1 µm  
-          - Backside alignment: ≤ ±2 µm (with infrared alignment capability)  
-        - **Exposure Modes:**  
-          - Contact/vacuum exposure: ≤ 1 µm  
-          - Proximity exposure gap: 10 µm ± 3 µm  
-          - Modes: Hard contact (vacuum), soft contact, proximity exposure  
-        - **Pre-Alignment System:**  
-          - Image recognition and automatic rotation system with pre-alignment stage  
-          - Rotation angle range: ≥ ±180°  
-          - Rotation accuracy: ≤ 0.01°  
-        - **Automatic Alignment System:**  
-          - Includes UVW alignment stage and air-bearing auto-leveling system  
-          - Alignment range (X, Y): ≥ ±5 mm  
-          - Rotation angle adjustment: ≥ ±3°  
-          - Microscopes (top and bottom) with two sets of lenses each, controlled by XYZ motorized stages  
-        - **Mask Sizes Supported:** 9" × 9", 7" × 7", 6" × 6", 5" × 5"  
-        - **Substrate Sizes Supported:** 8", 6", 5", 4", 3"  
-        - **Alignment Stage Z-axis Movement:** ≥ ±25 mm, with three-point air-bearing leveling  
-
-        ## E-Beam Evaporator System Specifications
-
-        - **Maximum Wafer Size:** 200 mm / 8 inch  
-        - **Substrate Temperature:** Up to 80°C  
-        - **Film Uniformity:** ±2% @ 8 inch  
-        - **Crucibles:** 6 crucibles, 25 cc each  
-        - **Power Supply:** 10 kW  
-        - **Electron Beam High Voltage:** 10 kV  
-        - **Maximum Beam Current:** 1000 mA  
-        - **Photolithography** - Maskless Aligner
-          - UV exposure system with contact and proximity modes
-          - Minimum feature size: 1 μm
-
-        ### **Etching & Deposition**
-        - **Reactive Ion Etching (RIE)** - Oxford Plasmalab 80 Plus
-          - Anisotropic dry etching for silicon, III-V semiconductors
-          - Multiple gas chemistry options
-        
-        - **Chemical Vapor Deposition (CVD)** - Aixtron 200/4 RF-S
-          - Metal-organic CVD for III-V nanowire growth
-          - Temperature range: 400-800°C
-        
-        - **Atomic Layer Deposition (ALD)** - Cambridge NanoTech Savannah S100
-          - Conformal thin film deposition
-          - Thickness control: < 1 Å precision
-        
-        ---
     design:
       columns: '1'
 
-  
+  # Facility Navigation Tabs using Hugo Blox
+  - block: markdown
+    content:
+      title: Facility Categories
+      text: |
+        {{< details summary="🏢 Overview" open="true" >}}
+        ### Facility Overview
+        Our nanofabrication cleanroom features a complete micro/nano manufacturing process chain, including lithography, thin film deposition, etching, and metrology equipment.
+        
+        **Key Capabilities:**
+        - Electron Beam Lithography (EBL)
+        - UV Lithography
+        - Physical Vapor Deposition (PVD)
+        - Chemical Vapor Deposition (CVD)
+        
+        **Technical Specifications:**
+        - Minimum feature size: 8nm
+        - Overlay accuracy: ±10nm
+        - Cleanroom class: Class 100
+        - Temperature/Humidity control: ±0.1°C, ±1%RH
+        {{< /details >}}
+        
+        {{< details summary="🔬 Lithography" >}}
+        ### Electron Beam Lithography (EBL)
+        High-precision electron beam lithography system for nanoscale pattern fabrication.
+        
+        **System Specifications:**
+        - **Electron Gun:** Schottky Field Emission, Gaussian beam shape
+        - **Acceleration Voltage:** 50 kV
+        - **Beam Current Range:** 100 pA – 100 nA
+        - **Resolution:** 8 nm
+        - **Overlay Accuracy:** ±10 nm
+        - **Stitching Accuracy:** ±10 nm
+        - **Maximum Exposure Field:** 
+          - 2000 μm @ 25 kV
+          - 1000 μm @ 50 kV
+        - **Maximum Sample Size:** 200 mm
+        
+        **Maskless Aligner:**
+        - **Sample Size:** up to 300 mm
+        - **Overlay Accuracy:** ±10 nm
+        
+        [View Detailed Specifications →](./ebl/)
+        {{< /details >}}
+        
+        {{< details summary="🎯 Thin Film Deposition" >}}
+        ### Deposition Systems
+        Multiple thin film deposition processes for various materials and thickness requirements.
+        
+        **Physical Vapor Deposition (PVD):**
+        - Sputtering deposition
+        - Electron beam evaporation
+        - Thermal evaporation
+        
+        **Chemical Vapor Deposition (CVD):**
+        - Plasma Enhanced CVD (PECVD)
+        - Low Pressure CVD (LPCVD)
+        - Atomic Layer Deposition (ALD)
+        
+        **Materials Available:**
+        - Metals: Au, Pt, Ti, Cr, Al, Cu
+        - Dielectrics: SiO₂, Si₃N₄, Al₂O₃
+        - Semiconductors: Si, Ge, III-V compounds
+        {{< /details >}}
+        
+        {{< details summary="⚡ Etching" >}}
+        ### Etching Processes
+        Precision etching equipment for pattern transfer across various materials.
+        
+        **Dry Etching:**
+        - Reactive Ion Etching (RIE)
+        - Inductively Coupled Plasma RIE (ICP-RIE)
+        - Deep Silicon Etching (DRIE)
+        
+        **Wet Etching:**
+        - Various chemical etchants
+        - Selective etching processes
+        
+        **Specifications:**
+        - Etching precision: ±5nm
+        - Aspect ratio: up to 50:1
+        - Selectivity: >100:1 (material dependent)
+        {{< /details >}}
+        
+        {{< details summary="📊 Metrology & Backend" >}}
+        ### Characterization & Testing
+        Comprehensive metrology equipment ensuring process quality and device reliability.
+        
+        **Morphology Characterization:**
+        - Scanning Electron Microscopy (SEM)
+        - Atomic Force Microscopy (AFM)
+        - Optical Microscopy
+        - Profilometry
+        
+        **Electrical Testing:**
+        - Probe station testing
+        - Parameter analyzers
+        - Network analyzers
+        - High-frequency measurements
+        
+        **Material Analysis:**
+        - X-ray Photoelectron Spectroscopy (XPS)
+        - Energy Dispersive X-ray (EDX)
+        - Ellipsometry
+        {{< /details >}}
+        
+        {{< details summary="🔧 Other Facilities" >}}
+        ### Supporting Equipment
+        Auxiliary facilities and specialized process equipment.
+        
+        **Cleaning Equipment:**
+        - Ultrasonic cleaning
+        - Plasma cleaning
+        - RCA cleaning stations
+        
+        **Thermal Processing:**
+        - Hot plates
+        - Ovens
+        - Rapid thermal annealing (RTA)
+        
+        **Storage & Safety:**
+        - Nitrogen cabinets
+        - Vacuum storage
+        - Chemical storage cabinets
+        - Waste treatment systems
+        
+        **Sample Preparation:**
+        - Spin coaters
+        - Wire bonders
+        - Dicing saws
+        - Packaging equipment
+        {{< /details >}}
+    design:
+      columns: '1'
 
-  # - block: markdown
-  #   content:
-  #     title: Visit Our Facilities
-  #     subtitle: Schedule a tour or discuss collaboration opportunities
-  #     text: |
-  #       <div style="text-align: center; padding: 40px; background: linear-gradient(135deg, #28a745 0%, #20c997 100%); border-radius: 10px; color: white; margin: 20px 0;">
-  #         <h3 style="color: white; margin-bottom: 20px;">Interested in Our Facilities?</h3>
-  #         <p style="font-size: 18px; margin-bottom: 30px;">Schedule a facility tour or discuss potential collaborations with our team.</p>
-  #         <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  #           <a href="../contact/" style="background: white; color: #28a745; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">Contact Us</a>
-  #           <a href="mailto:facilities@ibrain-lab.com" style="background: rgba(255,255,255,0.2); color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block; border: 2px solid white;">Schedule Tour</a>
-  #         </div>
-  #       </div>
-  #   design:
-  #     columns: '1'
+  - block: markdown
+    content:
+      title: Visit Our Facilities
+      subtitle: Schedule a tour or discuss collaboration opportunities
+      text: |
+        <div style="text-align: center; padding: 40px; background: linear-gradient(135deg, #28a745 0%, #20c997 100%); border-radius: 10px; color: white; margin: 20px 0;">
+          <h3 style="color: white; margin-bottom: 20px;">Interested in Our Facilities?</h3>
+          <p style="font-size: 18px; margin-bottom: 30px;">Schedule a facility tour or discuss potential collaborations with our team.</p>
+          <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+            <a href="../contact/" style="background: white; color: #28a745; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block;">Contact Us</a>
+            <a href="mailto:facilities@ibrain-lab.com" style="background: rgba(255,255,255,0.2); color: white; padding: 15px 30px; border-radius: 5px; text-decoration: none; font-weight: bold; display: inline-block; border: 2px solid white;">Schedule Tour</a>
+          </div>
+        </div>
+    design:
+      columns: '1'
 ---
