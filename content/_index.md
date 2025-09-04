@@ -53,7 +53,7 @@ sections:
       spacing:
         padding: ['10px', '0', '10px', '0']  # 上、右、下、左的padding
       background:
-        color: '#f7f7f7'
+        color: '#dedede'
 
 
 
