@@ -125,6 +125,19 @@ sections:
 
   - block: markdown
     content:
+      text: |
+        <div style="text-align: center; margin: 3px 0;">
+          <hr style="width: 100%; border: none; height: 2px; background: linear-gradient(to right, transparent,rgb(12, 32, 75), transparent);">
+        </div>
+    design:
+      columns: '1'
+      spacing:
+        padding: ['0', '0', '0', '0']  # 上、右、下、左的padding，将下边距设为0
+      background:
+        color: 'white'
+
+  - block: markdown
+    content:
       title: 
       subtitle: 
       text: |
@@ -140,7 +153,10 @@ sections:
         </div>
     design:
       columns: '1'
-
+      spacing:
+        padding: ['5px', '0', '5px', '0']  # 上、右、下、左的padding，将下边距设为0
+      background:
+        color: 'white'
 
   
   - block: collection
