@@ -1,5 +1,5 @@
 ---
-title: Electron Beam Lithography (EBL)
+title: EBL
 date: 2022-10-24
 
 type: landing
