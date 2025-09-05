@@ -23,6 +23,7 @@ sections:
         category: "Academic/Research Positions"
       offset: 0
       order: asc
+      sort_by: 'weight'
     design:
       view: card
       columns: '1'

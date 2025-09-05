@@ -1,5 +1,6 @@
 ---
 title: Associate/Assistant Investigator
+weight: 2
 date: 2025-07-25
 share: false
 categories: ["Academic/Research Positions"]

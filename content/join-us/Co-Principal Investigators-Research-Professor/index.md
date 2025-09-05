@@ -1,5 +1,6 @@
 ---
 title: Co-Principal Investigators/Research-Professor
+weight: 1
 date: 2025-07-25
 share: false
 categories: ["Academic/Research Positions"]

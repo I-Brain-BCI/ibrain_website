@@ -1,5 +1,6 @@
 ---
 title: Postdoctoral Researcher
+weight: 3
 date: 2025-07-25
 share: false
 categories: ["Academic/Research Positions"]
