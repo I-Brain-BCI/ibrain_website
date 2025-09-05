@@ -10,9 +10,10 @@ sections:
       title: Contact Us
       subtitle:
       text: |
-        Ready to join our team? Get in touch with us for more information about current opportunities or to discuss potential collaborations.
+        Ready to join our team? Please visit our [Join Us page](../join-us/) or  write directly about possible positions and/or questions.
         
-        For career opportunities, please visit our [Join Us page](../join-us/).
+        Additionally, please contact here about other interests including collaborations.
+
       # Contact (add or remove contact options as necessary)
       email: ibrain@smart.org.cn
       address:
