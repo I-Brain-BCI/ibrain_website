@@ -72,9 +72,7 @@
   }
 }
 
-body {
-  zoom: 0.8;
-}
+
 
 // // 限制 slider 块宽度
 // .block-slider {
@@ -89,19 +87,25 @@ body {
 // 或者更具体的选择器
 
 
-.block-slider,
-.wg-slider {
-  width: inherit;
-  max-width: inherit;
-  margin-left: inherit;
-  margin-right: inherit;
-  box-sizing: border-box;
-}
 
-.wg-slider {
-  max-width: 80%;
-  margin: 0 auto;
-  padding: 0 2%;
-}
+// body {
+//   zoom: 0.8;
+// }
+
+
+// .block-slider,
+// .wg-slider {
+//   width: inherit;
+//   max-width: inherit;
+//   margin-left: inherit;
+//   margin-right: inherit;
+//   box-sizing: border-box;
+// }
+
+// .wg-slider {
+//   max-width: 80%;
+//   margin: 0 auto;
+//   padding: 0 2%;
+// }
 
 
