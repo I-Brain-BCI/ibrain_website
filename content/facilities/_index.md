@@ -74,29 +74,29 @@ sections:
             <h3 style="color: #8B1538; margin-bottom: 15px;">🏢 Facility Overview</h3>
             <p>The i-BRAIN Nanofabrication Facility features 550 m² of Class 100 cleanroom space and 400 m² of Class 1000 service and equipment areas, supporting research and prototyping on wafers up to 200 mm (8 inches). The facility is equipped for advanced lithography, including electron-beam lithography, DUV scanner, mask aligners, maskless aligners, automatic coater/developer tracks, spin coaters, and hotplates. Thin-film deposition capabilities include e-beam evaporators for metals and sputtering systems for metal oxides. Etching tools include wet benches and plasma ashers, while metrology and characterization are supported by CD-SEM, optical microscopes, and profilometers. The facility provides a comprehensive environment for micro- and nanofabrication, enabling cutting-edge research and device development.</p>
           </div>
-        </div>
+
           
-        <div id="lithography-bay" class="content-panel" style="display: none;">
-          <h3 style="color: #8B1538; margin-bottom: 15px;">🔬 Lithography Bay</h3>
-          <p>The Lithography Bay is a core area of the <strong><em>i-BRAIN</em></strong> Nanofabrication Facility, dedicated to high-precision patterning of micro- and nanoscale structures on wafers up to 200 mm (8 inches). It houses state-of-the-art lithography tools:</p>
-          
-          <div style="margin-top: 20px;">
-            <h5><strong>ASML KrF Stepper:</strong></h5>
-            <p style="margin-left: 20px; margin-bottom: 15px;">Deep-UV projection lithography down to 110 nm resolution on 200 mm wafers.</p>
+          <div id="lithography-bay" class="content-panel" style="display: none;">
+            <h3 style="color: #8B1538; margin-bottom: 15px;">🔬 Lithography Bay</h3>
+            <p>The Lithography Bay is a core area of the <strong><em>i-BRAIN</em></strong> Nanofabrication Facility, dedicated to high-precision patterning of micro- and nanoscale structures on wafers up to 200 mm (8 inches). It houses state-of-the-art lithography tools:</p>
             
-            <h5><strong>Electron-Beam Lithography (EBL) System:</strong></h5>
-            <p style="margin-left: 20px; margin-bottom: 15px;">50 kV operation for high-resolution patterning on wafers up to 200 mm.</p>
-            
-            <h5><strong>Maskless Aligner:</strong></h5>
-            <p style="margin-left: 20px; margin-bottom: 15px;">Up to 300 mm wafer size, reticle resolution 600 nm, ideal for flexible and rapid prototyping.</p>
-            
-            <h5><strong>Mask Aligner:</strong></h5>
-            <p style="margin-left: 20px; margin-bottom: 15px;">Exposure area up to 210 × 210 mm, equipped with 365 nm, 405 nm, and 435 nm light sources for contact and proximity lithography.</p>
-            
-            <h5><strong>Supporting Equipment:</strong></h5>
-            <p style="margin-left: 20px; margin-bottom: 15px;">Automated coater/developer tracks, spin coaters, and hotplates for full resist application and baking workflows.</p>
+            <div style="margin-top: 20px;">
+              <h5><strong>ASML KrF Stepper:</strong></h5>
+              <p style="margin-left: 20px; margin-bottom: 15px;">Deep-UV projection lithography down to 110 nm resolution on 200 mm wafers.</p>
+              
+              <h5><strong>Electron-Beam Lithography (EBL) System:</strong></h5>
+              <p style="margin-left: 20px; margin-bottom: 15px;">50 kV operation for high-resolution patterning on wafers up to 200 mm.</p>
+              
+              <h5><strong>Maskless Aligner:</strong></h5>
+              <p style="margin-left: 20px; margin-bottom: 15px;">Up to 300 mm wafer size, reticle resolution 600 nm, ideal for flexible and rapid prototyping.</p>
+              
+              <h5><strong>Mask Aligner:</strong></h5>
+              <p style="margin-left: 20px; margin-bottom: 15px;">Exposure area up to 210 × 210 mm, equipped with 365 nm, 405 nm, and 435 nm light sources for contact and proximity lithography.</p>
+              
+              <h5><strong>Supporting Equipment:</strong></h5>
+              <p style="margin-left: 20px; margin-bottom: 15px;">Automated coater/developer tracks, spin coaters, and hotplates for full resist application and baking workflows.</p>
+            </div>
           </div>
-        </div>
           
           <div id="deposition-bay" class="content-panel" style="display: none;">
             <h3 style="color: #8B1538; margin-bottom: 15px;">🎯 Deposition Bay</h3>
