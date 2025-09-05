@@ -71,28 +71,10 @@ sections:
         <!-- 内容展示区域 -->
         <div class="facility-content" style="margin-top: 20px; padding: 20px; background: #f8f9fa; border-radius: 8px; min-height: 200px;">
           <div id="overview" class="content-panel" style="display: block;">
-            <h3 style="color: #8B1538; margin-bottom: 15px;">🏢 设施概览</h3>
-            <p>我们的纳米加工洁净室配备了完整的微纳制造工艺链，包括光刻、薄膜沉积、刻蚀、计量检测等关键工艺设备。</p>
-            <div class="row mt-3">
-              <div class="col-md-6">
-                <h5>🔬 主要工艺能力</h5>
-                <ul>
-                  <li>电子束光刻 (EBL)</li>
-                  <li>紫外光刻 (UV Lithography)</li>
-                  <li>物理气相沉积 (PVD)</li>
-                  <li>化学气相沉积 (CVD)</li>
-                </ul>
-              </div>
-              <div class="col-md-6">
-                <h5>📏 技术指标</h5>
-                <ul>
-                  <li>最小线宽: 8nm</li>
-                  <li>套刻精度: ±10nm</li>
-                  <li>洁净度: Class 100</li>
-                  <li>温湿度控制: ±0.1°C, ±1%RH</li>
-                </ul>
-              </div>
-            </div>
+            <h3 style="color: #8B1538; margin-bottom: 15px;">🏢 Facility Overview</h3>
+            <p>The i-BRAIN Nanofabrication Facility features 550 m² of Class 100 cleanroom space and 400 m² of Class 1000 service and equipment areas, supporting research and prototyping on wafers up to 200 mm (8 inches). The facility is equipped for advanced lithography, including electron-beam lithography, DUV scanner, mask aligners, maskless aligners, automatic coater/developer tracks, spin coaters, and hotplates. Thin-film deposition capabilities include e-beam evaporators for metals and sputtering systems for metal oxides. Etching tools include wet benches and plasma ashers, while metrology and characterization are supported by CD-SEM, optical microscopes, and profilometers. The facility provides a comprehensive environment for micro- and nanofabrication, enabling cutting-edge research and device development.</p>
+          </div>
+
           </div>
           
           <div id="lithography-bay" class="content-panel" style="display: none;">
@@ -219,81 +201,7 @@ sections:
           });
         });
         </script>
-        
-        #### 电子束光刻 (EBL)
-        - **电子枪类型：** Schottky Field Emission, Gaussian beam shape
-        - **加速电压：** 50 kV
-        - **束流范围：** 100 pA – 100 nA
-            - **分辨率：** 8 nm  
-            - **套刻精度：** ±10 nm  
-            - **拼接精度：** ±10 nm  
-            - **最大曝光场：**  
-                - 2000 μm @ 25 kV  
-                - 1000 μm @ 50 kV  
-            - **最大样品尺寸：** 200 mm  
 
-
-        - **Maskless Aligner:**
-            - **最大样品尺寸：** 300 mm / 12 inch  
-            - **最大曝光面积：** 290 mm × 290 mm  
-            - **分辨率：** ≤600 nm  
-            - **套刻精度：** 500 nm @ 200 mm  
-            - **光源：** 375 nm / 405 nm 
-
-        
-        ## Mask Aligner Specifications
-
-        - **Automation:** Mechanical semi-automatic transfer, automatic alignment, and automatic exposure  
-        - **Exposure Area:** 210 × 210 mm  
-        - **Illumination Uniformity:** ≤ 4%  
-        - **UV Beam Angle:** ≤ 2°  
-        - **UV Central Wavelengths:** 365 / 405 / 435 nm  
-        - **Gap Adjustment:** 0 – ≥ 1000 µm, adjustable  
-        - **Alignment Accuracy:**  
-          - Front-side alignment: ≤ ±1 µm  
-          - Backside alignment: ≤ ±2 µm (with infrared alignment capability)  
-        - **Exposure Modes:**  
-          - Contact/vacuum exposure: ≤ 1 µm  
-          - Proximity exposure gap: 10 µm ± 3 µm  
-          - Modes: Hard contact (vacuum), soft contact, proximity exposure  
-        - **Pre-Alignment System:**  
-          - Image recognition and automatic rotation system with pre-alignment stage  
-          - Rotation angle range: ≥ ±180°  
-          - Rotation accuracy: ≤ 0.01°  
-        - **Automatic Alignment System:**  
-          - Includes UVW alignment stage and air-bearing auto-leveling system  
-          - Alignment range (X, Y): ≥ ±5 mm  
-          - Rotation angle adjustment: ≥ ±3°  
-          - Microscopes (top and bottom) with two sets of lenses each, controlled by XYZ motorized stages  
-        - **Mask Sizes Supported:** 9" × 9", 7" × 7", 6" × 6", 5" × 5"  
-        - **Substrate Sizes Supported:** 8", 6", 5", 4", 3"  
-        - **Alignment Stage Z-axis Movement:** ≥ ±25 mm, with three-point air-bearing leveling  
-
-        ## E-Beam Evaporator System Specifications
-
-        - **Maximum Wafer Size:** 200 mm / 8 inch  
-        - **Substrate Temperature:** Up to 80°C  
-        - **Film Uniformity:** ±2% @ 8 inch  
-        - **Crucibles:** 6 crucibles, 25 cc each  
-        - **Power Supply:** 10 kW  
-        - **Electron Beam High Voltage:** 10 kV  
-        - **Maximum Beam Current:** 1000 mA  
-        - **Photolithography** - Maskless Aligner
-          - UV exposure system with contact and proximity modes
-          - Minimum feature size: 1 μm
-
-        ### **Etching & Deposition**
-        - **Reactive Ion Etching (RIE)** - Oxford Plasmalab 80 Plus
-          - Anisotropic dry etching for silicon, III-V semiconductors
-          - Multiple gas chemistry options
-        
-        - **Chemical Vapor Deposition (CVD)** - Aixtron 200/4 RF-S
-          - Metal-organic CVD for III-V nanowire growth
-          - Temperature range: 400-800°C
-        
-        - **Atomic Layer Deposition (ALD)** - Cambridge NanoTech Savannah S100
-          - Conformal thin film deposition
-          - Thickness control: < 1 Å precision
         
         ---
     design:
