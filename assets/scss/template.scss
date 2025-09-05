@@ -76,15 +76,15 @@ body {
   zoom: 0.8;
 }
 
-// // 限制 slider 块宽度
-// .block-slider {
-//   max-width: 100%;
-//   margin: 0 auto;
+// 限制 slider 块宽度
+.block-slider {
+  max-width: 80%;
+  margin: 0 auto;
   
-//   .carousel {
-//     max-width: 100%;
-//   }
-// }
+  .carousel {
+    max-width: 100%;
+  }
+}
 
 // // 或者更具体的选择器
 // .wg-slider {
