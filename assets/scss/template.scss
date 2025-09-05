@@ -102,15 +102,19 @@
 //   box-sizing: border-box;
 // }
 
-// .wg-slider {
-//   max-width: 80%;
-//   margin: 0 auto;
-//   padding: 0 2%;
-// }
+
 
 .page-wrapper,
 .universal-wrapper {
   zoom: 0.8;
+}
+
+.wg-slider {
+  width: inherit;
+  max-width: inherit;
+  margin-left: inherit;
+  margin-right: inherit;
+  box-sizing: border-box;
 }
 
 
