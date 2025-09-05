@@ -25,7 +25,7 @@ sections:
       order: asc
     design:
       view: card
-      columns: '2'
+      columns: '1'
       
   - block: collection
     content:
