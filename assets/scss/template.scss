@@ -104,9 +104,15 @@
 
 
 
+// .page-wrapper,
+// .universal-wrapper {
+//   zoom: 0.8;
+// }
+
 .page-wrapper,
 .universal-wrapper {
-  zoom: 0.8;
+  max-width: 85%;
+  margin: 0 auto;
 }
 
 .wg-slider {
