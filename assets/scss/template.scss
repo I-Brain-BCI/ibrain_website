@@ -73,24 +73,33 @@
 }
 
 body {
-  zoom: 1.0;
+  zoom: 0.8;
 }
 
-// 限制 slider 块宽度
-.block-slider {
-  max-width: 100%;
-  margin: 0 auto;
+// // 限制 slider 块宽度
+// .block-slider {
+//   max-width: 100%;
+//   margin: 0 auto;
   
-  .carousel {
-    max-width: 100%;
-  }
-}
+//   .carousel {
+//     max-width: 100%;
+//   }
+// }
 
-// 或者更具体的选择器
+// // 或者更具体的选择器
+// .wg-slider {
+//   max-width: 100%;
+//   margin: 0 auto;
+//   padding: 0 2%;
+// }
+
+.block-slider,
 .wg-slider {
-  max-width: 100%;
-  margin: 0 auto;
-  padding: 0 2%;
+  width: inherit;
+  max-width: inherit;
+  margin-left: inherit;
+  margin-right: inherit;
+  box-sizing: border-box;
 }
 
 
