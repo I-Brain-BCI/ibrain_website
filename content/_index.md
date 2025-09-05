@@ -66,7 +66,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: Disruptive BCI Technology
+      - title: '<span style="color: #fff; font-weight: bold;">Disruptive BCI Technology</span>'
+
         content: "Merging the power and scalability of silicon integrated circuits and ultra-flexible minimally-invasive polymer-based electronics for chronic cognitive and motor studies in rodents and nonhuman primates. A central focus is to monitoring and modulate neural activity on a scale heretofore not possible in animal disease models and to translate these advanced neuro-technologies to humans."
         align: left
         background:
@@ -76,7 +77,8 @@ sections:
               brightness: 0.6
           position: center
           color: '#666'
-      - title: Ideal Brain/Electronics Interfaces
+      - title: '<span style="color: #fff; font-weight: bold;">Ideal Brain/Electronics Interfaces</span>'
+
         content: "Develop ideal flexible probes that solve key issues facing all technologies today. In simple terms, we are developing BCIs that are stable in recording and stimulation at the level of individual neurons for the life-span of an adult human. The work involves basic research across sciences and engineering, studies in rodents and NHPs and ultimately translation to humans."
         align: left
         background:
@@ -86,7 +88,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#555'
-      - title: BCIs for Regenerative Medicine
+      - title: '<span style="color: #fff; font-weight: bold;">BCIs for Regenerative Medicine</span>'
+
         content: "We are developing 'pro-regenerative' BCIs that not only monitor and/or stimulate neural activity but also promote and control the growth of new neural tissue to repair the brain. The work involves basic research across sciences, engineering and medicine with the goal of translation to human patients for personalized treatment of a range of brain diseases in a way simply not possible today."
         align: left
         background:
@@ -112,7 +115,8 @@ sections:
           icon_pack: fas
           text: Explore Facilities
           url: ./facilities/
-      - title: Other Key Facilities
+      - title: '<span style="color: #fff; font-weight: bold;">Other Key Facilities</span>'
+
         content: '<span style="font-size: 85%;">The integration i-BRAIN within [**Shenzhen Medical Academy for Research and Translation (SMART)**](https://smart.org.cn/en/) in Guangming provides a vibrant research environment with virtually all critical facilities within walking distance thereby reducing barriers to transformative research. Additional key facilities available at SMART include (i) state-of-the art optical imaging facility and (ii) fully-staffed 12000 cage  rodent facility. In addition, the nearby [**Brain Science Infrastructure ShenZhen**](https://www.bsisz.cn/h-col-128.html#/share) has full-time staff monitoring 2000 NHP cages, state of the art surgical facilities, and dedicated space for our NHP BCI studies.</span>'
         align: left
         background:
