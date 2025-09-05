@@ -74,8 +74,7 @@ sections:
             <h3 style="color: #8B1538; margin-bottom: 15px;">🏢 Facility Overview</h3>
             <p>The i-BRAIN Nanofabrication Facility features 550 m² of Class 100 cleanroom space and 400 m² of Class 1000 service and equipment areas, supporting research and prototyping on wafers up to 200 mm (8 inches). The facility is equipped for advanced lithography, including electron-beam lithography, DUV scanner, mask aligners, maskless aligners, automatic coater/developer tracks, spin coaters, and hotplates. Thin-film deposition capabilities include e-beam evaporators for metals and sputtering systems for metal oxides. Etching tools include wet benches and plasma ashers, while metrology and characterization are supported by CD-SEM, optical microscopes, and profilometers. The facility provides a comprehensive environment for micro- and nanofabrication, enabling cutting-edge research and device development.</p>
           </div>
-
-          </div>
+        </div>
           
           <div id="lithography-bay" class="content-panel" style="display: none;">
             <h3 style="color: #8B1538; margin-bottom: 15px;">🔬 Lithography Bay</h3>
