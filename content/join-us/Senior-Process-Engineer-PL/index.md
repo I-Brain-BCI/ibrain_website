@@ -1,6 +1,8 @@
 ---
 title: Senior Process Engineer (PL)
 date: 2025-07-25
+weight: 4
+
 share: false
 categories: ["i-BRAIN Nanofab"]
 ---

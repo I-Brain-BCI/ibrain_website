@@ -1,6 +1,8 @@
 ---
 title: Senior Process Engineer (EBL)
 date: 2025-07-25
+weight: 2
+
 share: false
 categories: ["i-BRAIN Nanofab"]
 ---

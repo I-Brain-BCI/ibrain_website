@@ -1,6 +1,8 @@
 ---
 title: Senior Process Engineer (KrF Stepper)
 date: 2025-07-25
+weight: 3
+
 share: false
 categories: ["i-BRAIN Nanofab"]
 ---

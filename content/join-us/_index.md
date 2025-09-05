@@ -10,6 +10,8 @@ sections:
         Explore our current openings below."
     design:
       columns: '1'
+      spacing:
+        padding: ['20px', '0', '5px', '0']  # 上、右、下、左的padding，
       css_style: 'text-align: center;'
       
   - block: collection
@@ -27,6 +29,9 @@ sections:
     design:
       view: card
       columns: '1'
+      spacing:
+        padding: ['20px', '0', '5px', '0']  # 上、右、下、左的padding，
+
       
   - block: collection
     content:
@@ -42,6 +47,9 @@ sections:
     design:
       view: card
       columns: '1'
+      spacing:
+        padding: ['20px', '0', '5px', '0']  # 上、右、下、左的padding，
+
       
   - block: collection
     content:
