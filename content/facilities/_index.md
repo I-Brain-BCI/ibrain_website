@@ -79,25 +79,23 @@ sections:
           
           <div id="lithography-bay" class="content-panel" style="display: none;">
             <h3 style="color: #8B1538; margin-bottom: 15px;">🔬 Lithography Bay</h3>
-            <div class="row">
-              <div class="col-md-8">
-                <h5>电子束光刻 (EBL)</h5>
-                <p>高精度电子束光刻系统，支持纳米级图形制备。</p>
-                <ul>
-                  <li><strong>电子枪类型:</strong> Schottky Field Emission</li>
-                  <li><strong>加速电压:</strong> 50kV</li>
-                  <li><strong>分辨率:</strong> 8nm</li>
-                  <li><strong>电流范围:</strong> 100pA - 100nA</li>
-                  <li><strong>样品尺寸:</strong> 最大300mm</li>
-                </ul>
-                <a href="./ebl/" class="btn" style="background: #8B1538; color: white; padding: 8px 16px; text-decoration: none; border-radius: 4px; margin-top: 10px; display: inline-block;">查看详细规格 →</a>
-              </div>
-              <div class="col-md-4">
-                <div style="background: #e9ecef; padding: 15px; border-radius: 8px; text-align: center;">
-                  <h6>工艺流程</h6>
-                  <p style="font-size: 0.9em; margin: 0;">样品准备 → 胶膜涂覆 → 曝光 → 显影 → 检测</p>
-                </div>
-              </div>
+            <p>The Lithography Bay is a core area of the <strong><em>i-BRAIN</em></strong> Nanofabrication Facility, dedicated to high-precision patterning of micro- and nanoscale structures on wafers up to 200 mm (8 inches). It houses state-of-the-art lithography tools:</p>
+            
+            <div style="margin-top: 20px;">
+              <h5><strong>ASML KrF Stepper:</strong></h5>
+              <p style="margin-left: 20px; margin-bottom: 15px;">Deep-UV projection lithography down to 110 nm resolution on 200 mm wafers.</p>
+              
+              <h5><strong>Electron-Beam Lithography (EBL) System:</strong></h5>
+              <p style="margin-left: 20px; margin-bottom: 15px;">50 kV operation for high-resolution patterning on wafers up to 200 mm.</p>
+              
+              <h5><strong>Maskless Aligner:</strong></h5>
+              <p style="margin-left: 20px; margin-bottom: 15px;">Up to 300 mm wafer size, reticle resolution 600 nm, ideal for flexible and rapid prototyping.</p>
+              
+              <h5><strong>Mask Aligner:</strong></h5>
+              <p style="margin-left: 20px; margin-bottom: 15px;">Exposure area up to 210 × 210 mm, equipped with 365 nm, 405 nm, and 435 nm light sources for contact and proximity lithography.</p>
+              
+              <h5><strong>Supporting Equipment:</strong></h5>
+              <p style="margin-left: 20px; margin-bottom: 15px;">Automated coater/developer tracks, spin coaters, and hotplates for full resist application and baking workflows.</p>
             </div>
           </div>
           
