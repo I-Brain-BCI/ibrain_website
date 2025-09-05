@@ -62,11 +62,9 @@ sections:
         <div class="facility-navbar" style="background: #6B5E4E; margin-top: 20px; border-radius: 8px; overflow: hidden; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
           <div class="d-flex justify-content-center flex-wrap">
             <button class="nav-btn" data-target="overview" style="background: transparent; border: none; color: white; padding: 12px 20px; cursor: pointer; transition: all 0.3s; border-right: 1px solid rgba(255,255,255,0.2); font-weight: 500;" onmouseover="this.style.background='rgba(255,255,255,0.1)'" onmouseout="this.style.background='transparent'">Overview</button>
-            <button class="nav-btn" data-target="lithography" style="background: transparent; border: none; color: white; padding: 12px 20px; cursor: pointer; transition: all 0.3s; border-right: 1px solid rgba(255,255,255,0.2); font-weight: 500;" onmouseover="this.style.background='rgba(255,255,255,0.1)'" onmouseout="this.style.background='transparent'">Lithography</button>
-            <button class="nav-btn" data-target="deposition" style="background: transparent; border: none; color: white; padding: 12px 20px; cursor: pointer; transition: all 0.3s; border-right: 1px solid rgba(255,255,255,0.2); font-weight: 500;" onmouseover="this.style.background='rgba(255,255,255,0.1)'" onmouseout="this.style.background='transparent'">Thin Film Deposition</button>
-            <button class="nav-btn" data-target="etching" style="background: transparent; border: none; color: white; padding: 12px 20px; cursor: pointer; transition: all 0.3s; border-right: 1px solid rgba(255,255,255,0.2); font-weight: 500;" onmouseover="this.style.background='rgba(255,255,255,0.1)'" onmouseout="this.style.background='transparent'">Etching</button>
-            <button class="nav-btn" data-target="metrology" style="background: transparent; border: none; color: white; padding: 12px 20px; cursor: pointer; transition: all 0.3s; border-right: 1px solid rgba(255,255,255,0.2); font-weight: 500;" onmouseover="this.style.background='rgba(255,255,255,0.1)'" onmouseout="this.style.background='transparent'">Metrology and Backend</button>
-            <button class="nav-btn" data-target="other" style="background: transparent; border: none; color: white; padding: 12px 20px; cursor: pointer; transition: all 0.3s; font-weight: 500;" onmouseover="this.style.background='rgba(255,255,255,0.1)'" onmouseout="this.style.background='transparent'">Other Facilities</button>
+            <button class="nav-btn" data-target="lithography-bay" style="background: transparent; border: none; color: white; padding: 12px 20px; cursor: pointer; transition: all 0.3s; border-right: 1px solid rgba(255,255,255,0.2); font-weight: 500;" onmouseover="this.style.background='rgba(255,255,255,0.1)'" onmouseout="this.style.background='transparent'">Lithography Bay</button>
+            <button class="nav-btn" data-target="deposition-bay" style="background: transparent; border: none; color: white; padding: 12px 20px; cursor: pointer; transition: all 0.3s; border-right: 1px solid rgba(255,255,255,0.2); font-weight: 500;" onmouseover="this.style.background='rgba(255,255,255,0.1)'" onmouseout="this.style.background='transparent'">Deposition Bay</button>
+            <button class="nav-btn" data-target="metrology-other-bay" style="background: transparent; border: none; color: white; padding: 12px 20px; cursor: pointer; transition: all 0.3s; font-weight: 500;" onmouseover="this.style.background='rgba(255,255,255,0.1)'" onmouseout="this.style.background='transparent'">The Metrology & Other Bay</button>
           </div>
         </div>
         
@@ -97,8 +95,8 @@ sections:
             </div>
           </div>
           
-          <div id="lithography" class="content-panel" style="display: none;">
-            <h3 style="color: #8B1538; margin-bottom: 15px;">🔬 光刻工艺</h3>
+          <div id="lithography-bay" class="content-panel" style="display: none;">
+            <h3 style="color: #8B1538; margin-bottom: 15px;">🔬 Lithography Bay</h3>
             <div class="row">
               <div class="col-md-8">
                 <h5>电子束光刻 (EBL)</h5>
@@ -121,8 +119,8 @@ sections:
             </div>
           </div>
           
-          <div id="deposition" class="content-panel" style="display: none;">
-            <h3 style="color: #8B1538; margin-bottom: 15px;">🎯 薄膜沉积</h3>
+          <div id="deposition-bay" class="content-panel" style="display: none;">
+            <h3 style="color: #8B1538; margin-bottom: 15px;">🎯 Deposition Bay</h3>
             <p>提供多种薄膜沉积工艺，满足不同材料和厚度需求。</p>
             <div class="row">
               <div class="col-md-6">
@@ -144,20 +142,9 @@ sections:
             </div>
           </div>
           
-          <div id="etching" class="content-panel" style="display: none;">
-            <h3 style="color: #8B1538; margin-bottom: 15px;">⚡ 刻蚀工艺</h3>
-            <p>精密刻蚀设备，支持各种材料的图形转移。</p>
-            <ul>
-              <li><strong>干法刻蚀:</strong> RIE, ICP-RIE, 深硅刻蚀</li>
-              <li><strong>湿法刻蚀:</strong> 各种化学刻蚀液</li>
-              <li><strong>刻蚀精度:</strong> ±5nm</li>
-              <li><strong>深宽比:</strong> 最高50:1</li>
-            </ul>
-          </div>
-          
-          <div id="metrology" class="content-panel" style="display: none;">
-            <h3 style="color: #8B1538; margin-bottom: 15px;">📊 计量检测</h3>
-            <p>完善的计量检测设备，确保工艺质量和产品可靠性。</p>
+          <div id="metrology-other-bay" class="content-panel" style="display: none;">
+            <h3 style="color: #8B1538; margin-bottom: 15px;">📊 The Metrology & Other Bay</h3>
+            <p>完善的计量检测设备和其他配套设施，确保工艺质量和产品可靠性。</p>
             <div class="row">
               <div class="col-md-6">
                 <h5>形貌检测</h5>
@@ -171,22 +158,31 @@ sections:
                 <h5>电学测试</h5>
                 <ul>
                   <li>探针台测试</li>
-                  <li>参数分析仪</li>
+                  <li>参数分析�li>
                   <li>网络分析仪</li>
                 </ul>
               </div>
             </div>
-          </div>
-          
-          <div id="other" class="content-panel" style="display: none;">
-            <h3 style="color: #8B1538; margin-bottom: 15px;">🔧 其他设施</h3>
-            <p>配套的辅助设施和特殊工艺设备。</p>
-            <ul>
-              <li><strong>清洗设备:</strong> 超声波清洗、等离子体清洗</li>
-              <li><strong>烘烤设备:</strong> 热板、烘箱、快速退火炉</li>
-              <li><strong>存储设施:</strong> 氮气柜、真空存储</li>
-              <li><strong>安全设施:</strong> 化学品柜、废液处理</li>
-            </ul>
+            <div class="row mt-3">
+              <div class="col-md-6">
+                <h5>刻蚀工艺</h5>
+                <ul>
+                  <li><strong>干法刻蚀:</strong> RIE, ICP-RIE, 深硅刻蚀</li>
+                  <li><strong>湿法刻蚀:</strong> 各种化学刻蚀液</li>
+                  <li><strong>刻蚀精度:</strong> ±5nm</li>
+                  <li><strong>深宽比:</strong> 最高50:1</li>
+                </ul>
+              </div>
+              <div class="col-md-6">
+                <h5>其他设施</h5>
+                <ul>
+                  <li><strong>清洗设备:</strong> 超声波清洗、等离子体清洗</li>
+                  <li><strong>烘烤设备:</strong> 热板、烘箱、快速退火炉</li>
+                  <li><strong>存储设施:</strong> 氮气柜、真空存储</li>
+                  <li><strong>安全设施:</strong> 化学品柜、废液处理</li>
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
         
