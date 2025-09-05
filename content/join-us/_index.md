@@ -14,7 +14,7 @@ sections:
       
   - block: collection
     content:
-      title: "Academic Training Positions"
+      title: '<span style="color: #000; font-weight: bold;">Academic Training Positions</span>'
       subtitle: "🌍 **International Applicants Welcome！！**"
       count: 10
       filters:
@@ -29,7 +29,7 @@ sections:
       
   - block: collection
     content:
-      title: "Group Research Positions"
+      title: '<span style="color: #000; font-weight: bold;">Group Research Positions</span>'
       count: 10
       filters:
         folders:
@@ -43,7 +43,8 @@ sections:
       
   - block: collection
     content:
-      title: "i-BRAIN Office Positions"
+      title: '<span style="color: #000; font-weight: bold;"><em>i-BRAIN</em> Office Positions</span>'
+
       count: 10
       filters:
         folders:
@@ -57,7 +58,7 @@ sections:
       
   - block: collection
     content:
-      title: "i-BRAIN Nanofab Positions"
+      title: '<span style="color: #000; font-weight: bold;"><em>i-BRAIN</em> Nanofab Positions</span>'
       count: 10
       filters:
         folders:
