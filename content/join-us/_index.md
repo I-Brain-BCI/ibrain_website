@@ -29,8 +29,7 @@ sections:
     design:
       view: card
       columns: '1'
-      spacing:
-        padding: ['20px', '0', '5px', '0']  # 上、右、下、左的padding，
+
 
       
   - block: collection
@@ -47,8 +46,7 @@ sections:
     design:
       view: card
       columns: '1'
-      spacing:
-        padding: ['20px', '0', '5px', '0']  # 上、右、下、左的padding，
+
 
       
   - block: collection
