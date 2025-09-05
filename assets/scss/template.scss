@@ -73,12 +73,12 @@
 }
 
 body {
-  zoom: 0.85;
+  zoom: 1.0;
 }
 
 // 限制 slider 块宽度
 .block-slider {
-  max-width: 80%;
+  max-width: 100%;
   margin: 0 auto;
   
   .carousel {
@@ -88,7 +88,7 @@ body {
 
 // 或者更具体的选择器
 .wg-slider {
-  max-width: 80%;
+  max-width: 100%;
   margin: 0 auto;
   padding: 0 2%;
 }
