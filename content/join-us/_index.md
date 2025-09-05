@@ -20,21 +20,7 @@ sections:
       filters:
         folders:
           - join-us
-        category: "Academic Training Positions"
-      offset: 0
-      order: asc
-    design:
-      view: card
-      columns: '1'
-      
-  - block: collection
-    content:
-      title: '<span style="color: #000; font-weight: bold;">Group Research Positions</span>'
-      count: 10
-      filters:
-        folders:
-          - join-us
-        category: "Group Research Position"
+        category: "Academic/Research Positions"
       offset: 0
       order: asc
     design:

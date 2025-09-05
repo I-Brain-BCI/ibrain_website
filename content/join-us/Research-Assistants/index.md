@@ -2,7 +2,7 @@
 title: Research Assistants
 date: 2025-07-25
 share: false
-categories: ["Academic Training Positions"]
+categories: ["Academic/Research Positions"]
 ---
 <!--more-->
 
