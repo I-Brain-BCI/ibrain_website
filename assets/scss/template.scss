@@ -87,11 +87,7 @@ body {
 // }
 
 // 或者更具体的选择器
-.wg-slider {
-  max-width: 80%;
-  margin: 0 auto;
-  padding: 0 2%;
-}
+
 
 .block-slider,
 .wg-slider {
@@ -102,5 +98,10 @@ body {
   box-sizing: border-box;
 }
 
+.wg-slider {
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 0 2%;
+}
 
 
