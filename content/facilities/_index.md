@@ -76,7 +76,7 @@ sections:
           </div>
 
           <div id="lithography-bay" class="content-panel" style="display: none;">
-            <h3 style="color: #8B1538; margin-bottom: 15px;">🔬 Lithography Bay</h3>
+            <h3 style="color: #8B1538; margin-bottom: 15px;">Lithography Bay</h3>
             <p>
               The Lithography Bay is a core area of the <strong><em>i-BRAIN</em></strong> Nanofabrication Facility, dedicated to high-precision patterning of micro- and nanoscale structures on wafers up to 200 mm (8 inches). 
               It houses state-of-the-art lithography tools:
@@ -119,26 +119,27 @@ sections:
 
           
           <div id="deposition-bay" class="content-panel" style="display: none;">
-            <h3 style="color: #8B1538; margin-bottom: 15px;">🎯 Deposition Bay</h3>
-            <p>提供多种薄膜沉积工艺，满足不同材料和厚度需求。</p>
-            <div class="row">
-              <div class="col-md-6">
-                <h5>物理气相沉积 (PVD)</h5>
-                <ul>
-                  <li>溅射沉积</li>
-                  <li>电子束蒸发</li>
-                  <li>热蒸发</li>
-                </ul>
-              </div>
-              <div class="col-md-6">
-                <h5>化学气相沉积 (CVD)</h5>
-                <ul>
-                  <li>等离子体增强CVD</li>
-                  <li>低压CVD</li>
-                  <li>原子层沉积 (ALD)</li>
-                </ul>
-              </div>
+            <h3 style="color: #8B1538; margin-bottom: 15px;">Deposition Bay</h3>
+            <p>
+              The Deposition Bay provides advanced thin-film deposition capabilities for metals and metal oxides, supporting device fabrication on wafers up to 200 mm. Key equipment includes:
+            </p>
+
+          <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+            <p><strong>Electron-Beam Evaporators:</strong> High-purity deposition of metals such as Au, Pt, Ti, Cr, Ni, and others with precise thickness control.</p>
+            <div style="text-align: center; margin: 15px 0;">
+              {{< figure src="electron_beam_evaporators.png" alt="ASML KrF Stepper" width="80%" >}}
             </div>
+          </div>
+
+          <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+            <p><strong>Sputtering System:</strong> Deposition of metal oxide films for functional layers in micro/nano devices.</p>
+            <div style="text-align: center; margin: 15px 0;">
+              {{< figure src="Sputter.png" alt="ASML KrF Stepper" width="80%" >}}
+            </div>
+          </div>
+
+
+
           </div>
           
           <div id="metrology-other-bay" class="content-panel" style="display: none;">
