@@ -79,21 +79,11 @@ sections:
           <div id="lithography-bay" class="content-panel" style="display: none;">
             <h3 style="color: #8B1538; margin-bottom: 15px;">🔬 Lithography Bay</h3>
             <p>The Lithography Bay is a core area of the <strong><em>i-BRAIN</em></strong> Nanofabrication Facility, dedicated to high-precision patterning of micro- and nanoscale structures on wafers up to 200 mm (8 inches). It houses state-of-the-art lithography tools:</p>
-            
-            <h5><strong>ASML KrF Stepper:</strong></h5>
-            <p style="margin-left: 20px; margin-bottom: 15px;">Deep-UV projection lithography down to 110 nm resolution on 200 mm wafers.</p>
-            
-            <h5><strong>Electron-Beam Lithography (EBL) System:</strong></h5>
-            <p style="margin-left: 20px; margin-bottom: 15px;">50 kV operation for high-resolution patterning on wafers up to 200 mm.</p>
-            
-            <h5><strong>Maskless Aligner:</strong></h5>
-            <p style="margin-left: 20px; margin-bottom: 15px;">Up to 300 mm wafer size, reticle resolution 600 nm, ideal for flexible and rapid prototyping.</p>
-            
-            <h5><strong>Mask Aligner:</strong></h5>
-            <p style="margin-left: 20px; margin-bottom: 15px;">Exposure area up to 210 × 210 mm, equipped with 365 nm, 405 nm, and 435 nm light sources for contact and proximity lithography.</p>
-            
-            <h5><strong>Supporting Equipment:</strong></h5>
-            <p style="margin-left: 20px; margin-bottom: 15px;">Automated coater/developer tracks, spin coaters, and hotplates for full resist application and baking workflows.</p>
+            <p><strong>ASML KrF Stepper:</strong> Deep-UV projection lithography down to 110 nm resolution on 200 mm wafers.</p>
+            <p><strong>Electron-Beam Lithography (EBL) System:</strong> 50 kV operation for high-resolution patterning on wafers up to 200 mm.</p>
+            <p><strong>Maskless Aligner:</strong> Up to 300 mm wafer size, reticle resolution 600 nm, ideal for flexible and rapid prototyping.</p>
+            <p><strong>Mask Aligner:</strong> Exposure area up to 210 × 210 mm, equipped with 365 nm, 405 nm, and 435 nm light sources for contact and proximity lithography.</p>
+            <p><strong>Supporting Equipment:</strong> Automated coater/developer tracks, spin coaters, and hotplates for full resist application and baking workflows.</p>
           </div>
           
           <div id="deposition-bay" class="content-panel" style="display: none;">
