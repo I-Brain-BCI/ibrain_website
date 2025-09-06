@@ -85,6 +85,11 @@ sections:
                 {{< figure src="stepper.png" alt="ASML KrF Stepper" width="80%" >}}
               </div>
             </div>
+                        
+            
+            <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+              <p><strong>Electron-Beam Lithography (EBL) System:</strong> 50 kV operation for high-resolution patterning on wafers up to 200 mm.</p>
+            </div>
             <p><strong>Electron-Beam Lithography (EBL) System:</strong> 50 kV operation for high-resolution patterning on wafers up to 200 mm.</p>
             <p><strong>Maskless Aligner:</strong> Up to 300 mm wafer size, reticle resolution 600 nm, ideal for flexible and rapid prototyping.</p>
             <p><strong>Mask Aligner:</strong> Exposure area up to 210 × 210 mm, equipped with 365 nm, 405 nm, and 435 nm light sources for contact and proximity lithography.</p>
