@@ -99,7 +99,7 @@ sections:
           <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
             <p><strong>Maskless Aligner:</strong> Up to 300 mm wafer size, reticle resolution 600 nm, ideal for flexible and rapid prototyping.</p>
             <div style="text-align: center; margin: 15px 0;">
-              {{< figure src="maskless.png" alt="Maskless Aligner" width="80%" >}}
+              {{< figure src="maskless.png" alt="Maskless Aligner" width="30%" >}}
             </div>
           </div>
 
@@ -112,7 +112,7 @@ sections:
           <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
             <p><strong>Supporting Equipment:</strong> Automated coater/developer tracks, spin coaters, and hotplates for full resist application and baking workflows.</p>
             <div style="text-align: center; margin: 15px 0;">
-              {{< figure src="Automatic_coaterdeveloper track.png" alt="Automated Coater/Developer Track" width="80%" >}}
+              {{< figure src="Automatic_coaterdeveloper track.png" alt="Automated Coater/Developer Track" width="40%" >}}
             </div>
           </div>
           </div>
