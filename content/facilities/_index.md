@@ -75,26 +75,48 @@ sections:
             <p>The i-BRAIN Nanofabrication Facility features 550 m² of Class 100 cleanroom space and 400 m² of Class 1000 service and equipment areas, supporting research and prototyping on wafers up to 200 mm (8 inches). The facility is equipped for advanced lithography, including electron-beam lithography, DUV scanner, mask aligners, maskless aligners, automatic coater/developer tracks, spin coaters, and hotplates. Thin-film deposition capabilities include e-beam evaporators for metals and sputtering systems for metal oxides. Etching tools include wet benches and plasma ashers, while metrology and characterization are supported by CD-SEM, optical microscopes, and profilometers. The facility provides a comprehensive environment for micro- and nanofabrication, enabling cutting-edge research and device development.</p>
           </div>
 
-          
           <div id="lithography-bay" class="content-panel" style="display: none;">
             <h3 style="color: #8B1538; margin-bottom: 15px;">🔬 Lithography Bay</h3>
-            <p>The Lithography Bay is a core area of the <strong><em>i-BRAIN</em></strong> Nanofabrication Facility, dedicated to high-precision patterning of micro- and nanoscale structures on wafers up to 200 mm (8 inches). It houses state-of-the-art lithography tools:</p>
+            <p>
+              The Lithography Bay is a core area of the <strong><em>i-BRAIN</em></strong> Nanofabrication Facility, dedicated to high-precision patterning of micro- and nanoscale structures on wafers up to 200 mm (8 inches). 
+              It houses state-of-the-art lithography tools:
+            </p>
+            
+            <!-- ✅ Stepper -->
             <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
               <p><strong>ASML KrF Stepper:</strong> Deep-UV projection lithography down to 110 nm resolution on 200 mm wafers.</p>
               <div style="text-align: center; margin: 15px 0;">
                 {{< figure src="stepper.png" alt="ASML KrF Stepper" width="80%" >}}
               </div>
             </div>
-                        
-            
+
+            <!-- ✅ EBL -->
             <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
               <p><strong>Electron-Beam Lithography (EBL) System:</strong> 50 kV operation for high-resolution patterning on wafers up to 200 mm.</p>
             </div>
-            <p><strong>Electron-Beam Lithography (EBL) System:</strong> 50 kV operation for high-resolution patterning on wafers up to 200 mm.</p>
-            <p><strong>Maskless Aligner:</strong> Up to 300 mm wafer size, reticle resolution 600 nm, ideal for flexible and rapid prototyping.</p>
-            <p><strong>Mask Aligner:</strong> Exposure area up to 210 × 210 mm, equipped with 365 nm, 405 nm, and 435 nm light sources for contact and proximity lithography.</p>
-            <p><strong>Supporting Equipment:</strong> Automated coater/developer tracks, spin coaters, and hotplates for full resist application and baking workflows.</p>
+
+            <!-- ✅ Maskless Aligner + 图片 -->
+            <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+              <p><strong>Maskless Aligner:</strong> Up to 300 mm wafer size, reticle resolution 600 nm, ideal for flexible and rapid prototyping.</p>
+              <div style="text-align: center; margin: 15px 0;">
+                {{< figure src="maskless.png" alt="Maskless Aligner" width="80%" >}}
+              </div>
+            </div>
+
+            <!-- ✅ Mask Aligner -->
+            <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+              <p><strong>Mask Aligner:</strong> Exposure area up to 210 × 210 mm, equipped with 365 nm, 405 nm, and 435 nm light sources for contact and proximity lithography.</p>
+            </div>
+
+            <!-- ✅ Supporting Equipment + 图片 -->
+            <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+              <p><strong>Supporting Equipment:</strong> Automated coater/developer tracks, spin coaters, and hotplates for full resist application and baking workflows.</p>
+              <div style="text-align: center; margin: 15px 0;">
+                {{< figure src="Automatic_coaterdeveloper track.png" alt="Automated Coater/Developer Track" width="80%" >}}
+              </div>
+            </div>
           </div>
+
           
           <div id="deposition-bay" class="content-panel" style="display: none;">
             <h3 style="color: #8B1538; margin-bottom: 15px;">🎯 Deposition Bay</h3>
