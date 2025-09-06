@@ -16,7 +16,7 @@ sections:
       
   - block: collection
     content:
-      title: '<span style="color: #000; font-weight: bold;">Academic Training Positions</span>'
+      title: '<span style="color: #000; font-weight: bold;">Academic/Research Positions</span>'
       subtitle: "🌍 **International Applicants Welcome！！**"
       count: 10
       filters:
