@@ -82,39 +82,39 @@ sections:
               It houses state-of-the-art lithography tools:
             </p>
             
-            <!-- ✅ Stepper -->
-            <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-              <p><strong>ASML KrF Stepper:</strong> Deep-UV projection lithography down to 110 nm resolution on 200 mm wafers.</p>
-              <div style="text-align: center; margin: 15px 0;">
-                {{< figure src="stepper.png" alt="ASML KrF Stepper" width="80%" >}}
-              </div>
+          <!-- ✅ Stepper -->
+          <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+            <p><strong>ASML KrF Stepper:</strong> Deep-UV projection lithography down to 110 nm resolution on 200 mm wafers.</p>
+            <div style="text-align: center; margin: 15px 0;">
+              {{< figure src="stepper.png" alt="ASML KrF Stepper" width="80%" >}}
             </div>
+          </div>
 
-            <!-- ✅ EBL -->
-            <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-              <p><strong>Electron-Beam Lithography (EBL) System:</strong> 50 kV operation for high-resolution patterning on wafers up to 200 mm.</p>
-            </div>
+          <!-- ✅ EBL -->
+          <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+            <p><strong>Electron-Beam Lithography (EBL) System:</strong> 50 kV operation for high-resolution patterning on wafers up to 200 mm.</p>
+          </div>
 
-            <!-- ✅ Maskless Aligner + 图片 -->
-            <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-              <p><strong>Maskless Aligner:</strong> Up to 300 mm wafer size, reticle resolution 600 nm, ideal for flexible and rapid prototyping.</p>
-              <div style="text-align: center; margin: 15px 0;">
-                {{< figure src="maskless.png" alt="Maskless Aligner" width="80%" >}}
-              </div>
+          <!-- ✅ Maskless Aligner + 图片 -->
+          <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+            <p><strong>Maskless Aligner:</strong> Up to 300 mm wafer size, reticle resolution 600 nm, ideal for flexible and rapid prototyping.</p>
+            <div style="text-align: center; margin: 15px 0;">
+              {{< figure src="maskless.png" alt="Maskless Aligner" width="80%" >}}
             </div>
+          </div>
 
-            <!-- ✅ Mask Aligner -->
-            <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-              <p><strong>Mask Aligner:</strong> Exposure area up to 210 × 210 mm, equipped with 365 nm, 405 nm, and 435 nm light sources for contact and proximity lithography.</p>
-            </div>
+          <!-- ✅ Mask Aligner -->
+          <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+            <p><strong>Mask Aligner:</strong> Exposure area up to 210 × 210 mm, equipped with 365 nm, 405 nm, and 435 nm light sources for contact and proximity lithography.</p>
+          </div>
 
-            <!-- ✅ Supporting Equipment + 图片 -->
-            <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-              <p><strong>Supporting Equipment:</strong> Automated coater/developer tracks, spin coaters, and hotplates for full resist application and baking workflows.</p>
-              <div style="text-align: center; margin: 15px 0;">
-                {{< figure src="Automatic_coaterdeveloper track.png" alt="Automated Coater/Developer Track" width="80%" >}}
-              </div>
+          <!-- ✅ Supporting Equipment + 图片 -->
+          <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+            <p><strong>Supporting Equipment:</strong> Automated coater/developer tracks, spin coaters, and hotplates for full resist application and baking workflows.</p>
+            <div style="text-align: center; margin: 15px 0;">
+              {{< figure src="Automatic_coaterdeveloper track.png" alt="Automated Coater/Developer Track" width="80%" >}}
             </div>
+          </div>
           </div>
 
           
