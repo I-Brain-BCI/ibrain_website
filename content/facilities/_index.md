@@ -127,7 +127,7 @@ sections:
           <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
             <p><strong>Electron-Beam Evaporators:</strong> High-purity deposition of metals such as Au, Pt, Ti, Cr, Ni, and others with precise thickness control.</p>
             <div style="text-align: center; margin: 15px 0;">
-              {{< figure src="electron_beam_evaporators.png" alt="ASML KrF Stepper" width="80%" >}}
+              {{< figure src="electron_beam_evaporators.png" alt="ASML KrF Stepper" width="50%" >}}
             </div>
           </div>
 
@@ -143,46 +143,45 @@ sections:
           </div>
           
           <div id="metrology-other-bay" class="content-panel" style="display: none;">
-            <h3 style="color: #8B1538; margin-bottom: 15px;">📊 The Metrology & Other Bay</h3>
-            <p>完善的计量检测设备和其他配套设施，确保工艺质量和产品可靠性。</p>
-            <div class="row">
-              <div class="col-md-6">
-                <h5>形貌检测</h5>
-                <ul>
-                  <li>扫描电子显微镜 (SEM)</li>
-                  <li>原子力显微镜 (AFM)</li>
-                  <li>光学显微镜</li>
-                </ul>
-              </div>
-              <div class="col-md-6">
-                <h5>电学测试</h5>
-                <ul>
-                  <li>探针台测试</li>
-                  <li>参数分析�li>
-                  <li>网络分析仪</li>
-                </ul>
-              </div>
+            <h3 style="color: #8B1538; margin-bottom: 15px;">Metrology & Other Bay</h3>
+            <p>
+              The Metrology & Other Bay provides comprehensive measurement, inspection, and processing capabilities to ensure precise fabrication and process control. Key tools and capabilities include:
+            </p>
+
+          <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+            <p><strong>CD-SEM:</strong> High-resolution critical dimension measurement for nanoscale patterns.</p>
+            <div style="text-align: center; margin: 15px 0;">
+              {{< figure src="CDSEM.png" alt="ASML KrF Stepper" width="50%" >}}
             </div>
-            <div class="row mt-3">
-              <div class="col-md-6">
-                <h5>刻蚀工艺</h5>
-                <ul>
-                  <li><strong>干法刻蚀:</strong> RIE, ICP-RIE, 深硅刻蚀</li>
-                  <li><strong>湿法刻蚀:</strong> 各种化学刻蚀液</li>
-                  <li><strong>刻蚀精度:</strong> ±5nm</li>
-                  <li><strong>深宽比:</strong> 最高50:1</li>
-                </ul>
-              </div>
-              <div class="col-md-6">
-                <h5>其他设施</h5>
-                <ul>
-                  <li><strong>清洗设备:</strong> 超声波清洗、等离子体清洗</li>
-                  <li><strong>烘烤设备:</strong> 热板、烘箱、快速退火炉</li>
-                  <li><strong>存储设施:</strong> 氮气柜、真空存储</li>
-                  <li><strong>安全设施:</strong> 化学品柜、废液处理</li>
-                </ul>
-              </div>
+          </div>     
+          
+          
+          <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+            <p><strong>Optical Microscopes:</strong> Inspection and alignment verification across wafer surfaces.</p>
+            <div style="text-align: center; margin: 15px 0;">
+              {{< figure src="microscope.png" alt="ASML KrF Stepper" width="50%" >}}
+
             </div>
+          </div>  
+
+          <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+            <p><strong>Profilometers:</strong> Surface topography and film thickness measurements for thin films and patterned structures.</p>
+            <div style="text-align: center; margin: 15px 0;">
+              {{< figure src="Profilometers.png" alt="ASML KrF Stepper" width="50%" >}}
+            </div>
+          </div>  
+
+          <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+            <p><strong>Rapid Thermal Processing (RTP):</strong> Controlled heating for annealing, curing, and other thermal treatments.</p>
+            <div style="text-align: center; margin: 15px 0;">
+              {{< figure src="Rapid_Thermal_Processing.png" alt="ASML KrF Stepper" width="50%" >}}
+            </div>
+          </div> 
+
+          <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+            <p><strong>O₂ Plasma Asher:</strong> Surface treatment and photoresist removal using oxygen plasma for cleaning and pattern definition.</p>
+          </div> 
+
           </div>
         </div>
         
