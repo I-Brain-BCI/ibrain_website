@@ -99,6 +99,17 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
+
+      - title: '<span style="color: #fff; font-weight: bold;"><em>i-BRAIN</em> Labs</span>'
+        content: '<span style="font-size: 85%;">The <em>i-BRAIN</em> Labs and offices are located in 900 square meter of newly renovated space on the 19th floor of SMART building A. This state-of-the-art space includes areas for (i) design, software development, and data analysis, (ii) characterization of BCIs and integrated circuits, (iii) prototyping and in‑vitro measurements, (iv) wet chemistry and biology, (v) cell and tissue culture, (vi) tissue clearing and histology, (vii) an isolated clean rodent area for long-term care, surgery, and cognitive/behavioral electrophysiology studies, and (viii) high-performance computing. Integral open office spaces provide a comfortable working environment and beautiful views of the Guangming community</span>'
+        align: left
+        background:
+          image:
+            filename: lab_rendering.png
+            filters:
+              brightness: 0.4
+          position: center
+          color: '#444'
           
       - title: '<span style="color: #fff; font-weight: bold;"><em>i-BRAIN</em> Nanofab Facility</span>'
         content: "<em>i-BRAIN</em> encompasses advanced research laboratories, unique nanofabrication facilities and a positive, interdisciplinary culture designed to create a globally influential innovation hub that leverages resources across science, engineering and medicine to create disruptive BCI technologies and the uniquely trained young talent that drive translation and commercialization to treat human brain diseases."
@@ -115,6 +126,7 @@ sections:
           icon_pack: fas
           text: Explore Facilities
           url: ./facilities/
+
       - title: '<span style="color: #fff; font-weight: bold;">Other Key Facilities</span>'
 
         content: '<span style="font-size: 85%;">The integration <em>i-BRAIN</em> within [**Shenzhen Medical Academy for Research and Translation (SMART)**](https://smart.org.cn/en/) in Guangming provides a vibrant research environment with virtually all critical facilities within walking distance thereby reducing barriers to transformative research. Additional key facilities available at SMART include (i) state-of-the art optical imaging facility and (ii) fully-staffed 12000 cage  rodent facility. In addition, the nearby [**Brain Science Infrastructure Shenzhen**](https://www.bsisz.cn/h-col-128.html#/share) has full-time staff monitoring 2000 NHP cages, state of the art surgical facilities, and dedicated space for our NHP BCI studies.</span>'
