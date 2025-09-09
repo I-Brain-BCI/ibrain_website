@@ -100,7 +100,7 @@ sections:
           position: center
           color: '#333'
 
-      - title: '<span style="color: #fff; font-weight: bold;"><em>i-BRAIN</em> Labs</span>'
+      - title: '<span style="color: #fff; font-weight: bold;"><em>i-BRAIN</em> Research & Office Space</span>'
         content: '<span style="font-size: 85%;">The <em>i-BRAIN</em> Labs and offices are located in 900 square meter of newly renovated space on the 19th floor of SMART building A. This state-of-the-art space includes areas for (i) design, software development, and data analysis, (ii) characterization of BCIs and integrated circuits, (iii) prototyping and in‑vitro measurements, (iv) wet chemistry and biology, (v) cell and tissue culture, (vi) tissue clearing and histology, (vii) an isolated clean rodent area for long-term care, surgery, and cognitive/behavioral electrophysiology studies, and (viii) high-performance computing. Integral open office spaces provide a comfortable working environment and beautiful views of the Guangming community</span>'
         align: left
         background:
