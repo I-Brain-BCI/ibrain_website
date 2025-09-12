@@ -46,7 +46,7 @@
   font-size: 0;
   
   &::before {
-    content: "i-BRAIN";
+    content: "i-BRAIN ";
     font-style: italic;
     font-size: 1.25rem; // 恢复字体大小
   }
@@ -122,5 +122,26 @@
 //   margin-right: inherit;
 //   box-sizing: border-box;
 // }
+
+// 确保post标题中的HTML标签正确渲染
+.page-header h1,
+.article-title,
+.post-title,
+.entry-title {
+  em {
+    font-style: italic !important;
+  }
+}
+
+// 更通用的规则，确保所有标题中的em标签都能正确渲染
+h1 em, h2 em, h3 em, h4 em, h5 em, h6 em {
+  font-style: italic !important;
+}
+
+// 如果上述规则不生效，可以尝试更具体的选择器
+.article-header .article-title em,
+.page-header h1 em {
+  font-style: italic !important;
+}
 
 
