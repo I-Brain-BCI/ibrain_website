@@ -1,12 +1,6 @@
 {{ define "main" }}
-<article class="article">
-  <div class="article-container">
-    <div class="article-header">
-      <h1 class="article-title">{{ .Title | safeHTML }}</h1>
-    </div>
-    <div class="article-body">
-      {{ .Content }}
-    </div>
-  </div>
-</article>
+  <article class="prose mx-auto">
+    <h1 class="text-left">{{ .Title | safeHTML }}</h1>
+    {{ .Content }}
+  </article>
 {{ end }}
