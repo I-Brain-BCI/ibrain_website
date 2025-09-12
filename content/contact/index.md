@@ -12,7 +12,7 @@ sections:
       text: |
         Ready to join our team? Please visit our [Join Us page](../join-us/) or  write directly about possible positions and/or questions.
         
-        Additionally, please contact here about other interests including collaborations.
+        Additionally, please contact us about other interests including collaborations.
 
       # Contact (add or remove contact options as necessary)
       email: ibrain@smart.org.cn
