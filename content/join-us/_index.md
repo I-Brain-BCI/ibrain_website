@@ -27,11 +27,20 @@ sections:
       offset: 0
       order: asc
       sort_by: 'weight'
-      text: "🌍 **International Applicants Welcome！！**"
     design:
       view: card
       columns: '1'
 
+  - block: markdown
+    content:
+      text: "🌍 **International Applicants Welcome！！**"
+    design:
+      columns: '1'
+      spacing:
+        padding: ['10px', '0', '10px', '0']
+      css_style: 'text-align: center; font-size: 1.1em; color: #2563eb;'
+      background:
+        color: 'gray'
 
       
   - block: collection
