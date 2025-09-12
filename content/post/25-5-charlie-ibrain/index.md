@@ -1,5 +1,5 @@
 ---
-title: Dr. Charles Lieber was appointed as the founding director of i-BRAIN!
+title: Dr. Charles Lieber was appointed as the founding director of <em>i-BRAIN</em>!
 date: 2025-05-01
 ---
 
