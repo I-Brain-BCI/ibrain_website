@@ -8,7 +8,7 @@ categories: ["Academic/Research Positions"]
 <!--more-->
 
 ## Position Summary
-We are seeking highly motivated Associate/Assistant Investigators to join our research team and contribute to cutting-edge neuroscience research. This position offers the opportunity to conduct independent research under the supervision of the Principal Investigator while leading innovative electrophysiological probe technology implementations in both nonhuman primate and rodent models.
+We are seeking highly motivated Co-Principal Investigators/Research-Professors to join our research team and contribute to cutting-edge neuroscience research. This position offers the opportunity to conduct independent research under the supervision of the Principal Investigator while leading innovative electrophysiological probe technology implementations in both nonhuman primate and rodent models.
 
 ## Core Responsibilities
 1. Conduct independent research under the supervision of the Principal Investigator (PI) of the research group.
