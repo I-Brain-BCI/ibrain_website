@@ -72,18 +72,19 @@ sections:
       background:
         color: 'white'
 
-      
+    
+
   - block: collection
     content:
-      title: '<span style="color: #000; font-weight: bold;"><em>i-BRAIN</em> Office Positions</span>'
-
+      title: '<span style="color: #000; font-weight: bold;"><em>i-BRAIN</em> Nanofab Positions</span>'
       count: 10
       filters:
         folders:
           - join-us
-        category: "i-BRAIN Office Position"
+        category: "i-BRAIN Nanofab"
       offset: 0
       order: asc
+      sort_by: 'weight'
     design:
       view: card
       columns: '1'
@@ -106,25 +107,25 @@ sections:
         color: 'white'
 
 
-      
   - block: collection
     content:
-      title: '<span style="color: #000; font-weight: bold;"><em>i-BRAIN</em> Nanofab Positions</span>'
+      title: '<span style="color: #000; font-weight: bold;"><em>i-BRAIN</em> Office Positions</span>'
+
       count: 10
       filters:
         folders:
           - join-us
-        category: "i-BRAIN Nanofab"
+        category: "i-BRAIN Office Position"
       offset: 0
       order: asc
-      sort_by: 'weight'
     design:
       view: card
       columns: '1'
       spacing:
         padding: ['10px', '0', '0', '0']  # 上、右、下、左的padding
       background:
-        color: 'white'
+        color: 'white'      
+
 
   - block: markdown
     content:
