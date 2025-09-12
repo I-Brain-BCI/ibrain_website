@@ -1,5 +1,5 @@
 ---
-title: <div>Dr. Charles Lieber was appointed as the founding director of <em>i-BRAIN!</em></div>
+title: '<div>Dr. Charles Lieber was appointed as the founding director of <em>i-BRAIN!</em></div>'
 date: 2025-05-01
 ---
 
