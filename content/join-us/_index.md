@@ -117,6 +117,7 @@ sections:
         category: "i-BRAIN Nanofab"
       offset: 0
       order: asc
+      sort_by: 'weight'
     design:
       view: card
       columns: '1'
