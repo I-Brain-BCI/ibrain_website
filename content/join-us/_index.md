@@ -13,11 +13,24 @@ sections:
       spacing:
         padding: ['20px', '0', '5px', '0']  # 上、右、下、左的padding，
       css_style: 'text-align: center;'
+
+  - block: markdown
+    content:
+      text: |
+        <div style="text-align: center; margin: 3px 0;">
+          <hr style="width: 100%; border: none; height: 2px; background: linear-gradient(to right, transparent,rgb(12, 32, 75), transparent);">
+        </div>
+    design:
+      columns: '1'
+      spacing:
+        padding: ['0', '0', '0', '0']  # 上、右、下、左的padding，将下边距设为0
+      background:
+        color: 'white'
       
   - block: collection
     content:
       title: '<span style="color: #000; font-weight: bold;">Academic/Research Positions</span>'
-      subtitle: "🌍 **International Applicants Welcome！！**"
+      subtitle: 
       count: 10
       filters:
         folders:
@@ -30,6 +43,10 @@ sections:
     design:
       view: card
       columns: '1'
+      spacing:
+        padding: ['5px', '0', '0', '0']  # 上、右、下、左的padding
+      background:
+        color: 'white'
 
   - block: markdown
     content:
@@ -37,10 +54,23 @@ sections:
     design:
       columns: '1'
       spacing:
-        padding: ['10px', '0', '10px', '0']
+        padding: ['0', '0', '10px', '0']
       css_style: 'text-align: center; font-size: 1.1em; color: #2563eb;'
       background:
-        color: 'gray'
+        color: 'white'
+
+  - block: markdown
+    content:
+      text: |
+        <div style="text-align: center; margin: 3px 0;">
+          <hr style="width: 100%; border: none; height: 2px; background: linear-gradient(to right, transparent,rgb(12, 32, 75), transparent);">
+        </div>
+    design:
+      columns: '1'
+      spacing:
+        padding: ['0', '0', '0', '0']  # 上、右、下、左的padding，将下边距设为0
+      background:
+        color: 'white'
 
       
   - block: collection
