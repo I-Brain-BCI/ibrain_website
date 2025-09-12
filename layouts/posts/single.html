@@ -1,6 +1,115 @@
 {{ define "main" }}
-  <article class="prose mx-auto">
-    <h1 class="text-left">{{ .Title | safeHTML }}</h1>
-    {{ .Content }}
-  </article>
+<div class="page-wrapper">
+  <div class="page-header">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <header class="article-header">
+            <h1 class="article-title text-left">{{ .Title | safeHTML }}</h1>
+            
+            {{ if .Params.date }}
+            <div class="article-metadata">
+              <div class="article-date">
+                <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}" itemprop="datePublished">
+                  {{ .Date.Format "January 2, 2006" }}
+                </time>
+              </div>
+              
+              {{ if .Params.authors }}
+              <div class="article-authors">
+                {{ range .Params.authors }}
+                  <span class="author">{{ . }}</span>
+                {{ end }}
+              </div>
+              {{ end }}
+              
+              {{ if .Params.tags }}
+              <div class="article-tags">
+                {{ range .Params.tags }}
+                  <a class="badge badge-light" href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+                {{ end }}
+              </div>
+              {{ end }}
+            </div>
+            {{ end }}
+          </header>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="page-body">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <article class="article prose mx-auto">
+            {{ if .Params.featured_image }}
+            <div class="featured-image">
+              <img src="{{ .Params.featured_image }}" alt="{{ .Title }}" class="img-fluid">
+            </div>
+            {{ end }}
+            
+            <div class="article-content">
+              {{ .Content }}
+            </div>
+            
+            {{ if .Params.categories }}
+            <div class="article-categories mt-4">
+              <strong>Categories:</strong>
+              {{ range .Params.categories }}
+                <a class="badge badge-primary" href="{{ "/categories/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
+              {{ end }}
+            </div>
+            {{ end }}
+          </article>
+          
+          <!-- 相关文章推荐 -->
+          {{ $related := .Site.RegularPages.Related . | first 3 }}
+          {{ if $related }}
+          <div class="related-articles mt-5">
+            <h3>Related Articles</h3>
+            <div class="row">
+              {{ range $related }}
+              <div class="col-md-4 mb-3">
+                <div class="card">
+                  {{ if .Params.featured_image }}
+                  <img src="{{ .Params.featured_image }}" class="card-img-top" alt="{{ .Title }}">
+                  {{ end }}
+                  <div class="card-body">
+                    <h5 class="card-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h5>
+                    <p class="card-text">{{ .Summary | truncate 100 }}</p>
+                    <small class="text-muted">{{ .Date.Format "January 2, 2006" }}</small>
+                  </div>
+                </div>
+              </div>
+              {{ end }}
+            </div>
+          </div>
+          {{ end }}
+          
+          <!-- 导航到上一篇/下一篇 -->
+          <nav class="article-nav mt-4">
+            <div class="row">
+              {{ if .PrevInSection }}
+              <div class="col-6">
+                <a href="{{ .PrevInSection.Permalink }}" class="btn btn-outline-primary">
+                  <i class="fas fa-chevron-left"></i> {{ .PrevInSection.Title }}
+                </a>
+              </div>
+              {{ end }}
+              
+              {{ if .NextInSection }}
+              <div class="col-6 text-right">
+                <a href="{{ .NextInSection.Permalink }}" class="btn btn-outline-primary">
+                  {{ .NextInSection.Title }} <i class="fas fa-chevron-right"></i>
+                </a>
+              </div>
+              {{ end }}
+            </div>
+          </nav>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 {{ end }}
