@@ -105,7 +105,7 @@ sections:
         align: left
         background:
           image:
-            filename: lab_rendering.png
+            filename: lab_rendering_2.png
             filters:
               brightness: 0.4
           position: center
