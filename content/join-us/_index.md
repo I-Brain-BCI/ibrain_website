@@ -88,7 +88,7 @@ sections:
       view: card
       columns: '1'
       spacing:
-        padding: ['5px', '0', '0', '0']  # 上、右、下、左的padding
+        padding: ['10px', '0', '0', '0']  # 上、右、下、左的padding
       background:
         color: 'white'
 
@@ -121,7 +121,7 @@ sections:
       view: card
       columns: '1'
       spacing:
-        padding: ['5px', '0', '0', '0']  # 上、右、下、左的padding
+        padding: ['10px', '0', '0', '0']  # 上、右、下、左的padding
       background:
         color: 'white'
 
