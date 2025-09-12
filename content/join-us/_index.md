@@ -23,9 +23,11 @@ sections:
         folders:
           - join-us
         category: "Academic/Research Positions"
+      
       offset: 0
       order: asc
       sort_by: 'weight'
+      text: "🌍 **International Applicants Welcome！！**"
     design:
       view: card
       columns: '1'
