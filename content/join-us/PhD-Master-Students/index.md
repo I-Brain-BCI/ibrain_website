@@ -16,5 +16,4 @@ Students can join our research team through the following pathways:
 - **Shenzhen Medical Academy of Research and Translation (SMART)**: Apply through SMART graduate programs
 
 ## Qualifications & Requirements
-**For PhD Students:**
 Applicants should hold a bachelor's or master's degree in relevant fields. Degrees in Mathematics and Physics, Applied Physics, Physics, Chemistry, Chemical Biology, Biological Sciences, Biotechnology, Biomedical Engineering, Materials Science and Engineering, Multidisciplinary Engineering, Artificial Intelligence, Computer Science and Technology, Microelectronics Science and Engineering, Electronic Science and Technology, Measurement, Control Technology and Instruments, Micro-electro-mechanical Systems Engineering are preferred. A strong academic record with a high GPA is expected. Prior research experience is highly desirable. 
