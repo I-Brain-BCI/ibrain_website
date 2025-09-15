@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Fellows
+role: Postdoctoral Fellow
 
 
 interests:
@@ -32,7 +32,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Fellow
+  - Postdoctoral Fellows
 ---
 
 xf
