@@ -72,7 +72,7 @@ sections:
         <div class="facility-content" style="margin-top: 20px; padding: 20px; background: #f8f9fa; border-radius: 8px; min-height: 200px;">
           <div id="overview" class="content-panel" style="display: block;">
             <h3 style="color: #8B1538; margin-bottom: 15px;">🏢 Facility Overview</h3>
-            <p>The <strong><em>i-BRAIN</em></strong> Nanofabrication Facility features 550 m² of Class 100 cleanroom space and 400 m² of Class 1000 service and equipment areas, supporting research and prototyping on wafers up to 200 mm (8 inches). The facility is equipped for advanced lithography, including electron-beam lithography, DUV scanner, mask aligners, maskless aligners, automatic coater/developer tracks, spin coaters, and hotplates. Thin-film deposition capabilities include e-beam evaporators for metals and sputtering systems for metal oxides. Etching tools include wet benches and plasma ashers, while metrology and characterization are supported by CD-SEM, optical microscopes, and profilometers. The facility provides a comprehensive environment for micro- and nanofabrication, enabling cutting-edge research and device development.</p>
+            <p>The <strong><em>i-BRAIN</em></strong> Nanofabrication Facility features 550 m² of Class 100 cleanroom space and 400 m² of Class 1000 service and equipment areas, supporting research and prototyping on wafers up to 200 mm (8 inches). The facility is equipped for advanced lithography, including electron-beam lithography, DUV stepper, mask aligner, maskless aligner tools, as well as  an automatic coater/developer track, spin coaters, and hotplates. Thin-film deposition capabilities include e-beam evaporators for metals and sputtering systems for metal oxides. Etching tools include wet benches and plasma ashers, while metrology and characterization are supported by CD-SEM, optical microscopes, and profilometers. The facility provides a comprehensive environment for micro- and nanofabrication, enabling cutting-edge research and device development.</p>
           </div>
 
           <div id="lithography-bay" class="content-panel" style="display: none;">
@@ -159,7 +159,7 @@ sections:
           <div style="border: 1px solid #ddd; border-radius: 8px; padding: 15px; margin-bottom: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
             <p><strong>Optical Microscopes:</strong> Inspection and alignment verification across wafer surfaces.</p>
             <div style="text-align: center; margin: 15px 0;">
-              {{< figure src="microscope.png" alt="ASML KrF Stepper" width="50%" >}}
+              {{< figure src="microscope.jpg" alt="ASML KrF Stepper" width="50%" >}}
 
             </div>
           </div>  

@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Fellows
+role: Postdoctoral Fellow
 
 
 interests:

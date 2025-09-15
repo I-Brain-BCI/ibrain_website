@@ -52,7 +52,7 @@ sections:
       title: Research & Key Facilities
       text: |
         <div style="text-align: left;">
-          <em>i-BRAIN</em> encompasses advanced research laboratories, unique nanofabrication facilities and a positive, interdisciplinary culture designed to create a globally influential innovation hub that leverages resources across science, engineering and medicine to create disruptive BCI technologies and the uniquely trained young talent that drive translation and commercialization to treat human brain diseases.
+          <em>i-BRAIN</em> encompasses advanced research laboratories, unique nanofabrication facilities and a positive, interdisciplinary culture designed to yield a globally influential innovation hub that leverages resources across science, engineering and medicine to create disruptive BCI technologies and the uniquely trained young talent that drive translation and commercialization to treat human brain diseases.
         </div>
     design:
       columns: '1'
@@ -68,7 +68,7 @@ sections:
       slides:
       - title: '<span style="color: #fff; font-weight: bold;">Disruptive BCI Technology</span>'
 
-        content: "Merging the power and scalability of silicon integrated circuits and ultra-flexible minimally-invasive polymer-based electronics for chronic cognitive and motor studies in rodents and nonhuman primates. A central focus is to monitoring and modulate neural activity on a scale heretofore not possible in animal disease models and to translate these advanced neuro-technologies to humans."
+        content: "Merging the power and scalability of silicon integrated circuits with ultra-flexible minimally-invasive polymer-based electronics for chronic cognitive and motor studies in rodents, nonhuman primates and humans. A central focus is to monitor and modulate neural activity on a scale heretofore not possible in animal disease models and to translate these advances as neuro-technologies for the treatment of  human diseases."
         align: left
         background:
           image:
@@ -79,7 +79,7 @@ sections:
           color: '#666'
       - title: '<span style="color: #fff; font-weight: bold;">Ideal Brain/Electronics Interfaces</span>'
 
-        content: "Develop ideal flexible probes that solve key issues facing all technologies today. In simple terms, we are developing BCIs that are stable in recording and stimulation at the level of individual neurons for the life-span of an adult human. The work involves basic research across sciences and engineering, studies in rodents and NHPs and ultimately translation to humans."
+        content: "Develop ideal flexible probes that solve key issues facing all technologies today. In simple terms, we are developing BCIs that are stable in recording and stimulation at the level of individual neurons for the life-span of an adult human. The work involves basic research across sciences and engineering, studies in rodents and NHPs and ultimately translational studies in humans for development of next-generation BCIs."
         align: left
         background:
           image:
@@ -90,7 +90,7 @@ sections:
           color: '#555'
       - title: '<span style="color: #fff; font-weight: bold;">BCIs for Regenerative Medicine</span>'
 
-        content: "We are developing 'pro-regenerative' BCIs that not only monitor and/or stimulate neural activity but also promote and control the growth of new neural tissue to repair the brain. The work involves basic research across sciences, engineering and medicine with the goal of translation to human patients for personalized treatment of a range of brain diseases in a way simply not possible today."
+        content: "We are developing ‘pro-regenerative’ BCIs that not only monitor and/or stimulate neural activity but also promote and control the growth of new neural tissue to repair damage and/or neurodegeneration in the brain. The work involves basic research across sciences, engineering and medicine with the goal of translation to human patients for personalized treatment of a range of brain diseases in a way simply not possible today."
         align: left
         background:
           image:
@@ -101,7 +101,7 @@ sections:
           color: '#333'
 
       - title: '<span style="color: #fff; font-weight: bold;"><em>i-BRAIN</em> Research & Office Space</span>'
-        content: '<span style="font-size: 85%;">The <em>i-BRAIN</em> Labs and offices are located in 900 square meter of newly renovated space on the 19th floor of SMART building A. This state-of-the-art space includes areas for (i) design, software development, and data analysis, (ii) characterization of BCIs and integrated circuits, (iii) prototyping and in‑vitro measurements, (iv) wet chemistry and biology, (v) cell and tissue culture, (vi) tissue clearing and histology, (vii) an isolated clean rodent area for long-term care, surgery, and cognitive/behavioral electrophysiology studies, and (viii) high-performance computing. Open office spaces provide a comfortable working environment and scenic views of the Guangming community.</span>'
+        content: '<span style="font-size: 85%;">The <em>i-BRAIN</em> laboratories and offices are located in 900 square meters of newly renovated space on the 19th floor of SMART building A. This state-of-the-art space includes areas for (i) electronics design, software development, and data analysis, (ii) characterization of BCIs and integrated circuits, (iii) prototyping and in vitro measurements, (iv) wet chemistry and biology, (v) cell and tissue culture, (vi) tissue clearing and histology, (vii) an isolated clean rodent area for long-term care, surgery, and cognitive/behavioral electrophysiology studies, and (viii) high-performance computing. Open office spaces provide a comfortable working environment and scenic views of the surrounding Guangming community.</span>'
         align: left
         background:
           image:
