@@ -112,7 +112,7 @@ sections:
           color: '#444'
           
       - title: '<span style="color: #fff; font-weight: bold;"><em>i-BRAIN</em> Nanofab Facility</span>'
-        content: "<em>i-BRAIN</em> encompasses advanced research laboratories, unique nanofabrication facilities and a positive, interdisciplinary culture designed to create a globally influential innovation hub that leverages resources across science, engineering and medicine to create disruptive BCI technologies and the uniquely trained young talent that drive translation and commercialization to treat human brain diseases."
+        content: "<em>i-BRAIN</em> also integrates advanced nanofabrication facilities and a positive, interdisciplinary culture designed to create a globally influential innovation hub. By facilitating the design and exploration of new BCI designs through basic research to commercial prototyping the nanofabrication facility seeks to allow researchers across science, engineering and medicine to realize their dreams and create disruptive BCI technologies and drive translation and commercialization to treat human brain diseases."
         align: left
         background:
           image:
