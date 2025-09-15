@@ -160,7 +160,6 @@ sections:
             <p><strong>Optical Microscopes:</strong> Inspection and alignment verification across wafer surfaces.</p>
             <div style="text-align: center; margin: 15px 0;">
               {{< figure src="microscope.jpg" alt="ASML KrF Stepper" width="50%" >}}
-
             </div>
           </div>  
 
