@@ -143,7 +143,7 @@ sections:
           </div>
           
           <div id="metrology-other-bay" class="content-panel" style="display: none;">
-            <h3 style="color: #8B1538; margin-bottom: 15px;">Metrology & Other Bay</h3>
+            <h3 style="color: #8B1538; margin-bottom: 15px;">Other Tools</h3>
             <p>
               The Metrology & Other Bay provides comprehensive measurement, inspection, and processing capabilities to ensure precise fabrication and process control. Key tools and capabilities include:
             </p>
