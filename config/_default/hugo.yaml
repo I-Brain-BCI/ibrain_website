@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "i-BRAIN  Research Group" # Website name
-baseURL: 'https://ibrain.smart.org.cn' # Website URL
+baseURL: 'https://i-brain-bci.github.io/ibrain_website/' # Website URL
 
 ############################
 ## LANGUAGE
