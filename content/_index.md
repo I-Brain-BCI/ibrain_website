@@ -77,6 +77,7 @@ sections:
               brightness: 0.6
           position: center
           color: '#666'
+
       - title: '<span style="color: #fff; font-weight: bold;">Ideal Brain/Electronics Interfaces</span>'
 
         content: "Develop ideal flexible probes that solve key issues facing all technologies today. In simple terms, we are developing BCIs that are stable in recording and stimulation at the level of individual neurons for the life-span of an adult human. The work involves basic research across sciences and engineering, studies in rodents and NHPs and ultimately translational studies in humans for development of next-generation BCIs."
