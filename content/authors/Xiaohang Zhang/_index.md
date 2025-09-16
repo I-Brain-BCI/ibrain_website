@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Director of i-Brain/SMART Nanofab Facility
+role: Director of i-BRAIN/SMART Nanofab Facility
 
 
 

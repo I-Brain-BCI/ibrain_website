@@ -15,7 +15,7 @@ sections:
           - Senior Investigators
           - Postdoctoral Fellows
           - Ph.D.＆M.S. Students
-          - i-Brain Office
+          - i-BRAIN Office
           - Researchers
           - Grad Students
           - Administration
