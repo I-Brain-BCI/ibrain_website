@@ -29,7 +29,7 @@ sections:
 
   - block: collection
     content:
-      title: '<span style="color: #dc2626; font-weight: bold; text-align: left; display: block;">🚨 Urgent Hiring</span>'
+      title: '<span style="color: #dc2626; font-weight: bold; text-align: center; display: block;">🚨 Urgent Hiring</span>'
       subtitle: 
       count: 10
       filters:
