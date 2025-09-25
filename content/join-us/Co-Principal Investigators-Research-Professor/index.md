@@ -3,7 +3,7 @@ title: Co-Principal Investigators/Research-Professor
 weight: 1
 date: 2025-07-25
 share: false
-categories: ["Urgent Hiring"]
+categories: ["Academic/Research Positions"]
 ---
 <!--more-->
 

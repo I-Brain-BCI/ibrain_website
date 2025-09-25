@@ -2,7 +2,7 @@
 title: Lab Manager
 date: 2025-07-25
 share: false
-categories: ["Urgent Hiring"]
+categories: ["Academic/Research Positions"]
 ---
 <!--more-->
 
