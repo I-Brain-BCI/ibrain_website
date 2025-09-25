@@ -2,7 +2,7 @@
 title: Lab Manager
 date: 2025-07-25
 share: false
-categories: ["i-BRAIN Office Position"]
+categories: ["Urgent Hiring"]
 ---
 <!--more-->
 
