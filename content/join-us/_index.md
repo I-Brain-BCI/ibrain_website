@@ -47,6 +47,7 @@ sections:
         padding: ['5px', '0', '0', '0']  # 上、右、下、左的padding
       background:
         color: 'white'
+      css_style: 'text-align: center;'
 
   - block: markdown
     content:
