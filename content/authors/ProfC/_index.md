@@ -24,10 +24,10 @@ role: |
   
   Director, i-BRAIN, Shenzhen Medical Academy of Research and Translation
 
-# Organizations/Affiliations
-organizations:
-  - name: Harvard University
-    url: 'https://www.harvard.edu'
+# # Organizations/Affiliations
+# organizations:
+#   - name: Harvard University
+#     url: 'https://www.harvard.edu'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include nanoscale science and technology, with a focus on semiconductor nanowires, nanoelectronics, and bioelectronics.
