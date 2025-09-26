@@ -61,6 +61,39 @@ sections:
         padding: ['0', '0', '0', '0']  # 上、右、下、左的padding，将下边距设为0
       background:
         color: 'white'
+
+  - block: collection
+    content:
+      title: '<span style="color: #000; font-weight: bold;">New Areas of Opportunity</span>'
+      subtitle: 
+      count: 10
+      filters:
+        folders:
+          - join-us
+        category: "NHP"
+      offset: 0
+      order: asc
+      sort_by: 'weight'
+    design:
+      view: card
+      columns: '1'
+      spacing:
+        padding: ['5px', '0', '0', '0']  # 上、右、下、左的padding
+      background:
+        color: 'white'
+
+  - block: markdown
+    content:
+      text: |
+        <div style="text-align: center; margin: 3px 0;">
+          <hr style="width: 100%; border: none; height: 2px; background: linear-gradient(to right, transparent,rgb(12, 32, 75), transparent);">
+        </div>
+    design:
+      columns: '1'
+      spacing:
+        padding: ['0', '0', '0', '0']  # 上、右、下、左的padding，将下边距设为0
+      background:
+        color: 'white'
       
   - block: collection
     content:
@@ -71,7 +104,6 @@ sections:
         folders:
           - join-us
         category: "Academic/Research Positions"
-      
       offset: 0
       order: asc
       sort_by: 'weight'
