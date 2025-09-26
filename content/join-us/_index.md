@@ -65,7 +65,7 @@ sections:
   - block: collection
     content:
       title: '<span style="color: #000; font-weight: bold;">New Areas of Opportunity</span>'
-      subtitle: '<span style="color: #000; font-size: 0.8em;line-height: 1.6; text-align: justify;">We are actively recruiting highly motivated researchers at multiple levels to contribute and/or provide leadership in nonhuman primate (NHP) electrophysiology studies on rhesus macaque monkeys. Contact us if you are interested in joining exciting efforts to develop transformative brain computer interfaces (BCIs) for fundamental studies and as models for human translation and disease treatment. Specific positions available, include the following:</span>'
+      subtitle: '<span style="color: #000; font-size: 0.9em;line-height: 1.6; text-align: justify;">We are actively recruiting highly motivated researchers at multiple levels to contribute and/or provide leadership in nonhuman primate (NHP) electrophysiology studies on rhesus macaque monkeys. Contact us if you are interested in joining exciting efforts to develop transformative brain computer interfaces (BCIs) for fundamental studies and as models for human translation and disease treatment. Specific positions available, include the following:</span>'
       count: 10
       filters:
         folders:
