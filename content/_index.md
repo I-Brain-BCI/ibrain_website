@@ -214,7 +214,7 @@ sections:
       order: desc
       page_type: post
     design:
-      view: showcase
+      view: masonry
       columns: '1'
       spacing:
         padding: ['5px', '0', '5px', '0']  # 上、右、下、左的padding，将下边距设为0
