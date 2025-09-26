@@ -1,5 +1,5 @@
 ---
-title: "WE want NHP Researchers"
+title: "We are looking for NHP Researchers!"
 date: 2025-09-26
 ---
 
