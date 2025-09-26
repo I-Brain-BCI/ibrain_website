@@ -1,5 +1,5 @@
 ---
-title: NHP Co-Principal Investigators
+title: NHP Co-Principal Investigator
 weight: 1
 date: 2025-09-26
 share: false
