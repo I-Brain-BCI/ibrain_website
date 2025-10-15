@@ -5,7 +5,7 @@ title: Nanqi Xu
 # Full name (for SEO)
 first_name: Nanqi 
 last_name: Xu
-sequence_weight: 80
+sequence_weight: 2
 
 # Username (this should match the folder name)
 authors:

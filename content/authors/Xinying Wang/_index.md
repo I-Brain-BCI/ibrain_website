@@ -5,7 +5,7 @@ title: Xinying Wang
 # Full name (for SEO)
 first_name: Xinying 
 last_name: Wang 
-sequence_weight: 80
+sequence_weight: 4
 
 # Username (this should match the folder name)
 authors:

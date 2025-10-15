@@ -1,22 +1,21 @@
 ---
 # Display name
-title: Tania Xiang
+title: Xiaoyue Cheng
 
 # Full name (for SEO)
-first_name: Yuanyunshu 
-last_name: Xiang
-sequence_weight: 1
+first_name: Xiaoyue
+last_name: Cheng
+sequence_weight: 5
 
 # Username (this should match the folder name)
 authors:
-  - Yuanyunshu Xiang(Tania)
-
+  - Xiaoyue Cheng
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Office Director
+role: Faculty Assistant
 
 
 
@@ -33,4 +32,4 @@ user_groups:
   - i-BRAIN Office
 ---
 
-yysx
+nqx
