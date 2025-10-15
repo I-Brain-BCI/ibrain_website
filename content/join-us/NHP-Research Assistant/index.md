@@ -11,8 +11,8 @@ categories: ["NHP"]
 We are seeking a highly motivated Research Assistant to join our dynamic team at i-BRAIN, contributing to cutting-edge research in neuroscience and bioengineering. This position provides an excellent opportunity for professional growth and hands-on experience in advanced neurotechnological research within a collaborative and interdisciplinary academic environment.
 
 ## Core Responsibilities
-1.Lead NHP surgery for chronic neural probe implantation, including post-operative monitoring and care.
-2.Assist with implantation of chronic flexible neural probes for electrophysiological recording in non-human primates (NHPs).
+- 1.Lead NHP surgery for chronic neural probe implantation, including post-operative monitoring and care.
+- 2.Assist with implantation of chronic flexible neural probes for electrophysiological recording in non-human primates (NHPs).
 
 Experience with electrophysiological data collection, histology, imaging, and quantitative analysis is a plus.
 
