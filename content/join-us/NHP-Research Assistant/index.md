@@ -28,9 +28,9 @@ Experience with electrophysiological data collection, histology, imaging, and qu
 ## Required Materials
 Applicants should submit the following materials in PDF format to 
 ibrain@smart.org.cn with the email subject line: Name + Position Applied.
-- Curriculum Vitae (including full publication list and technical expertise)
-- Any other supporting documents (optional)
-- A brief self-introduction in the email body
+- Curriculum Vitae (including full publication list and technical expertise).
+- Any other supporting documents (optional).
+- A brief **self-introduction** in the email body.
 
 
 
