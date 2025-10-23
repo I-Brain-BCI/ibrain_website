@@ -11,19 +11,19 @@ categories: ["NHP"]
 We are seeking highly motivated Co-Principal Investigators/Research Professors to join i-BRAIN and contribute to cutting-edge neuroscience research. This position offers the opportunity to conduct independent research under the mentorship of the Principal Investigator while co-leading innovative nonhuman primate (NHP) electrophysiology programs and next-generation brain–computer interface development. 
 
 ## Core Responsibilities
-1. **Co-Lead Nonhuman Primate (NHP) Research Programs**
+1. **Co-Lead Nonhuman Primate (NHP) Research Programs:**
 Lead and execute chronic electrophysiology studies in nonhuman primates (NHPs), requiring surgical experience and hands-on skills in electrophysiological recordings, as part of the lab’s large-scale NHP research efforts.
-2. **Implement Advanced Next-Gen Brain-Computer Interfaces (BCIs)**
+2. **Implement Advanced Next-Gen Brain-Computer Interfaces (BCIs):**
 Work with other i-BRAIN researchers involved in the development and optimization of next-generation BCIs for NHP studies, emphasizing their potential for clinical translation as disruptive neurotechnologies for treatment of human brain diseases broadly defined.
-3. **Conduct Independent Research**
+3. **Conduct Independent Research:**
 Establish and pursue an independent, complementary research program that aligns with and enhances the i-BRAIN’s s overall scientific mission.
-4. **Mentor and Train Junior Researchers**
+4. **Mentor and Train Junior Researchers:**
 Provide mentorship and hands-on training to postdoctoral researchers, graduate students, and technical staff, fostering high standards in experimental design and data analysis.
-5. **Support Laboratory Operations and Management**
+5. **Support Laboratory Operations and Management:**
 Oversee key aspects of NHP facility operations, including strategic resource planning, major equipment procurement, and safety/compliance oversight.
-6. **Contribute to Scientific Publications**
+6. **Contribute to Scientific Publications:**
 Lead or assist in the preparation of academic manuscripts and technical reports for high-impact journals.
-7. **Collaborate on Grant Development**
+7. **Collaborate on Grant Development:**
 Independently or collaboratively assist the Principal Investigator (PI) in preparing and submitting competitive research grant proposals.
 
 
