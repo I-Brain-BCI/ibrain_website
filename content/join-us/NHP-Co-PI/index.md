@@ -16,7 +16,7 @@ Lead and execute chronic electrophysiology studies in nonhuman primates (NHPs), 
 2. **Implement Advanced Next-Gen Brain-Computer Interfaces (BCIs):**
 Work with other i-BRAIN researchers involved in the development and optimization of next-generation BCIs for NHP studies, emphasizing their potential for clinical translation as disruptive neurotechnologies for treatment of human brain diseases broadly defined.
 3. **Conduct Independent Research:**
-Establish and pursue an independent, complementary research program that aligns with and enhances the i-BRAIN’s s overall scientific mission.
+Establish and pursue an independent, complementary research program that aligns with and enhances the i-BRAIN’s overall scientific mission.
 4. **Mentor and Train Junior Researchers:**
 Provide mentorship and hands-on training to postdoctoral researchers, graduate students, and technical staff, fostering high standards in experimental design and data analysis.
 5. **Support Laboratory Operations and Management:**
