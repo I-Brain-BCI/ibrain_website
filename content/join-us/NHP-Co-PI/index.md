@@ -8,7 +8,7 @@ categories: ["NHP"]
 <!--more-->
 
 ## Position Summary
-We are seeking an experienced Lab Manager with PhD and postdoctoral experience to oversee comprehensive laboratory operations, including financial management, equipment procurement, safety protocols, and research coordination. This position requires strong leadership skills and the ability to manage diverse responsibilities in a dynamic research environment while supporting cutting-edge neuroscience and bioengineering research activities.
+We are seeking highly motivated Co-Principal Investigators/Research Professors to join i-BRAIN and contribute to cutting-edge neuroscience research. This position offers the opportunity to conduct independent research under the mentorship of the Principal Investigator while co-leading innovative nonhuman primate (NHP) electrophysiology programs and next-generation brain–computer interface development. 
 
 ## Core Responsibilities
 1. **Co-Lead Nonhuman Primate (NHP) Research Programs**
