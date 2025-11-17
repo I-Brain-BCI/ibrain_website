@@ -1,28 +1,24 @@
 ---
 title: Lab Manager
-date: 2025-07-25
+date: 2025-11-17
 share: false
 categories: ["i-BRAIN Office Position"]
 ---
 <!--more-->
 
 ## Position Summary
-We are seeking an experienced Lab Manager with PhD and postdoctoral experience to oversee comprehensive laboratory operations, including financial management, equipment procurement, safety protocols, and research coordination. This position requires strong leadership skills and the ability to manage diverse responsibilities in a dynamic research environment while supporting cutting-edge neuroscience and bioengineering research activities.
+We are seeking a highly skilled Lab Manager with proven experience in rodent facility operations, rodent care, and laboratory safety management. The role focuses on animal protocol design & regulatory compliance, lab safety and standard operating procedure (SOP) establishment, and overall laboratory operations. The ideal candidate will demonstrate the ability to work independently, solve problems effectively, and support our dynamic neuroscience and bioengineering research.
 
 ## Core Responsibilities
-1. **Financial Management**: Oversee annual lab budgeting, fund allocation, and reimbursement processes, ensuring compliance with financial regulations.
-2. **Equipment Procurement Coordination**: Manage end-to-end procurement of lab equipment, including needs assessment, vendor negotiations, order tracking, and quality inspection.
-3. **Lab Safety & Training**: Develop and update lab safety protocols, conduct quarterly safety training (chemical handling, biosafety, and emergency drills).
-4. **Task Assignment & Supervision**: Oversee the timely preparation of research reports working with group members and the PI.
-5. **Animal Protocol Compliance**: Lead the design and ethical review of experimental protocols for rodent (Rodent) and non-human primate (NHP). Monitor regulatory updates to ensure full compliance with guidelines.
-6. **Website Development**: In charge of lab website development and content updates, integrating research and resource-sharing features.
-7. **Research Outreach Strategies**: Organize annual lab open-house events, draft press releases for key findings, and manage social media promotion.
-8. **Candidate Prescreening**: Support the PI in preliminary screening of postdoc applicants.
-9. **Oversee Facility Maintenance**: Oversee and assist with routine equipment inspections and coordinate professional repairs or preventive maintenance.
-10. **Miscellaneous Duties**: Handle ad hoc tasks assigned by the PI and participate in cross-departmental meetings.
+1. **Animal Protocol & Facility Management:** Lead the design and supervise the preparation of experimental protocols for rodent and non-human primate (NHP) models, ensuring their successful passage through ethical review. **This role requires significant hands-on experience with rodent facility management and rodent care**. A deep familiarity with China's animal surgical regulations and the institutional protocol approval process, particularly for rodents/mice, is essential.
+2. **Lab Safety & SOP Management:** Develop, implement, and update comprehensive **laboratory safety protocols** and **SOPs**. Conduct quarterly safety training sessions covering chemical handling, biosafety, and emergency drills, ensuring all protocols are rigorously maintained.
+3. **Research Outreach Strategies:** Organize annual lab open-house events, draft press releases for key findings, and manage social media promotion.
+4. **Miscellaneous Duties:** Handle ad hoc tasks assigned by the PI as well as other duties delegated by laboratory leadership, and participate in cross-departmental meetings.
+
+
 
 ## Qualifications & Requirements
-1. PhD degree in a scientific discipline (e.g., biology, chemistry, neuroscience) preferred.
+1. A Master's degree or higher in a relevant scientific discipline (e.g., bioengineering, biology, chemistry, neuroscience) is required.
 2. Minimum 3-year working experience in laboratory management (preferably across chemical and neuroscience labs).
 3. Proficiency in equipment maintenance and compliance protocols.
 4. Excellent verbal and written communication skills; fluency in English and Chinese.
@@ -34,10 +30,11 @@ We are seeking an experienced Lab Manager with PhD and postdoctoral experience t
 ### Required Materials
 Applicants please provide the following materials in English:
 1. CV.
-2. Other materials that can illustrate capabilities.
+2. Cover Letter that describes relevant experience and interests.
+3. Other materials that can illustrate capabilities.
 
 Please send the above materials in PDF format and the applicant's self-introduction to ibrain@smart.org.cn.
-(The subject of the email: name+Lab manager, or name+PI assistant).
+(The subject of the email: Name+Lab manager).
 
 ### Others
 1. We will arrange an interview as soon as possible after the materials are reviewed. And application materials will be kept confidential.
