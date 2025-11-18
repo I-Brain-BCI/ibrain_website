@@ -19,7 +19,7 @@ We are seeking a highly skilled Lab Manager with proven experience in rodent fac
 
 ## Qualifications & Requirements
 1. A Master's degree or higher in a relevant scientific discipline (e.g., bioengineering, biology, chemistry, neuroscience) is required.
-2. Minimum 3-year working experience in laboratory management (preferably across chemical and neuroscience labs).
+2. Minimum 3-year working experience in laboratory management (preferably across chemistry/biology and neuroscience labs).
 3. Proficiency in equipment maintenance and compliance protocols.
 4. Excellent verbal and written communication skills; fluency in English and Chinese.
 5. Strong attention to detail, problem-solving, and multitasking abilities.
@@ -31,7 +31,7 @@ We are seeking a highly skilled Lab Manager with proven experience in rodent fac
 Applicants please provide the following materials in English:
 1. CV.
 2. Cover Letter that describes relevant experience and interests.
-3. Other materials that can illustrate capabilities.
+3. Other materials that illustrate applicant's capabilities.
 
 Please send the above materials in PDF format and the applicant's self-introduction to ibrain@smart.org.cn.
 (The subject of the email: Name+Lab manager).
