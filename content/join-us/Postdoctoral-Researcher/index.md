@@ -50,4 +50,4 @@ Applicants should submit the following documents as a single PDF file to Profess
 3. A brief description of your specific interests and goals for your postdoctoral studies.
 4. Any additional materials that demonstrate research and work capabilities.
 
-Applicants should also arrange for at least two referees to send letters directly to liebercharlesm@gmail.com
+Applicants should also arrange for at least two referees to send letters directly to liebercharlesm@gmail.com.
