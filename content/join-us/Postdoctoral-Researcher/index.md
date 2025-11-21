@@ -44,10 +44,10 @@ The CML group is focused on developing transformative brain-computer interfaces 
 3. Apply Guideline: https://docs.qq.com/doc/DR1lLYmFCS0VOV3R0
 
 ## How to Apply
-Applicants should submit the following documents as a single PDF file:
+Applicants should submit the following documents as a single PDF file to Professor Lieber (liebercharlesm@gmail.com):
 1. A complete CV in English, including education, research experience, skills, and publications.
 2. A 1–2-page description about your graduate research studies focused on the 1-2 accomplishments you feel best represent you as a scientist/engineer.
 3. A brief description of your specific interests and goals for your postdoctoral studies.
 4. Any additional materials that demonstrate research and work capabilities.
 
-Applicants should also arrange for at least two referees to send letters directly to clyjyzhb@sz.tsinghua.edu.cn, Contact person: Ms. JIANG
+Applicants should also arrange for at least two referees to send letters directly to liebercharlesm@gmail.com
