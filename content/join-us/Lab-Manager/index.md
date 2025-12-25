@@ -1,9 +1,8 @@
 ---
-title: Lab Manager
-date: 2025-11-17
+title: No Opening Positions for now.
+date: 2025-12-20
 share: false
 categories: ["i-BRAIN Office Position"]
 ---
 <!--more-->
 
-No Opening Positions for now.
