@@ -17,7 +17,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: ibrain@smart.org.cn
       address:
-        street: Weiguang Life Science Park Building A1, 12th Floor
+        street: Weiguang Life Science Park Building A1, 19th Floor
         city: Shenzhen
         region: Guangdong
         postcode: '518000'
