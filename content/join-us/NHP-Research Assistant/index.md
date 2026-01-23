@@ -18,7 +18,7 @@ Experience with **electrophysiological data collection, histology, imaging, and 
 
 
 ## Qualifications & Requirements
-- **Bachelor’s degree or above** in neuroscience, neurology, biomedical engineering, or related fields.
+- **Bachelor's degree or above** in neuroscience, neurology, biomedical engineering, or related fields.
 - **Extensive laboratory experience** and confidence in **NHP neurosurgery**, particularly in **chronic electrophysiology probe implantation**.
 - Strong sense of responsibility, excellent technical and operational skills, and good communication and teamwork abilities.
 - **Proficiency in English** (written and spoken) is required.
