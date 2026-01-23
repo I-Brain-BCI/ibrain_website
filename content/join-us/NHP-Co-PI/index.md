@@ -52,3 +52,7 @@ Please send the above materials in PDF format and the applicant's self-introduct
 ### Others
 1. We will arrange an interview as soon as possible after the materials are reviewed. And application materials will be kept confidential.
 2. This recruitment information is valid until the position is filled.
+
+
+### References
+1. Recruitment Information(SIGS): https://talent.sigs.tsinghua.edu.cn/recruit-fg/job/575/detail?from=PositionList

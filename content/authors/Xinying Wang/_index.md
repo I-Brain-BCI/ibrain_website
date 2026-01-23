@@ -32,5 +32,3 @@ highlight_name: false
 user_groups:
   - i-BRAIN Office
 ---
-
-nqx
