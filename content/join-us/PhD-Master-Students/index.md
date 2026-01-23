@@ -12,8 +12,7 @@ We welcome applications from outstanding PhD and Master students to join our res
 
 **How to Join Our Research Group:**
 Students can join our research team through the following pathways:
-- **Tsinghua Shenzhen International Graduate School (SIGS)**: Apply for graduate programs("080500 Materials Science and Engineering"
-"0812J3 Data Science and Information Technology") at Tsinghua SIGS. 
+- **Tsinghua Shenzhen International Graduate School (SIGS)**: Apply for graduate programs('080500 Materials Science and Engineering' or '0812J3 Data Science and Information Technology') at Tsinghua SIGS. 
 - **Shenzhen Medical Academy of Research and Translation (SMART)**: Apply through SMART graduate programs
 
 ## Qualifications & Requirements
