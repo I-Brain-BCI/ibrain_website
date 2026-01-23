@@ -42,7 +42,7 @@ The CML group is focused on developing transformative brain-computer interfaces 
 1. Reference of Shenzhen government: https://hrss.sz.gov.cn/xxgk/zcfgjjd/zcfg/rcfw/content/post_11707010.html
 2. FAQ: https://docs.qq.com/doc/DR0xTYUJ5d0dBS2F2
 3. Apply Guideline: https://docs.qq.com/doc/DR1lLYmFCS0VOV3R0
-4.Recruitment Information(SIGS): https://talent.sigs.tsinghua.edu.cn/recruit-fg/job/407/detail?from=PositionList
+4. Recruitment Information(SIGS): https://talent.sigs.tsinghua.edu.cn/recruit-fg/job/407/detail?from=PositionList
 
 ## How to Apply
 Applicants should submit the following documents as a single PDF file to Professor Lieber (liebercharlesm@gmail.com):
