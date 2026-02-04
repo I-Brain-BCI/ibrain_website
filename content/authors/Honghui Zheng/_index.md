@@ -34,7 +34,7 @@ interests:
 
 education:
   courses:
-    - course: Postdoctoral Reseearcher(Current),
+    - course: Postdoctoral Researcher(Current)
       institution: Tsinghua University
       year: 2025
     - course: PhD degree
@@ -55,6 +55,7 @@ highlight_name: false
 user_groups:
   - Postdoctoral Fellows
 ---
+
 
 Honghui Zheng is a postdoctoral researcher working in the field of brain–computer interfaces (BCIs). He received his PhD degree from Tsinghua University and his bachelor’s degree from Huazhong University of Science and Technology.
 
