@@ -41,7 +41,7 @@ education:
       institution: Tsinghua University
       year: 2020
     - course: Bachelor's Degree
-      institution: Bachelor Huazhong University of Science and Technology
+      institution: Huazhong University of Science and Technology
       year: 2016
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
