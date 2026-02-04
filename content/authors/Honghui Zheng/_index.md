@@ -29,10 +29,8 @@ bio: My research interests include brain-computer interfaces, neural signal proc
 
 interests:
   - Brain-Computer Interface
-  - Neural Signal Processing
+  - Neural Signal acquisition and stimulation
   - Neurotechnology
-  - Machine Learning
-  - Biomedical Engineering
 
 education:
   courses:
@@ -55,7 +53,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Postdoctoral Fellow
+  - Postdoctoral Fellows
 ---
 
 Honghui Zheng is a postdoctoral researcher working in the field of brain–computer interfaces (BCIs). He received his PhD degree from Tsinghua University and his bachelor’s degree from Huazhong University of Science and Technology.
