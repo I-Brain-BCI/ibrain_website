@@ -19,7 +19,21 @@ role: PHD Student
 
 
 interests:
-  - Brain-Computer Interface
+  - Brain–Computer Interface
+  - Biomedical Engineering
+  - Human-Computer Interaction
+
+education:
+  courses:
+    - course: PhD in Brain-Computer Interface (Current)
+      institution: Tsinghua University
+      year: 2025
+    - course: Master's Degree
+      institution: Chinese Institute for Brain Research
+      year: 2021
+    - course: Bachelor's Degree
+      institution: Jianghan University
+      year: 2016
 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
@@ -34,4 +48,4 @@ user_groups:
   - Ph.D.＆M.S. Students
 ---
 
-kl
+Ke Li is a PhD student at Tsinghua University, specializing in brain–computer interface research. He received his master’s degree from the Chinese Institute for Brain Research. His research focuses on neurotechnology applications. He is particularly interested in creating innovative solutions that help patients recover impaired abilities.
