@@ -14,14 +14,12 @@ The installation began with a meticulously coordinated effort between **i-BRAIN 
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 20px 0 0 0;">
   <div style="flex: 1; min-width: 300px;">
-    <img src="Picture1.jpg" alt="ASML DUV Lithography System" style="width: 100%; height: auto;">
+    <img src="Picture1.jpg" alt="ASML DUV Lithography System" style="width: 100%; height: auto; display: block; margin: 0;">
   </div>
   <div style="flex: 1; min-width: 300px;">
-    <img src="Picture2.jpg" alt="Installation Process" style="width: 100%; height: auto;">
+    <img src="Picture2.jpg" alt="Installation Process" style="width: 100%; height: auto; display: block; margin: 0;">
   </div>
-</div>
-
-<div style="font-size: 0.7em; font-style: italic; margin: 0 0 20px 0; line-height: 1.3;">
+</div><div style="font-size: 0.7em; font-style: italic; margin: 0 0 20px 0; line-height: 1.3;">
   <p style="margin: 0 0 5px 0;">Photo by Xiaoyue Cheng (i-BRAIN) and Pei Zhao (SMART)</p>
   <p style="margin: 0 0 5px 0;"><strong>Left Photo:</strong> Captures the significant task of loading the large and heavy bottom module and the Supply & Temperature units and the system covers into the cleanroom.</p>
   <p style="margin: 0;"><strong>Right Photo:</strong> Displays the main body of the stepper, which is currently protected by its silver contamination cover, with the Wafer Transfer System positioned in the foreground and the Operation Console situated to the left. These essential components form the primary interface between the scientist and the lithographic process.</p>
