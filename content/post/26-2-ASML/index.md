@@ -20,9 +20,12 @@ The installation began with a meticulously coordinated effort between **i-BRAIN 
   </div>
 </div>
 
-<div style="font-size: 0.9em; font-style: italic; margin: 10px 0;">
-  <p>Photo by Xiaoyue Cheng (i-BRAIN) and Pei Zhao (SMART)</p>
-  <p><strong>Left Photo:</strong> Captures the significant task of loading the large and heavy bottom module and the Supply & Temperature units and the system covers into the cleanroom.</p>
-  <p><strong>Right Photo:</strong> Displays the main body of the stepper, which is currently protected by its silver contamination cover, with the Wafer Transfer System positioned in the foreground and the Operation Console situated to the left. These essential components form the primary interface between the scientist and the lithographic process.</p>
+<div style="font-size: 0.7em; font-style: italic; margin: 5px 0; line-height: 1.3;">
+  <p style="margin: 0 0 5px 0;">Photo by Xiaoyue Cheng (i-BRAIN) and Pei Zhao (SMART)</p>
+  <p style="margin: 0 0 5px 0;"><strong>Left Photo:</strong> Captures the significant task of loading the large and heavy bottom module and the Supply & Temperature units and the system covers into the cleanroom.</p>
+  <p style="margin: 0;"><strong>Right Photo:</strong> Displays the main body of the stepper, which is currently protected by its silver contamination cover, with the Wafer Transfer System positioned in the foreground and the Operation Console situated to the left. These essential components form the primary interface between the scientist and the lithographic process.</p>
 </div>
 
+With installation and system verification now aggressively underway, we are approaching the "first light" of the machine. Once fully commissioned, the ASML DUV platform will become a vibrant core facility — a collaborative powerhouse where internal research excellence meets cutting-edge industry partnerships. We are eager to see the breakthroughs this technology will enable as we push the boundaries of what is possible or even previously imagined in the neuro-technology landscape.
+
+We thank all our partners and team members—including the SMART Lab and Equipment Department, The Infrastructure and Logistics Department, Shenzhen Jinzhan Material Supply Co., The Weiguang Campus Support Teams, The Operations and Maintenance Team—for their seamless collaboration. We especially recognize the efforts of Xiaohang Zhang, Xiaoyue Cheng, Yitong Yan, Kai Qiao, Mingxin Li, Yixi Li, Min Li, Kezheng Peng, and Xianglong Zeng in reaching this milestone.
