@@ -7,4 +7,8 @@ Dr. Charles Lieber was appointed Chair Professor of Tsinghua University in the I
 
 <!--more-->
 
-![Dr. Charles Lieber](featured.jpg)
+![Dr. Charles Lieber](charlie.jpg)
+
+
+
+
