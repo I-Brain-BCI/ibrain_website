@@ -4,3 +4,7 @@ date: 2025-05-01
 ---
 
 Dr. Charles Lieber was appointed Chair Professor of Tsinghua University in the Institute of Materials Research at Tsinghua Shenzhen International Graduate School. Lieber was also appointed a SMART Investigator at the Shenzhen Medical Academy of Research and Translation. Doctoral, postdoctoral and more advanced positions are available.
+
+<!--more-->
+
+![Dr. Charles Lieber](featured.jpg)
