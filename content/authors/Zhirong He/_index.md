@@ -1,0 +1,40 @@
+---
+# Display name
+title: Zhirong He
+
+# Full name (for SEO)
+first_name: Zhirong
+last_name: He
+sequence_weight: 4
+
+# Username (this should match the folder name)
+authors:
+  - Zhirong He
+
+# Is this the primary user of the site?
+superuser: false
+
+# Role/position
+role: PhD Student
+
+# Organizations/Affiliations
+organizations:
+  - name: Tsinghua University
+    url: 'https://www.tsinghua.edu.cn'
+
+# Short bio (displayed in user profile at end of posts)
+
+
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: ''
+
+# Highlight the author in author lists? (true/false)
+highlight_name: false
+
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+  - Ph.D.＆M.S. Students
+---
+

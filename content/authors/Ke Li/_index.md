@@ -5,7 +5,7 @@ title: Ke Li
 # Full name (for SEO)
 first_name: Ke
 last_name: Li
-sequence_weight: 100
+sequence_weight: 1
 
 # Username (this should match the folder name)
 authors:

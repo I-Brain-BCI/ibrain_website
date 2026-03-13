@@ -5,7 +5,7 @@ title: Yikai Zheng
 # Full name (for SEO)
 first_name: Yikai
 last_name: Zheng
-sequence_weight: 102
+sequence_weight: 3
 
 # Username (this should match the folder name)
 authors:
