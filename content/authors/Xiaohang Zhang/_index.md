@@ -5,7 +5,7 @@ title: Xiaohang Zhang
 # Full name (for SEO)
 first_name: Xiaohang
 last_name: Zhang
-sequence_weight: 100
+sequence_weight: 1
 
 # Username (this should match the folder name)
 authors:
