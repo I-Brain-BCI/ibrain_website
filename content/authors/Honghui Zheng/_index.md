@@ -5,7 +5,7 @@ title: Honghui Zheng
 # Full name (for SEO)
 first_name: Honghui
 last_name: Zheng
-sequence_weight: 99
+sequence_weight: 1
 
 
 # Username (this should match the folder name)
