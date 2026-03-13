@@ -15,11 +15,13 @@ sections:
           - Senior Investigators
           - Postdoctoral Fellows
           - Ph.D.＆M.S. Students
+          - Nanofab Facility
           - i-BRAIN Office
           - Researchers
           - Grad Students
           - Administration
           - Visitors
+          
       sort_by: Params.sequence_weight
 
       sort_ascending: true

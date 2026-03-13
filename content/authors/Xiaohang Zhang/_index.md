@@ -29,7 +29,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Senior Investigators
+  - Nanofab Facility
 ---
 
 Dr. Xiaohang Zhang is the Director of the Nanofabrication Facility at i-BRAIN and an adjunct professor at Zhejiang University, as well as a guest research scientist at the National Astronomical Observatories, Chinese Academy of Sciences, and ShanghaiTech University. He previously worked at the National Institute of Standards and Technology (NIST) in the United States, Alibaba Quantum Lab, and Zhejiang Laboratory. Dr. Zhang’s expertise spans nanofabrication, quantum sensors, superconducting devices, cryogenic systems, and advanced astronomical instrumentation. He is currently focused on developing transformative brain-computer interfaces (BCIs) that blur the distinction between electronics and the brain.
