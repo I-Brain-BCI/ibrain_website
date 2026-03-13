@@ -1,15 +1,15 @@
 ---
 # Display name
-title: JungMin Lee
+title: Jung Min Lee
 
 # Full name (for SEO)
-first_name: JungMin
+first_name: Jung Min
 last_name: Lee
-sequence_weight: 100
+sequence_weight: 1
 
 # Username (this should match the folder name)
 authors:
-  - JungMin Lee
+  - Jung Min Lee
 
 # Is this the primary user of the site?
 superuser: false
