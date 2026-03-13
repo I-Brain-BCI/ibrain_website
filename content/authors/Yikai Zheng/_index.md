@@ -19,8 +19,8 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Tsinghua University
-    url: 'https://www.tsinghua.edu.cn'
+  - name: Westlake University and Shenzhen Medical Academy of Research and Translation Program
+#    url: 'https://www.tsinghua.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include brain-computer interfaces, neural signal processing, and neurotechnology.
