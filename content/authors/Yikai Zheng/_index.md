@@ -19,7 +19,7 @@ role: PhD Student
 
 # Organizations/Affiliations
 organizations:
-  - name: Westlake University and Shenzhen Medical Academy of Research and Translation Program
+  - name: Westlake University and Shenzhen Medical Academy of Research and Translation joint Program
 #    url: 'https://www.tsinghua.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
@@ -33,8 +33,8 @@ interests:
 
 education:
   courses:
-    - course: PhD in Brain-Computer Interface (Current)
-      institution: Westlake University and Shenzhen Medical Academy of Research and Translation Program
+    - course: PhD (Current)
+      institution: Westlake University and Shenzhen Medical Academy of Research and Translation joint Program
       year: 2025
     - course: Bachelor's Degree
       institution: Jinan University
