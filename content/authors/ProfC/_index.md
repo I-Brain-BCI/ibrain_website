@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Charles.M.Lieber
+title: Charles M.Lieber
 
 # Full name (for SEO)
 first_name: Charles
