@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD (Current)
       institution: Westlake University and Shenzhen Medical Academy of Research and Translation joint Program
-      year: 2025
+      #year: 2025
     - course: Bachelor's Degree
       institution: Jinan University
       year: 2025
