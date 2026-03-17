@@ -30,7 +30,7 @@ education:
       year: 2026
     - course: PhD degree
       institution: University Medical Center Groningen
-      year: 2016
+      year: 2026
     - course: Master's Degree
       institution: Lanzhou University
       year: 2021
