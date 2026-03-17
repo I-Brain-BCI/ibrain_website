@@ -30,13 +30,13 @@ education:
       year: 2026
     - course: PhD degree
       institution: University Medical Center Groningen
-      year: 2019
+      year: 2016
     - course: Master's Degree
       institution: Lanzhou University
-      year: 2026
+      year: 2021
     - course: Bachelor's Degree
       institution: Lanzhou University
-      year: 2014
+      year: 2018
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
