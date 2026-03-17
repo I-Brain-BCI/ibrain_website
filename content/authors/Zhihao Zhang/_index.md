@@ -33,7 +33,7 @@ education:
       institution: Beijing Normal University
       year: 2026
     - course: Bachelor's Degree
-      institution: Beijing University of Chemical Technology
+      institution: Shandong Agriculture University
       year: 2018
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
