@@ -18,6 +18,24 @@ superuser: false
 # Role/position
 role: Postdoctoral Fellow
 
+
+interests:
+  - Brain-Computer Interface
+  - Neurodegenerative diseases
+  - Motor Control
+
+education:
+  courses:
+    - course: Postdoctoral Researcher(Current)
+      institution: Tsinghua University
+      year: 2026
+    - course: PhD degree
+      institution: Beijing Normal University
+      year: 2026
+    - course: Bachelor's Degree
+      institution: Beijing University of Chemical Technology
+      year: 2018
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
@@ -29,3 +47,6 @@ highlight_name: false
 user_groups:
   - Postdoctoral Fellows
 ---
+
+Dr. Zhihao Zhang is a Postdoctoral Fellow of the i-BRAIN Research Group, working on brain–computer interface (BCI) technologies. He received his Ph.D. from Beijing Normal University and his bachelor’s degree from Shandong Agriculture University.
+Dr. Zhang’s research focuses on developing advanced brain–computer interfaces and investigating mechanisms of motor control and interventions for neurodegenerative diseases.

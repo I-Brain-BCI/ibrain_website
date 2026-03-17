@@ -18,6 +18,26 @@ superuser: false
 # Role/position
 role: Postdoctoral Fellow
 
+interests:
+  - Brain-Computer Interface
+  - Integrated Bioelectronic Interfaces
+  - Stable Long-term Brain Recording Systems
+
+education:
+  courses:
+    - course: Postdoctoral Researcher(Current)
+      institution: Tsinghua University
+      year: 2026
+    - course: PhD degree
+      institution: University Medical Center Groningen
+      year: 2019
+    - course: Master's Degree
+      institution: Lanzhou University
+      year: 2026
+    - course: Bachelor's Degree
+      institution: Lanzhou University
+      year: 2014
+
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
 
@@ -29,3 +49,6 @@ highlight_name: false
 user_groups:
   - Postdoctoral Fellows
 ---
+
+Dr. Zhuoyue Wang is a Postdoctoral Fellow of the i-Brain Group, working on transformative brain–computer interface (BCI) technologies and next-generation neural interfacing systems. He earned his Ph.D. in Biomedical Engineering from the University Medical Center Groningen, and his M.E. and B.E. in Structural Engineering from Lanzhou University.
+Dr. Wang’s research focuses on developing advanced neural interface platforms, including stable neural sensors, integrated bioelectronic interfaces, and functional interaction systems for diagnosis and therapy.
