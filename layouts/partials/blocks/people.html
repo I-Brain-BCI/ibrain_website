@@ -1,0 +1,81 @@
+{{/* People Widget Override: Disables link for Xinying Wang */}}
+
+{{/* Initialise */}}
+{{ $page := .wcPage }}
+{{ $block := .wcBlock }}
+{{ $show_social := $block.content.show_social | default true }}
+{{ $show_interests := $block.content.show_interests | default true }}
+{{ $show_organizations := $block.content.show_organizations | default false }}
+{{ $show_role := $block.content.show_role | default true }}
+
+<div class="row justify-content-center people-widget">
+  {{ range $block.content.user_groups }}
+  {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
+
+  {{ if $query }}
+  <div class="col-md-12 section-heading">
+    <h1>{{ . | markdownify | emojify }}</h1>
+    {{ if $block.content.subtitle }}<p>{{ $block.content.subtitle | markdownify | emojify }}</p>{{ end }}
+  </div>
+  {{ end }}
+
+  {{ range $query }}
+  {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
+  
+  {{/* Get link to user's profile page. */}}
+  {{ $link := .RelPermalink }}
+  
+  {{/* --- CUSTOM LOGIC START --- */}}
+  {{/* If the person's name is Xinying Wang, we empty the link variable */}}
+  {{ if eq .Title "Xinying Wang" }}
+    {{ $link = "" }}
+  {{ end }}
+  {{/* --- CUSTOM LOGIC END --- */}}
+
+  <div class="col-12 col-sm-auto people-person">
+    {{ $src := "" }}
+    {{ if site.Params.avatar.gravatar }}
+      {{ $src = printf "https://s.gravatar.com/avatar/%s?s=200" (md5 .Params.email) }}
+    {{ else if $avatar }}
+      {{ $avatar_image := $avatar.Fill "270x270 Center" }}
+      {{ $src = $avatar_image.RelPermalink }}
+    {{ end }}
+
+    {{ if $src }}
+      {{ $avatar_shape := site.Params.avatar.shape | default "circle" }}
+      {{/* Only wrap in <a> tag if $link is NOT empty */}}
+      {{ if $link }}
+        <a href="{{ $link }}"><img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar"></a>
+      {{ else }}
+        <img class="avatar {{if eq $avatar_shape "square"}}avatar-square{{else}}avatar-circle{{end}}" src="{{ $src }}" alt="Avatar">
+      {{ end }}
+    {{ end }}
+
+    <div class="portrait-title">
+      {{/* Only wrap the name in <a> tag if $link is NOT empty */}}
+      <h2>{{ if $link }}<a href="{{ $link }}">{{ end }}{{ .Title }}{{ if $link }}</a>{{ end }}</h2>
+      
+      {{ if and $show_role .Params.role }}<h3>{{ .Params.role | markdownify | emojify }}</h3>{{ end }}
+      
+      {{ if and $show_organizations .Params.organizations }}
+        {{ range .Params.organizations }}
+        <h3>
+          {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+          {{ .name }}
+          {{ if .url }}</a>{{ end }}
+        </h3>
+        {{ end }}
+      {{ end }}
+      
+      {{ if and $show_interests .Params.interests }}
+        <ul class="network-icon" aria-hidden="true">
+          {{ range .Params.interests }}
+            <li>{{ . | markdownify | emojify }}</li>
+          {{ end }}
+        </ul>
+      {{ end }}
+    </div>
+  </div>
+  {{ end }}
+  {{ end }}
+</div>
