@@ -11,6 +11,7 @@
 <div class="row justify-content-center people-widget">
   {{ range $block.content.user_groups }}
   {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
+  {{ $query = sort $query ".Params.sequence_weight" "asc" }}
 
   {{ if $query }}
   <div class="col-md-12 section-heading">
