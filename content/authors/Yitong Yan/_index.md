@@ -16,7 +16,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Senior Engineer for ASML
+role: Senior Engineer for DUV Lithography
 
 
 
