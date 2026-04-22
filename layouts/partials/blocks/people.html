@@ -26,8 +26,8 @@
   {{ $link := .RelPermalink }}
   
   {{/* --- CUSTOM LOGIC START --- */}}
-  {{/* If the person's name is Xinying Wang, we empty the link variable */}}
-  {{ if eq .Title "Xinying Wang" }}
+  {{/* If the person's name is in the list below, we empty the link variable */}}
+  {{ if in (slice "Xinying Wang" "Nanqi Xu" "Xiaoyue Cheng" "Tania Xiang" "Yang Qiao") .Title }}
     {{ $link = "" }}
   {{ end }}
   {{/* --- CUSTOM LOGIC END --- */}}
