@@ -5,7 +5,7 @@ title: Yang Qiao
 # Full name (for SEO)
 first_name: Yang 
 last_name: Qiao
-sequence_weight: 3
+sequence_weight: 4
 
 # Username (this should match the folder name)
 authors:

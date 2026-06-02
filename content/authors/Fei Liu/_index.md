@@ -5,7 +5,7 @@ title: Fei Liu
 # Full name (for SEO)
 first_name: Fei
 last_name: Liu
-sequence_weight: 6
+sequence_weight: 2
 
 # Username (this should match the folder name)
 authors:

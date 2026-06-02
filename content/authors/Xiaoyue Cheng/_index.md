@@ -5,7 +5,7 @@ title: Xiaoyue Cheng
 # Full name (for SEO)
 first_name: Xiaoyue
 last_name: Cheng
-sequence_weight: 5
+sequence_weight: 6
 
 # Username (this should match the folder name)
 authors:
