@@ -50,3 +50,16 @@ tools.
 10. Strong hands-on problem-solving skills and willingness to work closely with
 experimental researchers.
 11. Ability to work full time in a collaborative interdisciplinary environment.
+
+## How to apply
+
+### Required Materials
+1. Curriculum Vitae(in English).
+2. Any other relevant supporting documents.
+
+Please send the above materials in PDF format to zhangxiaohang@smart.org.cn
+( The subject of the email: Name + Position applied ).
+
+### Others
+1. We will arrange an interview as soon as possible after the materials are reviewed. And application materials will be kept confidential.
+2. This recruitment information is valid until the position is filled.
