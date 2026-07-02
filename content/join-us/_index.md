@@ -1,6 +1,7 @@
 ---
 title: Join Us
 type: landing
+weight: 3
 
 sections:
   - block: markdown
