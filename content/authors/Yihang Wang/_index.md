@@ -36,7 +36,7 @@ education:
   courses:
     - course: Postdoctoral Researcher(Current)
       institution: Tsinghua University
-      year: 
+      year:  
     - course: PhD degree
       institution: University of North Carolina at Chapel Hill
       year: 2026
