@@ -1,5 +1,5 @@
 ---
-title: Professor Charles M. Lieber Named Fellow of the European Academy of Engineering!
+title: Professor Charles M. Lieber Elected as a Member of the European Academy of Engineering (EAE)!
 date: 2026-08-03
 summary: Professor Charles M. Lieber, Chair Professor at Tsinghua Shenzhen International Graduate School (Tsinghua SIGS) and a leading scientist in nanoscience and chemistry, has been elected as a member of the European Academy of Engineering (EAE).
 ---
