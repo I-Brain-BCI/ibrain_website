@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Langning Dai
+title: Jiajun Cai
 
 # Full name (for SEO)
-first_name: Langning
-last_name: Dai
-sequence_weight: 3
+first_name: Jiajun
+last_name: Cai
+sequence_weight: 4
 
 # Username (this should match the folder name)
 authors:
-  - Langning Dai
+  - Jiajun Cai
 
 # Is this the primary user of the site?
 superuser: false
@@ -26,8 +26,9 @@ organizations:
 interests:
   - Brain-Computer Interface
   - Neuroscience
-  - Signal acquisition
-  - Neuromodulation
+  - Neural Interfaces
+  - Neurotechnology
+  - Neurological and Neurodegenerative Diseases
 
 education:
   courses:
@@ -72,5 +73,7 @@ user_groups:
   - Ph.D.＆M.S. Students
 ---
 
-Langning Dai is a PhD student at Tsinghua University, interested in brain-computer interface (BCI) and neuroscience. He received his bachelor’s degree from Weixian College, Tsinghua University.
-Langning has a background in biomedical engineering and an interdisciplinary engineering mindset. His research focus on developing BCI system and its application to studying neuron activity, brain circuits and networks. He also aims at signal acquisition and analysis, exploring rehabilitation mechanisms and modulation through novel BCIs. 
+Jiajun Cui is a Ph.D. student at Tsinghua University, working on brain-computer interface (BCI) research. He received his bachelor's degree from Tsinghua University.
+His research interests lie at the intersection of neuroscience, bioengineering, and brain–computer interfaces (BCIs). He is particularly interested in developing interdisciplinary approaches that bridge fundamental biological mechanisms with advanced neural interfaces and their applications in neuroscience and medicine.
+By integrating biological understanding with transformative brain-computer interfaces (BCIs), he hopes to contribute to a deeper understanding of the brain and brain diseases, as well as to transformative approaches for the treatment of neurological and neurodegenerative diseases.
+
