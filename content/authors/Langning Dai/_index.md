@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Chenlong Wang
+title: Langning Dai
 
 # Full name (for SEO)
-first_name: Chenlong
-last_name: Wang
-sequence_weight: 2
+first_name: Langning
+last_name: Dai
+sequence_weight: 3
 
 # Username (this should match the folder name)
 authors:
-  - Chenlong Wang
+  - Langning Dai
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,26 +23,22 @@ organizations:
     url: 'https://www.tsinghua.edu.cn'
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include brain-computer interfaces, neural signal processing, and neurotechnology.
+#bio: Langning Dai is a PhD student at Tsinghua University, interested in brain-computer interface (BCI) and neuroscience. He received his bachelor’s degree from Weixian College, Tsinghua University.Langning has a background in biomedical engineering and an interdisciplinary engineering mindset. His research focus on developing BCI system and its application to studying neuron activity, brain circuits and networks. He also aims at signal acquisition and analysis, exploring rehabilitation mechanisms and modulation through novel BCIs. 
+
 
 interests:
   - Brain-Computer Interface
-  - Neural Signal Processing
-  - Neurotechnology
-  - Machine Learning
-  - Biomedical Engineering
+  - Neuroscience
+  - Signal acquisition
+  - Neuromodulation
 
 education:
   courses:
     - course: PhD in Brain-Computer Interface (Current)
       institution: Tsinghua University
-      year: 2026
-    - course: Master's Degree
+    - course: Bachelor's Degree
       institution: Tsinghua University
       year: 2026
-    - course: Bachelor's Degree
-      institution: Beijing University of Posts and Telecommunications
-      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -79,8 +75,5 @@ user_groups:
   - Ph.D.＆M.S. Students
 ---
 
-Chenlong Wang is a PhD student at Tsinghua University, specializing in brain-computer interface research. He received his bachelor's degree from Beijing University of Posts and Telecommunications and his master's degree from Tsinghua University.
-
-His research focuses on developing advanced brain-computer interface systems, neural signal processing algorithms, and neurotechnology applications. He is particularly interested in creating innovative solutions that bridge the gap between neural activity and external devices, with applications in medical rehabilitation and human augmentation.
-
-Chenlong has a strong background in both engineering and neuroscience, combining technical expertise with deep understanding of neural mechanisms to advance the field of brain-computer interfaces.
+Langning Dai is a PhD student at Tsinghua University, interested in brain-computer interface (BCI) and neuroscience. He received his bachelor’s degree from Weixian College, Tsinghua University.
+Langning has a background in biomedical engineering and an interdisciplinary engineering mindset. His research focus on developing BCI system and its application to studying neuron activity, brain circuits and networks. He also aims at signal acquisition and analysis, exploring rehabilitation mechanisms and modulation through novel BCIs. 
