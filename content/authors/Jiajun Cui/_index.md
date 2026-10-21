@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Jiajun Cai
+title: Jiajun Cui
 
 # Full name (for SEO)
 first_name: Jiajun
-last_name: Cai
+last_name: Cui
 sequence_weight: 4
 
 # Username (this should match the folder name)
 authors:
-  - Jiajun Cai
+  - Jiajun Cui
 
 # Is this the primary user of the site?
 superuser: false
