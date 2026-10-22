@@ -1,13 +1,13 @@
 ---
-title: NHP Co-Principal Investigator
+title: NHP Research Technician – Animal Handling & Behavioral Training
 weight: 1
 date: 2026-10-22
 share: false
 categories: ["NHP"]
 ---
 <!--more-->
-Location: i-BRAIN, Shenzhen
-Employment Type: Full-time
+**Location: i-BRAIN, Shenzhen**<br>
+**Employment Type: Full-time**
 
 ## Position Summary
 We are seeking a skilled and motivated full-time research technician to support non-human primate (NHP) research at i-BRAIN. The position focuses on daily NHP handling, acclimatization to primate chairs, and basic motor behavioral training and testing using touchscreen and/or joystick-based tasks, **where rhesus macaque monkeys (Macaca mulatta) will be the primary test subjects**. The successful candidate will work closely with researchers and animal facility personnel to support consistent, well-documented behavioral experiments.
