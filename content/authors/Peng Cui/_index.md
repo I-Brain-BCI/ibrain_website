@@ -5,7 +5,7 @@ title: Peng Cui
 # Full name (for SEO)
 first_name: Peng
 last_name: Cui
-sequence_weight: 5
+sequence_weight: 6
 
 # Username (this should match the folder name)
 authors:

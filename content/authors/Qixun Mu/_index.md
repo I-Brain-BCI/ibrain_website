@@ -1,22 +1,22 @@
 ---
 # Display name
-title: Yitong Yan
+title: Qixun Mu
 
 # Full name (for SEO)
-first_name: Yitong
-last_name: Yan
-sequence_weight: 2
+first_name: Qixun
+last_name: Mu
+sequence_weight: 3
 
 # Username (this should match the folder name)
 authors:
-  - Yitong Yan
+  - Qixun Mu
 
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Senior Engineer for DUV Lithography
+role: Equipment Engineer
 
 
 
