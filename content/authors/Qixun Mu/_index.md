@@ -5,7 +5,7 @@ title: Qixun Mu
 # Full name (for SEO)
 first_name: Qixun
 last_name: Mu
-sequence_weight: 3
+sequence_weight: 6
 
 # Username (this should match the folder name)
 authors:

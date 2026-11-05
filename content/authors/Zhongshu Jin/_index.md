@@ -5,7 +5,7 @@ title: Zhongshu Jin
 # Full name (for SEO)
 first_name: Zhongshu
 last_name: Jin
-sequence_weight: 4
+sequence_weight: 3
 
 # Username (this should match the folder name)
 authors:
