@@ -1,5 +1,5 @@
 ---
-title: Postdoctoral Researcher - High-Resolution Brain and Brain-BCI Optical Imaging
+title: Postdoctoral Researcher(High-Resolution Brain and Brain-BCI Optical Imaging)
 weight: 2
 date: 2026-11-20
 share: false
