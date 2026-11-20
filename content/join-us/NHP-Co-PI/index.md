@@ -1,6 +1,6 @@
 ---
 title: NHP Co-Principal Investigator
-weight: 2
+weight: 1
 date: 2025-10-23
 share: false
 categories: ["NHP"]
