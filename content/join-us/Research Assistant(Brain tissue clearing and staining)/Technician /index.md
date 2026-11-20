@@ -1,5 +1,5 @@
 ---
-title: Research Assistant/Technician(Brain tissue clearing and staining)
+title: Research Assistant/Technician - Brain tissue clearing and staining
 weight: 5
 date: 2026-11-20
 share: false
